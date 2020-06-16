@@ -1,0 +1,18 @@
+Begin Time - hh:mm:ss.ms	Begin Time - ss.msec	End Time - hh:mm:ss.ms	End Time - ss.msec	Duration - hh:mm:ss.ms	Duration - ss.msec	REF-ID	Phonetic Transcription	Orthographic Transcription	Translation	
+00:00:13.650	13.65	00:00:18.290	18.29	00:00:04.640	4.64	2020-03-06_Hadza_North_Wind_and_Sun_Story_01		Kwami zzutchibisa sandzako a ishoko guguruwakee 	
+00:00:18.420	18.42	00:00:21.120	21.12	00:00:02.700	2.7	2020-03-06_Hadza_North_Wind_and_Sun_Story_02		akwazaha urubite paana 	
+00:00:21.480	21.48	00:00:26.430	26.43	00:00:04.950	4.95	2020-03-06_Hadza_North_Wind_and_Sun_Story_03		iitlikwa hama kwamo sluba dloa ncaphane kamo quyu	
+00:00:26.890	26.89	00:00:28.090	28.09	00:00:01.200	1.2	2020-03-06_Hadza_North_Wind_and_Sun_Story_04		Kitcha dlozo	
+00:00:28.265	28.265	00:00:29.195	29.195	00:00:00.930	0.93	2020-03-06_Hadza_North_Wind_and_Sun_Story_05		hishina	
+00:00:29.270	29.27	00:00:30.980	30.98	00:00:01.710	1.71	2020-03-06_Hadza_North_Wind_and_Sun_Story_06		hama kweso gumia	
+00:00:31.020	31.02	00:00:33.910	33.91	00:00:02.890	2.89	2020-03-06_Hadza_North_Wind_and_Sun_Story_07		so hiqqema dloa hama unu	
+00:00:34.000	34.0	00:00:36.130	36.13	00:00:02.130	2.13	2020-03-06_Hadza_North_Wind_and_Sun_Story_08		bami eheya urubite	
+00:00:36.490	36.49	00:00:41.630	41.63	00:00:05.140	5.14	2020-03-06_Hadza_North_Wind_and_Sun_Story_09		Zzutchibisa Sanzako kitcha phoya paana nena urubee	
+00:00:41.804	41.804	00:00:43.354	43.354	00:00:01.550	1.55	2020-03-06_Hadza_North_Wind_and_Sun_Story_10		kwami phoyeehe	
+00:00:43.480	43.48	00:00:48.410	48.41	00:00:04.930	4.93	2020-03-06_Hadza_North_Wind_and_Sun_Story_11		paana bami unu kamo thaana dloa mtana	
+00:00:48.650	48.65	00:00:53.040	53.04	00:00:04.390	4.39	2020-03-06_Hadza_North_Wind_and_Sun_Story_12		Beena kitcha zzutchibisa sanzako thaya phoyatcha	
+00:00:53.380	53.38	00:00:57.450	57.45	00:00:04.070	4.07	2020-03-06_Hadza_North_Wind_and_Sun_Story_13		Atonena Ishoko kota bexxe nena petenê	
+00:00:57.580	57.58	00:00:58.500	58.5	00:00:00.920	0.92	2020-03-06_Hadza_North_Wind_and_Sun_Story_14		beena 	
+00:00:58.590	58.59	00:01:01.630	61.63	00:00:03.040	3.04	2020-03-06_Hadza_North_Wind_and_Sun_Story_15		bami unu kamo zzuana dloa	
+00:01:01.740	61.74	00:01:05.290	65.29	00:00:03.550	3.55	2020-03-06_Hadza_North_Wind_and_Sun_Story_16		Hishina zzutchibisa Sanzako kitcha tethao	
+00:01:05.390	65.39	00:01:10.160	70.16	00:00:04.770	4.77	2020-03-06_Hadza_North_Wind_and_Sun_Story_17		Ishoko urubitieakwa paana xhaanayeta	

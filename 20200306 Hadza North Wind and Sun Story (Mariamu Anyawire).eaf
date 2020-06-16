@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-06-16T14:44:59+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-06-16T14:47:00+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/richard/Dropbox/GitHub Repos/MEDIA/Hadza - Illustration of the IPA/North Wind and the Sun Story/20200306 Hadza North Wind and Sun Story (Mariamu Anyawire).wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../MEDIA/Hadza - Illustration of the IPA/North Wind and the Sun Story/20200306 Hadza North Wind and Sun Story (Mariamu Anyawire).wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:fa6bd1e5-72e7-4dd0-a47c-1a749684fd80</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">714</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">765</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="13650"/>
@@ -44,93 +44,351 @@
     <TIER LINGUISTIC_TYPE_REF="REF-ID" TIER_ID="REF-ID">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a698" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>Kwami zzutchibisa sandzako a ishoko guguruwakee </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_01</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a699" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>akwazaha urubite paana </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_02</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a700" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>iitlikwa hama kwamo sluba dloa ncaphane kamo quyu</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_03</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a701" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>Kitcha dlozo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_04</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a702" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
-                <ANNOTATION_VALUE>hishina</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_05</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a703" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
-                <ANNOTATION_VALUE>hama kweso gumia</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_06</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a704" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>so hiqqema dloa hama unu</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_07</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a705" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>bami eheya urubite</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_08</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a706" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
-                <ANNOTATION_VALUE>Zzutchibisa Sanzako kitcha phoya paana nena urubee</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_09</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a707" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>kwami phoyeehe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_10</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a708" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
-                <ANNOTATION_VALUE>paana bami unu kamo thaana dloa mtana</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_11</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a709" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>Beena kitcha zzutchibisa sanzako thaya phoyatcha</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_12</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a710" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>Atonena Ishoko kota bexxe nena petenê</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_13</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a711" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
-                <ANNOTATION_VALUE>beena </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_14</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a712" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>bami unu kamo zzuana dloa</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_15</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a713" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>Hishina zzutchibisa Sanzako kitcha tethao</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_16</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a714" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE>Ishoko urubitieakwa paana xhaanayeta</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2020-03-06_Hadza_North_Wind_and_Sun_Story_17</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="Richard Griscom" LINGUISTIC_TYPE_REF="Transcription" PARENT_REF="REF-ID" TIER_ID="Phonetic Transcription"/>
-    <TIER LINGUISTIC_TYPE_REF="Transcription" PARENT_REF="REF-ID" TIER_ID="Orthographic Transcription"/>
-    <TIER LINGUISTIC_TYPE_REF="Translation" PARENT_REF="REF-ID" TIER_ID="Translation"/>
+    <TIER ANNOTATOR="Richard Griscom" LINGUISTIC_TYPE_REF="Transcription" PARENT_REF="REF-ID" TIER_ID="Phonetic Transcription">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a715" ANNOTATION_REF="a698">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a716" ANNOTATION_REF="a699">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a717" ANNOTATION_REF="a700">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a718" ANNOTATION_REF="a701">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a719" ANNOTATION_REF="a702">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a720" ANNOTATION_REF="a703">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a721" ANNOTATION_REF="a704">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a722" ANNOTATION_REF="a705">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a723" ANNOTATION_REF="a706">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a724" ANNOTATION_REF="a707">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a725" ANNOTATION_REF="a708">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a726" ANNOTATION_REF="a709">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a727" ANNOTATION_REF="a710">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a728" ANNOTATION_REF="a711">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a729" ANNOTATION_REF="a712">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a730" ANNOTATION_REF="a713">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a731" ANNOTATION_REF="a714">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Transcription" PARENT_REF="REF-ID" TIER_ID="Orthographic Transcription">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a732" ANNOTATION_REF="a698">
+                <ANNOTATION_VALUE>Kwami zzutchibisa sandzako a ishoko guguruwakee </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a733" ANNOTATION_REF="a699">
+                <ANNOTATION_VALUE>akwazaha urubite paana </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a734" ANNOTATION_REF="a700">
+                <ANNOTATION_VALUE>iitlikwa hama kwamo sluba dloa ncaphane kamo quyu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a735" ANNOTATION_REF="a701">
+                <ANNOTATION_VALUE>Kitcha dlozo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a736" ANNOTATION_REF="a702">
+                <ANNOTATION_VALUE>hishina</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a737" ANNOTATION_REF="a703">
+                <ANNOTATION_VALUE>hama kweso gumia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a738" ANNOTATION_REF="a704">
+                <ANNOTATION_VALUE>so hiqqema dloa hama unu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a739" ANNOTATION_REF="a705">
+                <ANNOTATION_VALUE>bami eheya urubite</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a740" ANNOTATION_REF="a706">
+                <ANNOTATION_VALUE>Zzutchibisa Sanzako kitcha phoya paana nena urubee</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a741" ANNOTATION_REF="a707">
+                <ANNOTATION_VALUE>kwami phoyeehe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a742" ANNOTATION_REF="a708">
+                <ANNOTATION_VALUE>paana bami unu kamo thaana dloa mtana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a743" ANNOTATION_REF="a709">
+                <ANNOTATION_VALUE>Beena kitcha zzutchibisa sanzako thaya phoyatcha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a744" ANNOTATION_REF="a710">
+                <ANNOTATION_VALUE>Atonena Ishoko kota bexxe nena petenê</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a745" ANNOTATION_REF="a711">
+                <ANNOTATION_VALUE>beena </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a746" ANNOTATION_REF="a712">
+                <ANNOTATION_VALUE>bami unu kamo zzuana dloa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a747" ANNOTATION_REF="a713">
+                <ANNOTATION_VALUE>Hishina zzutchibisa Sanzako kitcha tethao</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a748" ANNOTATION_REF="a714">
+                <ANNOTATION_VALUE>Ishoko urubitieakwa paana xhaanayeta</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Translation" PARENT_REF="REF-ID" TIER_ID="Translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a749" ANNOTATION_REF="a698">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a750" ANNOTATION_REF="a699">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a751" ANNOTATION_REF="a700">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a752" ANNOTATION_REF="a701">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a753" ANNOTATION_REF="a702">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a754" ANNOTATION_REF="a703">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a755" ANNOTATION_REF="a704">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a756" ANNOTATION_REF="a705">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a757" ANNOTATION_REF="a706">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a758" ANNOTATION_REF="a707">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a759" ANNOTATION_REF="a708">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a760" ANNOTATION_REF="a709">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a761" ANNOTATION_REF="a710">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a762" ANNOTATION_REF="a711">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a763" ANNOTATION_REF="a712">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a764" ANNOTATION_REF="a713">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a765" ANNOTATION_REF="a714">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="REF-ID" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Transcription" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Translation" TIME_ALIGNABLE="false"/>

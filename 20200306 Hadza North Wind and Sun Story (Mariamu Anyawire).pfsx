@@ -4,12 +4,15 @@
     <pref key="FrameSize">
         <Object class="java.awt.Dimension">1360,768</Object>
     </pref>
-    <pref key="FrameLocation">
-        <Object class="java.awt.Point">1920,0</Object>
-    </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
     </pref>
+    <prefList key="ExportPraatDialog.selectedTiers">
+        <String>REF-ID</String>
+        <String>Phonetic Transcription</String>
+        <String>Orthographic Transcription</String>
+        <String>Translation</String>
+    </prefList>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>7</Int>
     </pref>
@@ -22,6 +25,91 @@
     <pref key="MultiTierViewer.ActiveTierName">
         <String>REF-ID</String>
     </pref>
+    <pref key="ExportPraatDialog.SelectTiersMode">
+        <String>Tier</String>
+    </pref>
+    <pref key="ExportTabDialog.SelectTiersMode">
+        <String>Tier</String>
+    </pref>
+    <prefList key="ExportTabDialog.TierOrder">
+        <String>REF-ID</String>
+        <String>Phonetic Transcription</String>
+        <String>Orthographic Transcription</String>
+        <String>Translation</String>
+    </prefList>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Sender">
+            <Int>0</Int>
+        </pref>
+        <pref key="Comment">
+            <Int>75</Int>
+        </pref>
+        <pref key="Creation Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Tier">
+            <Int>75</Int>
+        </pref>
+        <pref key="Modification Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Recipient">
+            <Int>0</Int>
+        </pref>
+        <pref key="Start Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Initials">
+            <Int>75</Int>
+        </pref>
+        <pref key="End Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <prefList key="ExportTabDialog.selectedTiers">
+        <String>REF-ID</String>
+        <String>Phonetic Transcription</String>
+        <String>Orthographic Transcription</String>
+        <String>Translation</String>
+    </prefList>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Start Time</String>
+        <String>End Time</String>
+        <String>Tier</String>
+        <String>Initials</String>
+        <String>Comment</String>
+        <String>Thread</String>
+        <String>Sender</String>
+        <String>Recipient</String>
+        <String>Creation Date</String>
+        <String>Modification Date</String>
+    </prefList>
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
+    </pref>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">1920,0</Object>
+    </pref>
+    <prefList key="ExportPraatDialog.TierOrder">
+        <String>REF-ID</String>
+        <String>Phonetic Transcription</String>
+        <String>Orthographic Transcription</String>
+        <String>Translation</String>
+    </prefList>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>///home/richard/Dropbox/GitHub Repos/MEDIA/Hadza - Illustration of the IPA/North Wind and the Sun Story/20200306 Hadza North Wind and Sun Story (Mariamu Anyawire).wav</String>
+        </pref>
+    </prefGroup>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <prefGroup key="TierColors">
         <pref key="REF-ID">
@@ -37,7 +125,13 @@
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>91</Int>
     </pref>
-    <pref key="LayoutManager.CurrentMode">
-        <Int>1</Int>
+    <prefList key="ExportPraatDialog.HiddenTiers"/>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Recipient</String>
+    </prefList>
+    <pref key="SegmentationManager.SelectedTabIndex">
+        <Int>0</Int>
     </pref>
+    <prefList key="ExportTabDialog.HiddenTiers"/>
 </preferences>

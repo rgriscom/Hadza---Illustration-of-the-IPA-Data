@@ -1,0 +1,592 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 72.378
+tiers? <exists>
+size = 4
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "REF-ID"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 35
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 18.29
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_01"
+        intervals [3]
+            xmin = 18.29
+            xmax = 18.42
+            text = ""
+        intervals [4]
+            xmin = 18.42
+            xmax = 21.12
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_02"
+        intervals [5]
+            xmin = 21.12
+            xmax = 21.48
+            text = ""
+        intervals [6]
+            xmin = 21.48
+            xmax = 26.43
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_03"
+        intervals [7]
+            xmin = 26.43
+            xmax = 26.89
+            text = ""
+        intervals [8]
+            xmin = 26.89
+            xmax = 28.09
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_04"
+        intervals [9]
+            xmin = 28.09
+            xmax = 28.265
+            text = ""
+        intervals [10]
+            xmin = 28.265
+            xmax = 29.195
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_05"
+        intervals [11]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [12]
+            xmin = 29.27
+            xmax = 30.98
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_06"
+        intervals [13]
+            xmin = 30.98
+            xmax = 31.02
+            text = ""
+        intervals [14]
+            xmin = 31.02
+            xmax = 33.91
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_07"
+        intervals [15]
+            xmin = 33.91
+            xmax = 34.0
+            text = ""
+        intervals [16]
+            xmin = 34.0
+            xmax = 36.13
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_08"
+        intervals [17]
+            xmin = 36.13
+            xmax = 36.49
+            text = ""
+        intervals [18]
+            xmin = 36.49
+            xmax = 41.63
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_09"
+        intervals [19]
+            xmin = 41.63
+            xmax = 41.804
+            text = ""
+        intervals [20]
+            xmin = 41.804
+            xmax = 43.354
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_10"
+        intervals [21]
+            xmin = 43.354
+            xmax = 43.48
+            text = ""
+        intervals [22]
+            xmin = 43.48
+            xmax = 48.41
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_11"
+        intervals [23]
+            xmin = 48.41
+            xmax = 48.65
+            text = ""
+        intervals [24]
+            xmin = 48.65
+            xmax = 53.04
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_12"
+        intervals [25]
+            xmin = 53.04
+            xmax = 53.38
+            text = ""
+        intervals [26]
+            xmin = 53.38
+            xmax = 57.45
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_13"
+        intervals [27]
+            xmin = 57.45
+            xmax = 57.58
+            text = ""
+        intervals [28]
+            xmin = 57.58
+            xmax = 58.5
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_14"
+        intervals [29]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [30]
+            xmin = 58.59
+            xmax = 61.63
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_15"
+        intervals [31]
+            xmin = 61.63
+            xmax = 61.74
+            text = ""
+        intervals [32]
+            xmin = 61.74
+            xmax = 65.29
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_16"
+        intervals [33]
+            xmin = 65.29
+            xmax = 65.39
+            text = ""
+        intervals [34]
+            xmin = 65.39
+            xmax = 70.16
+            text = "2020-03-06_Hadza_North_Wind_and_Sun_Story_17"
+        intervals [35]
+            xmin = 70.16
+            xmax = 72.378
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "Phonetic Transcription"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 35
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 18.29
+            text = ""
+        intervals [3]
+            xmin = 18.29
+            xmax = 18.42
+            text = ""
+        intervals [4]
+            xmin = 18.42
+            xmax = 21.12
+            text = ""
+        intervals [5]
+            xmin = 21.12
+            xmax = 21.48
+            text = ""
+        intervals [6]
+            xmin = 21.48
+            xmax = 26.43
+            text = ""
+        intervals [7]
+            xmin = 26.43
+            xmax = 26.89
+            text = ""
+        intervals [8]
+            xmin = 26.89
+            xmax = 28.09
+            text = ""
+        intervals [9]
+            xmin = 28.09
+            xmax = 28.265
+            text = ""
+        intervals [10]
+            xmin = 28.265
+            xmax = 29.195
+            text = ""
+        intervals [11]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [12]
+            xmin = 29.27
+            xmax = 30.98
+            text = ""
+        intervals [13]
+            xmin = 30.98
+            xmax = 31.02
+            text = ""
+        intervals [14]
+            xmin = 31.02
+            xmax = 33.91
+            text = ""
+        intervals [15]
+            xmin = 33.91
+            xmax = 34.0
+            text = ""
+        intervals [16]
+            xmin = 34.0
+            xmax = 36.13
+            text = ""
+        intervals [17]
+            xmin = 36.13
+            xmax = 36.49
+            text = ""
+        intervals [18]
+            xmin = 36.49
+            xmax = 41.63
+            text = ""
+        intervals [19]
+            xmin = 41.63
+            xmax = 41.804
+            text = ""
+        intervals [20]
+            xmin = 41.804
+            xmax = 43.354
+            text = ""
+        intervals [21]
+            xmin = 43.354
+            xmax = 43.48
+            text = ""
+        intervals [22]
+            xmin = 43.48
+            xmax = 48.41
+            text = ""
+        intervals [23]
+            xmin = 48.41
+            xmax = 48.65
+            text = ""
+        intervals [24]
+            xmin = 48.65
+            xmax = 53.04
+            text = ""
+        intervals [25]
+            xmin = 53.04
+            xmax = 53.38
+            text = ""
+        intervals [26]
+            xmin = 53.38
+            xmax = 57.45
+            text = ""
+        intervals [27]
+            xmin = 57.45
+            xmax = 57.58
+            text = ""
+        intervals [28]
+            xmin = 57.58
+            xmax = 58.5
+            text = ""
+        intervals [29]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [30]
+            xmin = 58.59
+            xmax = 61.63
+            text = ""
+        intervals [31]
+            xmin = 61.63
+            xmax = 61.74
+            text = ""
+        intervals [32]
+            xmin = 61.74
+            xmax = 65.29
+            text = ""
+        intervals [33]
+            xmin = 65.29
+            xmax = 65.39
+            text = ""
+        intervals [34]
+            xmin = 65.39
+            xmax = 70.16
+            text = ""
+        intervals [35]
+            xmin = 70.16
+            xmax = 72.378
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "Orthographic Transcription"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 35
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 18.29
+            text = "Kwami zzutchibisa sandzako a ishoko guguruwakee "
+        intervals [3]
+            xmin = 18.29
+            xmax = 18.42
+            text = ""
+        intervals [4]
+            xmin = 18.42
+            xmax = 21.12
+            text = "akwazaha urubite paana "
+        intervals [5]
+            xmin = 21.12
+            xmax = 21.48
+            text = ""
+        intervals [6]
+            xmin = 21.48
+            xmax = 26.43
+            text = "iitlikwa hama kwamo sluba dloa ncaphane kamo quyu"
+        intervals [7]
+            xmin = 26.43
+            xmax = 26.89
+            text = ""
+        intervals [8]
+            xmin = 26.89
+            xmax = 28.09
+            text = "Kitcha dlozo"
+        intervals [9]
+            xmin = 28.09
+            xmax = 28.265
+            text = ""
+        intervals [10]
+            xmin = 28.265
+            xmax = 29.195
+            text = "hishina"
+        intervals [11]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [12]
+            xmin = 29.27
+            xmax = 30.98
+            text = "hama kweso gumia"
+        intervals [13]
+            xmin = 30.98
+            xmax = 31.02
+            text = ""
+        intervals [14]
+            xmin = 31.02
+            xmax = 33.91
+            text = "so hiqqema dloa hama unu"
+        intervals [15]
+            xmin = 33.91
+            xmax = 34.0
+            text = ""
+        intervals [16]
+            xmin = 34.0
+            xmax = 36.13
+            text = "bami eheya urubite"
+        intervals [17]
+            xmin = 36.13
+            xmax = 36.49
+            text = ""
+        intervals [18]
+            xmin = 36.49
+            xmax = 41.63
+            text = "Zzutchibisa Sanzako kitcha phoya paana nena urubee"
+        intervals [19]
+            xmin = 41.63
+            xmax = 41.804
+            text = ""
+        intervals [20]
+            xmin = 41.804
+            xmax = 43.354
+            text = "kwami phoyeehe"
+        intervals [21]
+            xmin = 43.354
+            xmax = 43.48
+            text = ""
+        intervals [22]
+            xmin = 43.48
+            xmax = 48.41
+            text = "paana bami unu kamo thaana dloa mtana"
+        intervals [23]
+            xmin = 48.41
+            xmax = 48.65
+            text = ""
+        intervals [24]
+            xmin = 48.65
+            xmax = 53.04
+            text = "Beena kitcha zzutchibisa sanzako thaya phoyatcha"
+        intervals [25]
+            xmin = 53.04
+            xmax = 53.38
+            text = ""
+        intervals [26]
+            xmin = 53.38
+            xmax = 57.45
+            text = "Atonena Ishoko kota bexxe nena petenê"
+        intervals [27]
+            xmin = 57.45
+            xmax = 57.58
+            text = ""
+        intervals [28]
+            xmin = 57.58
+            xmax = 58.5
+            text = "beena "
+        intervals [29]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [30]
+            xmin = 58.59
+            xmax = 61.63
+            text = "bami unu kamo zzuana dloa"
+        intervals [31]
+            xmin = 61.63
+            xmax = 61.74
+            text = ""
+        intervals [32]
+            xmin = 61.74
+            xmax = 65.29
+            text = "Hishina zzutchibisa Sanzako kitcha tethao"
+        intervals [33]
+            xmin = 65.29
+            xmax = 65.39
+            text = ""
+        intervals [34]
+            xmin = 65.39
+            xmax = 70.16
+            text = "Ishoko urubitieakwa paana xhaanayeta"
+        intervals [35]
+            xmin = 70.16
+            xmax = 72.378
+            text = ""
+    item[4]:
+        class = "IntervalTier"
+        name = "Translation"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 35
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 18.29
+            text = ""
+        intervals [3]
+            xmin = 18.29
+            xmax = 18.42
+            text = ""
+        intervals [4]
+            xmin = 18.42
+            xmax = 21.12
+            text = ""
+        intervals [5]
+            xmin = 21.12
+            xmax = 21.48
+            text = ""
+        intervals [6]
+            xmin = 21.48
+            xmax = 26.43
+            text = ""
+        intervals [7]
+            xmin = 26.43
+            xmax = 26.89
+            text = ""
+        intervals [8]
+            xmin = 26.89
+            xmax = 28.09
+            text = ""
+        intervals [9]
+            xmin = 28.09
+            xmax = 28.265
+            text = ""
+        intervals [10]
+            xmin = 28.265
+            xmax = 29.195
+            text = ""
+        intervals [11]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [12]
+            xmin = 29.27
+            xmax = 30.98
+            text = ""
+        intervals [13]
+            xmin = 30.98
+            xmax = 31.02
+            text = ""
+        intervals [14]
+            xmin = 31.02
+            xmax = 33.91
+            text = ""
+        intervals [15]
+            xmin = 33.91
+            xmax = 34.0
+            text = ""
+        intervals [16]
+            xmin = 34.0
+            xmax = 36.13
+            text = ""
+        intervals [17]
+            xmin = 36.13
+            xmax = 36.49
+            text = ""
+        intervals [18]
+            xmin = 36.49
+            xmax = 41.63
+            text = ""
+        intervals [19]
+            xmin = 41.63
+            xmax = 41.804
+            text = ""
+        intervals [20]
+            xmin = 41.804
+            xmax = 43.354
+            text = ""
+        intervals [21]
+            xmin = 43.354
+            xmax = 43.48
+            text = ""
+        intervals [22]
+            xmin = 43.48
+            xmax = 48.41
+            text = ""
+        intervals [23]
+            xmin = 48.41
+            xmax = 48.65
+            text = ""
+        intervals [24]
+            xmin = 48.65
+            xmax = 53.04
+            text = ""
+        intervals [25]
+            xmin = 53.04
+            xmax = 53.38
+            text = ""
+        intervals [26]
+            xmin = 53.38
+            xmax = 57.45
+            text = ""
+        intervals [27]
+            xmin = 57.45
+            xmax = 57.58
+            text = ""
+        intervals [28]
+            xmin = 57.58
+            xmax = 58.5
+            text = ""
+        intervals [29]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [30]
+            xmin = 58.59
+            xmax = 61.63
+            text = ""
+        intervals [31]
+            xmin = 61.63
+            xmax = 61.74
+            text = ""
+        intervals [32]
+            xmin = 61.74
+            xmax = 65.29
+            text = ""
+        intervals [33]
+            xmin = 65.29
+            xmax = 65.39
+            text = ""
+        intervals [34]
+            xmin = 65.39
+            xmax = 70.16
+            text = ""
+        intervals [35]
+            xmin = 70.16
+            xmax = 72.378
+            text = ""
