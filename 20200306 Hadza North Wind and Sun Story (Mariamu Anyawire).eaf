@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-06-16T14:44:59+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/richard/Dropbox/GitHub Repos/MEDIA/Hadza - Illustration of the IPA/North Wind and the Sun Story/20200306 Hadza North Wind and Sun Story (Mariamu Anyawire).wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../MEDIA/Hadza - Illustration of the IPA/North Wind and the Sun Story/20200306 Hadza North Wind and Sun Story (Mariamu Anyawire).wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:fa6bd1e5-72e7-4dd0-a47c-1a749684fd80</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">714</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="13650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="18290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="18420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="21120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="21480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="26430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="26890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="28090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="28265"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="29195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="29270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="30980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="31020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="33910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="34000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="36130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="36490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="41630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="41804"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="43354"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="43480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="48410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="48650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="53040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="53380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="57450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="57580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="58500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="58590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="61630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="61740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="65290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="65390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="70160"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="REF-ID" TIER_ID="REF-ID">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a698" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Kwami zzutchibisa sandzako a ishoko guguruwakee </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a699" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>akwazaha urubite paana </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a700" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>iitlikwa hama kwamo sluba dloa ncaphane kamo quyu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a701" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Kitcha dlozo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a702" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>hishina</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a703" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>hama kweso gumia</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a704" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>so hiqqema dloa hama unu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a705" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>bami eheya urubite</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a706" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Zzutchibisa Sanzako kitcha phoya paana nena urubee</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a707" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>kwami phoyeehe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a708" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>paana bami unu kamo thaana dloa mtana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a709" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Beena kitcha zzutchibisa sanzako thaya phoyatcha</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a710" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Atonena Ishoko kota bexxe nena petenê</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a711" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>beena </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a712" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>bami unu kamo zzuana dloa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a713" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Hishina zzutchibisa Sanzako kitcha tethao</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a714" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Ishoko urubitieakwa paana xhaanayeta</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Richard Griscom" LINGUISTIC_TYPE_REF="Transcription" PARENT_REF="REF-ID" TIER_ID="Phonetic Transcription"/>
+    <TIER LINGUISTIC_TYPE_REF="Transcription" PARENT_REF="REF-ID" TIER_ID="Orthographic Transcription"/>
+    <TIER LINGUISTIC_TYPE_REF="Translation" PARENT_REF="REF-ID" TIER_ID="Translation"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="REF-ID" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Translation" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
