@@ -1,0 +1,782 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = -0 
+xmax = 968.117625 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "labels" 
+        xmin = -0 
+        xmax = 968.117625 
+        intervals: size = 192 
+        intervals [1]:
+            xmin = -0 
+            xmax = 3.1915625 
+            text = "20200303_RGc__mono__1" 
+        intervals [2]:
+            xmin = 3.1915625 
+            xmax = 9.7930625 
+            text = "20200303_RGc__mono__10" 
+        intervals [3]:
+            xmin = 9.7930625 
+            xmax = 16.553562499999998 
+            text = "20200303_RGc__mono__100" 
+        intervals [4]:
+            xmin = 16.553562499999998 
+            xmax = 20.5588125 
+            text = "20200303_RGc__mono__101" 
+        intervals [5]:
+            xmin = 20.5588125 
+            xmax = 26.040062499999998 
+            text = "20200303_RGc__mono__102" 
+        intervals [6]:
+            xmin = 26.040062499999998 
+            xmax = 30.734125 
+            text = "20200303_RGc__mono__103" 
+        intervals [7]:
+            xmin = 30.734125 
+            xmax = 35.610125 
+            text = "20200303_RGc__mono__104" 
+        intervals [8]:
+            xmin = 35.610125 
+            xmax = 39.467749999999995 
+            text = "20200303_RGc__mono__105" 
+        intervals [9]:
+            xmin = 39.467749999999995 
+            xmax = 45.1458125 
+            text = "20200303_RGc__mono__106" 
+        intervals [10]:
+            xmin = 45.1458125 
+            xmax = 49.0526875 
+            text = "20200303_RGc__mono__107" 
+        intervals [11]:
+            xmin = 49.0526875 
+            xmax = 55.3211875 
+            text = "20200303_RGc__mono__108" 
+        intervals [12]:
+            xmin = 55.3211875 
+            xmax = 59.670875 
+            text = "20200303_RGc__mono__109" 
+        intervals [13]:
+            xmin = 59.670875 
+            xmax = 63.5774375 
+            text = "20200303_RGc__mono__11" 
+        intervals [14]:
+            xmin = 63.5774375 
+            xmax = 70.2395 
+            text = "20200303_RGc__mono__110" 
+        intervals [15]:
+            xmin = 70.2395 
+            xmax = 74.73675 
+            text = "20200303_RGc__mono__111" 
+        intervals [16]:
+            xmin = 74.73675 
+            xmax = 81.0544375 
+            text = "20200303_RGc__mono__112" 
+        intervals [17]:
+            xmin = 81.0544375 
+            xmax = 84.76450000000001 
+            text = "20200303_RGc__mono__113" 
+        intervals [18]:
+            xmin = 84.76450000000001 
+            xmax = 91.32818750000001 
+            text = "20200303_RGc__mono__114" 
+        intervals [19]:
+            xmin = 91.32818750000001 
+            xmax = 95.67787500000001 
+            text = "20200303_RGc__mono__115" 
+        intervals [20]:
+            xmin = 95.67787500000001 
+            xmax = 102.48756250000001 
+            text = "20200303_RGc__mono__116" 
+        intervals [21]:
+            xmin = 102.48756250000001 
+            xmax = 106.54200000000002 
+            text = "20200303_RGc__mono__117" 
+        intervals [22]:
+            xmin = 106.54200000000002 
+            xmax = 113.54850000000002 
+            text = "20200303_RGc__mono__118" 
+        intervals [23]:
+            xmin = 113.54850000000002 
+            xmax = 116.71731250000002 
+            text = "20200303_RGc__mono__119" 
+        intervals [24]:
+            xmin = 116.71731250000002 
+            xmax = 123.24550000000002 
+            text = "20200303_RGc__mono__12" 
+        intervals [25]:
+            xmin = 123.24550000000002 
+            xmax = 128.67756250000002 
+            text = "20200303_RGc__mono__120" 
+        intervals [26]:
+            xmin = 128.67756250000002 
+            xmax = 132.24 
+            text = "20200303_RGc__mono__121" 
+        intervals [27]:
+            xmin = 132.24 
+            xmax = 137.6720625 
+            text = "20200303_RGc__mono__122" 
+        intervals [28]:
+            xmin = 137.6720625 
+            xmax = 141.332875 
+            text = "20200303_RGc__mono__123" 
+        intervals [29]:
+            xmin = 141.332875 
+            xmax = 147.1585625 
+            text = "20200303_RGc__mono__124" 
+        intervals [30]:
+            xmin = 147.1585625 
+            xmax = 151.0654375 
+            text = "20200303_RGc__mono__125" 
+        intervals [31]:
+            xmin = 151.0654375 
+            xmax = 156.7926875 
+            text = "20200303_RGc__mono__126" 
+        intervals [32]:
+            xmin = 156.7926875 
+            xmax = 160.74875 
+            text = "20200303_RGc__mono__127" 
+        intervals [33]:
+            xmin = 160.74875 
+            xmax = 167.3124375 
+            text = "20200303_RGc__mono__128" 
+        intervals [34]:
+            xmin = 167.3124375 
+            xmax = 171.0716875 
+            text = "20200303_RGc__mono__129" 
+        intervals [35]:
+            xmin = 171.0716875 
+            xmax = 174.86068749999998 
+            text = "20200303_RGc__mono__13" 
+        intervals [36]:
+            xmin = 174.86068749999998 
+            xmax = 181.03074999999998 
+            text = "20200303_RGc__mono__130" 
+        intervals [37]:
+            xmin = 181.03074999999998 
+            xmax = 184.58274999999998 
+            text = "20200303_RGc__mono__131" 
+        intervals [38]:
+            xmin = 184.58274999999998 
+            xmax = 190.50681249999997 
+            text = "20200303_RGc__mono__132" 
+        intervals [39]:
+            xmin = 190.50681249999997 
+            xmax = 194.46287499999997 
+            text = "20200303_RGc__mono__133" 
+        intervals [40]:
+            xmin = 194.46287499999997 
+            xmax = 203.38818749999996 
+            text = "20200303_RGc__mono__134" 
+        intervals [41]:
+            xmin = 203.38818749999996 
+            xmax = 206.90143749999996 
+            text = "20200303_RGc__mono__135" 
+        intervals [42]:
+            xmin = 206.90143749999996 
+            xmax = 215.38393749999994 
+            text = "20200303_RGc__mono__136" 
+        intervals [43]:
+            xmin = 215.38393749999994 
+            xmax = 219.19237499999994 
+            text = "20200303_RGc__mono__137" 
+        intervals [44]:
+            xmin = 219.19237499999994 
+            xmax = 226.93687499999993 
+            text = "20200303_RGc__mono__138" 
+        intervals [45]:
+            xmin = 226.93687499999993 
+            xmax = 230.30249999999992 
+            text = "20200303_RGc__mono__139" 
+        intervals [46]:
+            xmin = 230.30249999999992 
+            xmax = 235.62793749999992 
+            text = "20200303_RGc__mono__14" 
+        intervals [47]:
+            xmin = 235.62793749999992 
+            xmax = 244.1104374999999 
+            text = "20200303_RGc__mono__140" 
+        intervals [48]:
+            xmin = 244.1104374999999 
+            xmax = 248.5584999999999 
+            text = "20200303_RGc__mono__141" 
+        intervals [49]:
+            xmin = 248.5584999999999 
+            xmax = 257.3362499999999 
+            text = "20200303_RGc__mono__142" 
+        intervals [50]:
+            xmin = 257.3362499999999 
+            xmax = 260.9478749999999 
+            text = "20200303_RGc__mono__143" 
+        intervals [51]:
+            xmin = 260.9478749999999 
+            xmax = 269.1351874999999 
+            text = "20200303_RGc__mono__144" 
+        intervals [52]:
+            xmin = 269.1351874999999 
+            xmax = 272.6976249999999 
+            text = "20200303_RGc__mono__145" 
+        intervals [53]:
+            xmin = 272.6976249999999 
+            xmax = 280.7865624999999 
+            text = "20200303_RGc__mono__146" 
+        intervals [54]:
+            xmin = 280.7865624999999 
+            xmax = 285.0378124999999 
+            text = "20200303_RGc__mono__147" 
+        intervals [55]:
+            xmin = 285.0378124999999 
+            xmax = 292.8806874999999 
+            text = "20200303_RGc__mono__148" 
+        intervals [56]:
+            xmin = 292.8806874999999 
+            xmax = 296.3447499999999 
+            text = "20200303_RGc__mono__149" 
+        intervals [57]:
+            xmin = 296.3447499999999 
+            xmax = 300.4713124999999 
+            text = "20200303_RGc__mono__15" 
+        intervals [58]:
+            xmin = 300.4713124999999 
+            xmax = 308.6094374999999 
+            text = "20200303_RGc__mono__150" 
+        intervals [59]:
+            xmin = 308.6094374999999 
+            xmax = 312.3194999999999 
+            text = "20200303_RGc__mono__151" 
+        intervals [60]:
+            xmin = 312.3194999999999 
+            xmax = 320.55599999999987 
+            text = "20200303_RGc__mono__152" 
+        intervals [61]:
+            xmin = 320.55599999999987 
+            xmax = 323.4296249999999 
+            text = "20200303_RGc__mono__153" 
+        intervals [62]:
+            xmin = 323.4296249999999 
+            xmax = 327.87768749999987 
+            text = "20200303_RGc__mono__154" 
+        intervals [63]:
+            xmin = 327.87768749999987 
+            xmax = 331.58774999999986 
+            text = "20200303_RGc__mono__155" 
+        intervals [64]:
+            xmin = 331.58774999999986 
+            xmax = 335.15018749999984 
+            text = "20200303_RGc__mono__156" 
+        intervals [65]:
+            xmin = 335.15018749999984 
+            xmax = 342.91418749999985 
+            text = "20200303_RGc__mono__157" 
+        intervals [66]:
+            xmin = 342.91418749999985 
+            xmax = 346.75724999999983 
+            text = "20200303_RGc__mono__158" 
+        intervals [67]:
+            xmin = 346.75724999999983 
+            xmax = 356.37137499999983 
+            text = "20200303_RGc__mono__159" 
+        intervals [68]:
+            xmin = 356.37137499999983 
+            xmax = 366.26199999999983 
+            text = "20200303_RGc__mono__16" 
+        intervals [69]:
+            xmin = 366.26199999999983 
+            xmax = 369.2340624999998 
+            text = "20200303_RGc__mono__160" 
+        intervals [70]:
+            xmin = 369.2340624999998 
+            xmax = 377.27374999999984 
+            text = "20200303_RGc__mono__161" 
+        intervals [71]:
+            xmin = 377.27374999999984 
+            xmax = 381.52499999999986 
+            text = "20200303_RGc__mono__162" 
+        intervals [72]:
+            xmin = 381.52499999999986 
+            xmax = 390.40112499999987 
+            text = "20200303_RGc__mono__163" 
+        intervals [73]:
+            xmin = 390.40112499999987 
+            xmax = 393.83556249999987 
+            text = "20200303_RGc__mono__164" 
+        intervals [74]:
+            xmin = 393.83556249999987 
+            xmax = 400.9896874999999 
+            text = "20200303_RGc__mono__165" 
+        intervals [75]:
+            xmin = 400.9896874999999 
+            xmax = 404.3553124999999 
+            text = "20200303_RGc__mono__166" 
+        intervals [76]:
+            xmin = 404.3553124999999 
+            xmax = 411.3413124999999 
+            text = "20200303_RGc__mono__167" 
+        intervals [77]:
+            xmin = 411.3413124999999 
+            xmax = 414.9773124999999 
+            text = "20200303_RGc__mono__168" 
+        intervals [78]:
+            xmin = 414.9773124999999 
+            xmax = 422.84149999999994 
+            text = "20200303_RGc__mono__169" 
+        intervals [79]:
+            xmin = 422.84149999999994 
+            xmax = 426.91306249999997 
+            text = "20200303_RGc__mono__17" 
+        intervals [80]:
+            xmin = 426.91306249999997 
+            xmax = 429.52106249999997 
+            text = "20200303_RGc__mono__170" 
+        intervals [81]:
+            xmin = 429.52106249999997 
+            xmax = 440.41306249999997 
+            text = "20200303_RGc__mono__171" 
+        intervals [82]:
+            xmin = 440.41306249999997 
+            xmax = 442.98112499999996 
+            text = "20200303_RGc__mono__172" 
+        intervals [83]:
+            xmin = 442.98112499999996 
+            xmax = 449.23081249999996 
+            text = "20200303_RGc__mono__173" 
+        intervals [84]:
+            xmin = 449.23081249999996 
+            xmax = 451.89956249999994 
+            text = "20200303_RGc__mono__174" 
+        intervals [85]:
+            xmin = 451.89956249999994 
+            xmax = 458.9923749999999 
+            text = "20200303_RGc__mono__175" 
+        intervals [86]:
+            xmin = 458.9923749999999 
+            xmax = 462.5074374999999 
+            text = "20200303_RGc__mono__176" 
+        intervals [87]:
+            xmin = 462.5074374999999 
+            xmax = 470.6170624999999 
+            text = "20200303_RGc__mono__177" 
+        intervals [88]:
+            xmin = 470.6170624999999 
+            xmax = 474.02924999999993 
+            text = "20200303_RGc__mono__178" 
+        intervals [89]:
+            xmin = 474.02924999999993 
+            xmax = 480.46731249999993 
+            text = "20200303_RGc__mono__179" 
+        intervals [90]:
+            xmin = 480.46731249999993 
+            xmax = 487.2404374999999 
+            text = "20200303_RGc__mono__18" 
+        intervals [91]:
+            xmin = 487.2404374999999 
+            xmax = 489.8740624999999 
+            text = "20200303_RGc__mono__180" 
+        intervals [92]:
+            xmin = 489.8740624999999 
+            xmax = 492.7699999999999 
+            text = "20200303_RGc__mono__181" 
+        intervals [93]:
+            xmin = 492.7699999999999 
+            xmax = 498.30768749999993 
+            text = "20200303_RGc__mono__182" 
+        intervals [94]:
+            xmin = 498.30768749999993 
+            xmax = 504.2989999999999 
+            text = "20200303_RGc__mono__183" 
+        intervals [95]:
+            xmin = 504.2989999999999 
+            xmax = 507.1387499999999 
+            text = "20200303_RGc__mono__184" 
+        intervals [96]:
+            xmin = 507.1387499999999 
+            xmax = 512.8725 
+            text = "20200303_RGc__mono__185" 
+        intervals [97]:
+            xmin = 512.8725 
+            xmax = 515.524875 
+            text = "20200303_RGc__mono__186" 
+        intervals [98]:
+            xmin = 515.524875 
+            xmax = 521.7370625 
+            text = "20200303_RGc__mono__187" 
+        intervals [99]:
+            xmin = 521.7370625 
+            xmax = 524.5393124999999 
+            text = "20200303_RGc__mono__188" 
+        intervals [100]:
+            xmin = 524.5393124999999 
+            xmax = 530.8545624999999 
+            text = "20200303_RGc__mono__189" 
+        intervals [101]:
+            xmin = 530.8545624999999 
+            xmax = 535.0544375 
+            text = "20200303_RGc__mono__19" 
+        intervals [102]:
+            xmin = 535.0544375 
+            xmax = 537.9034999999999 
+            text = "20200303_RGc__mono__190" 
+        intervals [103]:
+            xmin = 537.9034999999999 
+            xmax = 540.8744374999999 
+            text = "20200303_RGc__mono__191" 
+        intervals [104]:
+            xmin = 540.8744374999999 
+            xmax = 544.6228749999999 
+            text = "20200303_RGc__mono__192" 
+        intervals [105]:
+            xmin = 544.6228749999999 
+            xmax = 550.6377499999999 
+            text = "20200303_RGc__mono__2" 
+        intervals [106]:
+            xmin = 550.6377499999999 
+            xmax = 557.9341874999999 
+            text = "20200303_RGc__mono__20" 
+        intervals [107]:
+            xmin = 557.9341874999999 
+            xmax = 561.0157499999999 
+            text = "20200303_RGc__mono__21" 
+        intervals [108]:
+            xmin = 561.0157499999999 
+            xmax = 567.0844999999999 
+            text = "20200303_RGc__mono__22" 
+        intervals [109]:
+            xmin = 567.0844999999999 
+            xmax = 571.2660625 
+            text = "20200303_RGc__mono__23" 
+        intervals [110]:
+            xmin = 571.2660625 
+            xmax = 576.6331875 
+            text = "20200303_RGc__mono__24" 
+        intervals [111]:
+            xmin = 576.6331875 
+            xmax = 579.8981249999999 
+            text = "20200303_RGc__mono__25" 
+        intervals [112]:
+            xmin = 579.8981249999999 
+            xmax = 585.674625 
+            text = "20200303_RGc__mono__26" 
+        intervals [113]:
+            xmin = 585.674625 
+            xmax = 589.4161875 
+            text = "20200303_RGc__mono__27" 
+        intervals [114]:
+            xmin = 589.4161875 
+            xmax = 595.504375 
+            text = "20200303_RGc__mono__28" 
+        intervals [115]:
+            xmin = 595.504375 
+            xmax = 598.9343125 
+            text = "20200303_RGc__mono__29" 
+        intervals [116]:
+            xmin = 598.9343125 
+            xmax = 604.0875 
+            text = "20200303_RGc__mono__3" 
+        intervals [117]:
+            xmin = 604.0875 
+            xmax = 610.2161874999999 
+            text = "20200303_RGc__mono__30" 
+        intervals [118]:
+            xmin = 610.2161874999999 
+            xmax = 613.8294374999999 
+            text = "20200303_RGc__mono__31" 
+        intervals [119]:
+            xmin = 613.8294374999999 
+            xmax = 619.9909375 
+            text = "20200303_RGc__mono__32" 
+        intervals [120]:
+            xmin = 619.9909375 
+            xmax = 623.420875 
+            text = "20200303_RGc__mono__33" 
+        intervals [121]:
+            xmin = 623.420875 
+            xmax = 627.1808125 
+            text = "20200303_RGc__mono__34" 
+        intervals [122]:
+            xmin = 627.1808125 
+            xmax = 633.3075 
+            text = "20200303_RGc__mono__35" 
+        intervals [123]:
+            xmin = 633.3075 
+            xmax = 637.0025 
+            text = "20200303_RGc__mono__36" 
+        intervals [124]:
+            xmin = 637.0025 
+            xmax = 643.0238125000001 
+            text = "20200303_RGc__mono__37" 
+        intervals [125]:
+            xmin = 643.0238125000001 
+            xmax = 647.0479375000001 
+            text = "20200303_RGc__mono__38" 
+        intervals [126]:
+            xmin = 647.0479375000001 
+            xmax = 653.522 
+            text = "20200303_RGc__mono__39" 
+        intervals [127]:
+            xmin = 653.522 
+            xmax = 660.1601875 
+            text = "20200303_RGc__mono__4" 
+        intervals [128]:
+            xmin = 660.1601875 
+            xmax = 663.3615 
+            text = "20200303_RGc__mono__40" 
+        intervals [129]:
+            xmin = 663.3615 
+            xmax = 669.0310625 
+            text = "20200303_RGc__mono__41" 
+        intervals [130]:
+            xmin = 669.0310625 
+            xmax = 669.3070624999999 
+            text = "20200303_RGc__mono__42" 
+        intervals [131]:
+            xmin = 669.3070624999999 
+            xmax = 672.9289375 
+            text = "20200303_RGc__mono__43" 
+        intervals [132]:
+            xmin = 672.9289375 
+            xmax = 678.562 
+            text = "20200303_RGc__mono__44" 
+        intervals [133]:
+            xmin = 678.562 
+            xmax = 682.8969375 
+            text = "20200303_RGc__mono__45" 
+        intervals [134]:
+            xmin = 682.8969375 
+            xmax = 689.2773125 
+            text = "20200303_RGc__mono__46" 
+        intervals [135]:
+            xmin = 689.2773125 
+            xmax = 693.21 
+            text = "20200303_RGc__mono__47" 
+        intervals [136]:
+            xmin = 693.21 
+            xmax = 699.97325 
+            text = "20200303_RGc__mono__48" 
+        intervals [137]:
+            xmin = 699.97325 
+            xmax = 703.5585625 
+            text = "20200303_RGc__mono__49" 
+        intervals [138]:
+            xmin = 703.5585625 
+            xmax = 707.9234375 
+            text = "20200303_RGc__mono__5" 
+        intervals [139]:
+            xmin = 707.9234375 
+            xmax = 714.25125 
+            text = "20200303_RGc__mono__50" 
+        intervals [140]:
+            xmin = 714.25125 
+            xmax = 718.037625 
+            text = "20200303_RGc__mono__51" 
+        intervals [141]:
+            xmin = 718.037625 
+            xmax = 724.0729375000001 
+            text = "20200303_RGc__mono__52" 
+        intervals [142]:
+            xmin = 724.0729375000001 
+            xmax = 728.0970000000001 
+            text = "20200303_RGc__mono__53" 
+        intervals [143]:
+            xmin = 728.0970000000001 
+            xmax = 734.5893750000001 
+            text = "20200303_RGc__mono__54" 
+        intervals [144]:
+            xmin = 734.5893750000001 
+            xmax = 738.0106875000001 
+            text = "20200303_RGc__mono__55" 
+        intervals [145]:
+            xmin = 738.0106875000001 
+            xmax = 744.8138750000002 
+            text = "20200303_RGc__mono__56" 
+        intervals [146]:
+            xmin = 744.8138750000002 
+            xmax = 748.0073125000001 
+            text = "20200303_RGc__mono__57" 
+        intervals [147]:
+            xmin = 748.0073125000001 
+            xmax = 753.0918750000001 
+            text = "20200303_RGc__mono__58" 
+        intervals [148]:
+            xmin = 753.0918750000001 
+            xmax = 756.384625 
+            text = "20200303_RGc__mono__59" 
+        intervals [149]:
+            xmin = 756.384625 
+            xmax = 764.031125 
+            text = "20200303_RGc__mono__6" 
+        intervals [150]:
+            xmin = 764.031125 
+            xmax = 769.7921249999999 
+            text = "20200303_RGc__mono__60" 
+        intervals [151]:
+            xmin = 769.7921249999999 
+            xmax = 773.3695624999999 
+            text = "20200303_RGc__mono__61" 
+        intervals [152]:
+            xmin = 773.3695624999999 
+            xmax = 779.7888125 
+            text = "20200303_RGc__mono__62" 
+        intervals [153]:
+            xmin = 779.7888125 
+            xmax = 783.9043125 
+            text = "20200303_RGc__mono__63" 
+        intervals [154]:
+            xmin = 783.9043125 
+            xmax = 789.7384999999999 
+            text = "20200303_RGc__mono__64" 
+        intervals [155]:
+            xmin = 789.7384999999999 
+            xmax = 792.5193125 
+            text = "20200303_RGc__mono__65" 
+        intervals [156]:
+            xmin = 792.5193125 
+            xmax = 798.4083125 
+            text = "20200303_RGc__mono__66" 
+        intervals [157]:
+            xmin = 798.4083125 
+            xmax = 801.5730625 
+            text = "20200303_RGc__mono__67" 
+        intervals [158]:
+            xmin = 801.5730625 
+            xmax = 807.1695625 
+            text = "20200303_RGc__mono__68" 
+        intervals [159]:
+            xmin = 807.1695625 
+            xmax = 810.498875 
+            text = "20200303_RGc__mono__69" 
+        intervals [160]:
+            xmin = 810.498875 
+            xmax = 814.42375 
+            text = "20200303_RGc__mono__7" 
+        intervals [161]:
+            xmin = 814.42375 
+            xmax = 819.4534375000001 
+            text = "20200303_RGc__mono__70" 
+        intervals [162]:
+            xmin = 819.4534375000001 
+            xmax = 823.103375 
+            text = "20200303_RGc__mono__71" 
+        intervals [163]:
+            xmin = 823.103375 
+            xmax = 829.1665625 
+            text = "20200303_RGc__mono__72" 
+        intervals [164]:
+            xmin = 829.1665625 
+            xmax = 833.018125 
+            text = "20200303_RGc__mono__73" 
+        intervals [165]:
+            xmin = 833.018125 
+            xmax = 838.7929375000001 
+            text = "20200303_RGc__mono__74" 
+        intervals [166]:
+            xmin = 838.7929375000001 
+            xmax = 842.0211875000001 
+            text = "20200303_RGc__mono__75" 
+        intervals [167]:
+            xmin = 842.0211875000001 
+            xmax = 847.9626875000001 
+            text = "20200303_RGc__mono__76" 
+        intervals [168]:
+            xmin = 847.9626875000001 
+            xmax = 851.4842500000001 
+            text = "20200303_RGc__mono__77" 
+        intervals [169]:
+            xmin = 851.4842500000001 
+            xmax = 856.8207500000001 
+            text = "20200303_RGc__mono__78" 
+        intervals [170]:
+            xmin = 856.8207500000001 
+            xmax = 859.9756875 
+            text = "20200303_RGc__mono__79" 
+        intervals [171]:
+            xmin = 859.9756875 
+            xmax = 866.7055 
+            text = "20200303_RGc__mono__8" 
+        intervals [172]:
+            xmin = 866.7055 
+            xmax = 872.73325 
+            text = "20200303_RGc__mono__80" 
+        intervals [173]:
+            xmin = 872.73325 
+            xmax = 876.1709375 
+            text = "20200303_RGc__mono__81" 
+        intervals [174]:
+            xmin = 876.1709375 
+            xmax = 881.7389375 
+            text = "20200303_RGc__mono__82" 
+        intervals [175]:
+            xmin = 881.7389375 
+            xmax = 885.20725 
+            text = "20200303_RGc__mono__83" 
+        intervals [176]:
+            xmin = 885.20725 
+            xmax = 891.4428750000001 
+            text = "20200303_RGc__mono__84" 
+        intervals [177]:
+            xmin = 891.4428750000001 
+            xmax = 895.1716250000001 
+            text = "20200303_RGc__mono__85" 
+        intervals [178]:
+            xmin = 895.1716250000001 
+            xmax = 901.2605625000001 
+            text = "20200303_RGc__mono__86" 
+        intervals [179]:
+            xmin = 901.2605625000001 
+            xmax = 905.1916250000002 
+            text = "20200303_RGc__mono__87" 
+        intervals [180]:
+            xmin = 905.1916250000002 
+            xmax = 911.6176875000001 
+            text = "20200303_RGc__mono__88" 
+        intervals [181]:
+            xmin = 911.6176875000001 
+            xmax = 915.2453125000001 
+            text = "20200303_RGc__mono__89" 
+        intervals [182]:
+            xmin = 915.2453125000001 
+            xmax = 919.3535625000001 
+            text = "20200303_RGc__mono__9" 
+        intervals [183]:
+            xmin = 919.3535625000001 
+            xmax = 925.2064375000001 
+            text = "20200303_RGc__mono__90" 
+        intervals [184]:
+            xmin = 925.2064375000001 
+            xmax = 928.8340625000001 
+            text = "20200303_RGc__mono__91" 
+        intervals [185]:
+            xmin = 928.8340625000001 
+            xmax = 935.0705 
+            text = "20200303_RGc__mono__92" 
+        intervals [186]:
+            xmin = 935.0705 
+            xmax = 938.8545625 
+            text = "20200303_RGc__mono__93" 
+        intervals [187]:
+            xmin = 938.8545625 
+            xmax = 945.0339375000001 
+            text = "20200303_RGc__mono__94" 
+        intervals [188]:
+            xmin = 945.0339375000001 
+            xmax = 948.8180000000001 
+            text = "20200303_RGc__mono__95" 
+        intervals [189]:
+            xmin = 948.8180000000001 
+            xmax = 955.1685000000001 
+            text = "20200303_RGc__mono__96" 
+        intervals [190]:
+            xmin = 955.1685000000001 
+            xmax = 958.8385000000001 
+            text = "20200303_RGc__mono__97" 
+        intervals [191]:
+            xmin = 958.8385000000001 
+            xmax = 964.561625 
+            text = "20200303_RGc__mono__98" 
+        intervals [192]:
+            xmin = 964.561625 
+            xmax = 968.117625 
+            text = "20200303_RGc__mono__99" 
