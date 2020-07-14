@@ -1917,7 +1917,7 @@ item []:
         intervals [96]:
             xmin = 460.204790445913
             xmax = 463.701888337701
-            text = "mpya"
+            text = """
         intervals [97]:
             xmin = 463.701888337701
             xmax = 483.0317412352567
@@ -1925,7 +1925,7 @@ item []:
         intervals [98]:
             xmin = 483.0317412352567
             xmax = 487.39466262853966
-            text = "niliona kisu (kikubwa) kipya kule"
+            text = "mpya"
         intervals [99]:
             xmin = 487.39466262853966
             xmax = 501.3852687277038
@@ -1933,7 +1933,7 @@ item []:
         intervals [100]:
             xmin = 501.3852687277038
             xmax = 505.72242621191145
-            text = "jina"
+            text = "niliona kisu (kikubwa) kipya kule"
         intervals [101]:
             xmin = 505.72242621191145
             xmax = 508.0452553247925
@@ -1941,7 +1941,7 @@ item []:
         intervals [102]:
             xmin = 508.0452553247925
             xmax = 513.4712389556631
-            text = "niliona jina kule"
+            text = "jina"
         intervals [103]:
             xmin = 513.4712389556631
             xmax = 515.6851854538779
@@ -1949,7 +1949,7 @@ item []:
         intervals [104]:
             xmin = 515.6851854538779
             xmax = 520.1130784503074
-            text = "ng'ombe"
+            text = "niliona jina kule"
         intervals [105]:
             xmin = 520.1130784503074
             xmax = 521.671491633499
@@ -1957,7 +1957,7 @@ item []:
         intervals [106]:
             xmin = 521.671491633499
             xmax = 526.8845097340103
-            text = "niliona ng'ombe kule"
+            text = "ng'ombe"
         intervals [107]:
             xmin = 526.8845097340103
             xmax = 540.3085658438806
@@ -1965,7 +1965,7 @@ item []:
         intervals [108]:
             xmin = 540.3085658438806
             xmax = 543.7928095132022
-            text = "jangwa"
+            text = "niliona ng'ombe kule"
         intervals [109]:
             xmin = 543.7928095132022
             xmax = 545.376317780162
@@ -1973,7 +1973,7 @@ item []:
         intervals [110]:
             xmin = 545.376317780162
             xmax = 550.2941825425899
-            text = "niliona jangwa kule"
+            text = "jangwa"
         intervals [111]:
             xmin = 550.2941825425899
             xmax = 557.8070829545646
@@ -1981,7 +1981,7 @@ item []:
         intervals [112]:
             xmin = 557.8070829545646
             xmax = 561.7994454923289
-            text = "ndevu (fupi)"
+            text = "niliona jangwa kule"
         intervals [113]:
             xmin = 561.7994454923289
             xmax = 564.6753415648365
@@ -1989,7 +1989,7 @@ item []:
         intervals [114]:
             xmin = 564.6753415648365
             xmax = 570.573149859261
-            text = "niliona ndevu (fupi) kule"
+            text = "ndevu (fupi)"
         intervals [115]:
             xmin = 570.573149859261
             xmax = 576.9972241245727
@@ -1997,7 +1997,7 @@ item []:
         intervals [116]:
             xmin = 576.9972241245727
             xmax = 580.1729670523397
-            text = "kisu chenye vipande viwili"
+            text = "niliona ndevu (fupi) kule"
         intervals [117]:
             xmin = 580.1729670523397
             xmax = 581.8969417845561
@@ -2005,7 +2005,7 @@ item []:
         intervals [118]:
             xmin = 581.8969417845561
             xmax = 586.5607471127627
-            text = "niliona kisu chenye vipande viwili kule"
+            text = "kisu chenye vipande viwili"
         intervals [119]:
             xmin = 586.5607471127627
             xmax = 588.1758392303128
@@ -2013,7 +2013,7 @@ item []:
         intervals [120]:
             xmin = 588.1758392303128
             xmax = 591.8620072061437
-            text = "mbuzi"
+            text = "niliona kisu chenye vipande viwili kule"
         intervals [121]:
             xmin = 591.8620072061437
             xmax = 593.3319225041388
@@ -2021,7 +2021,7 @@ item []:
         intervals [122]:
             xmin = 593.3319225041388
             xmax = 598.122757549456
-            text = "niliona mbuzi kule"
+            text = "mbuzi"
         intervals [123]:
             xmin = 598.122757549456
             xmax = 605.8534231907632
@@ -2029,7 +2029,7 @@ item []:
         intervals [124]:
             xmin = 605.8534231907632
             xmax = 609.7550502163057
-            text = "kondoo"
+            text = "niliona mbuzi kule"
         intervals [125]:
             xmin = 609.7550502163057
             xmax = 611.4816194005958
@@ -2037,7 +2037,7 @@ item []:
         intervals [126]:
             xmin = 611.4816194005958
             xmax = 617.8149581536857
-            text = "niliona kondoo kule"
+            text = "kondoo"
         intervals [127]:
             xmin = 617.8149581536857
             xmax = 626.3696689342404
@@ -2045,7 +2045,7 @@ item []:
         intervals [128]:
             xmin = 626.3696689342404
             xmax = 630.7936689342404
-            text = "mapacha"
+            text = "niliona kondoo kule"
         intervals [129]:
             xmin = 630.7936689342404
             xmax = 632.978796220151
@@ -2053,7 +2053,7 @@ item []:
         intervals [130]:
             xmin = 632.978796220151
             xmax = 638.5318095681323
-            text = "niliona mapacha kule"
+            text = "mapacha"
         intervals [131]:
             xmin = 638.5318095681323
             xmax = 639.6932241245728
@@ -2061,7 +2061,7 @@ item []:
         intervals [132]:
             xmin = 639.6932241245728
             xmax = 644.0303816087804
-            text = "sketi"
+            text = "niliona mapacha kule"
         intervals [133]:
             xmin = 644.0303816087804
             xmax = 645.336972984776
@@ -2069,7 +2069,7 @@ item []:
         intervals [134]:
             xmin = 645.336972984776
             xmax = 650.8355450254242
-            text = "niliona sketi kule"
+            text = "sketi"
         intervals [135]:
             xmin = 650.8355450254242
             xmax = 654.831415830148
@@ -2077,7 +2077,7 @@ item []:
         intervals [136]:
             xmin = 654.831415830148
             xmax = 658.8963667776899
-            text = "sumu"
+            text = "niliona sketi kule"
         intervals [137]:
             xmin = 658.8963667776899
             xmax = 660.4025762805737
@@ -2085,7 +2085,7 @@ item []:
         intervals [138]:
             xmin = 660.4025762805737
             xmax = 665.6107946821118
-            text = "niliona sumu kule"
+            text = "sumu"
         intervals [139]:
             xmin = 665.6107946821118
             xmax = 671.4723087716475
@@ -2093,7 +2093,7 @@ item []:
         intervals [140]:
             xmin = 671.4723087716475
             xmax = 675.760314269088
-            text = "nyoya"
+            text = "niliona sumu kule"
         intervals [141]:
             xmin = 675.760314269088
             xmax = 677.5507641283014
@@ -2101,7 +2101,7 @@ item []:
         intervals [142]:
             xmin = 677.5507641283014
             xmax = 682.3644326022521
-            text = "niliona nyoya kule"
+            text = "nyoya"
         intervals [143]:
             xmin = 682.3644326022521
             xmax = 683.2427902877149
@@ -2109,7 +2109,7 @@ item []:
         intervals [144]:
             xmin = 683.2427902877149
             xmax = 687.271447030368
-            text = "uongo"
+            text = "niliona nyoya kule"
         intervals [145]:
             xmin = 687.271447030368
             xmax = 689.8120413725817
@@ -2117,7 +2117,7 @@ item []:
         intervals [146]:
             xmin = 689.8120413725817
             xmax = 694.3306698812331
-            text = "niliona uongo kule"
+            text = "uongo"
         intervals [147]:
             xmin = 694.3306698812331
             xmax = 696.0364975110051
@@ -2125,7 +2125,7 @@ item []:
         intervals [148]:
             xmin = 696.0364975110051
             xmax = 699.9562716389919
-            text = "punda"
+            text = "niliona uongo kule"
         intervals [149]:
             xmin = 699.9562716389919
             xmax = 702.7690725178713
@@ -2133,7 +2133,7 @@ item []:
         intervals [150]:
             xmin = 702.7690725178713
             xmax = 708.0757977032598
-            text = "niliona punda kule"
+            text = "punda"
         intervals [151]:
             xmin = 708.0757977032598
             xmax = 713.1388392852427
@@ -2141,7 +2141,7 @@ item []:
         intervals [152]:
             xmin = 713.1388392852427
             xmax = 716.8589952863414
-            text = "kushoto"
+            text = "niliona punda kule"
         intervals [153]:
             xmin = 716.8589952863414
             xmax = 718.3470576867808
@@ -2149,7 +2149,7 @@ item []:
         intervals [154]:
             xmin = 718.3470576867808
             xmax = 723.9363652396509
-            text = "niliona kushoto kule"
+            text = "kushoto"
         intervals [155]:
             xmin = 723.9363652396509
             xmax = 725.4062805376459
@@ -2157,7 +2157,7 @@ item []:
         intervals [156]:
             xmin = 725.4062805376459
             xmax = 729.4835658988106
-            text = "porini"
+            text = "niliona kushoto kule"
         intervals [157]:
             xmin = 729.4835658988106
             xmax = 731.5886297823591
@@ -2165,7 +2165,7 @@ item []:
         intervals [158]:
             xmin = 731.5886297823591
             xmax = 736.7787010814527
-            text = "niliona porini kule"
+            text = "porini"
         intervals [159]:
             xmin = 736.7787010814527
             xmax = 738.2849105843366
@@ -2173,7 +2173,7 @@ item []:
         intervals [160]:
             xmin = 738.2849105843366
             xmax = 742.2954202245453
-            text = "chatu"
+            text = "niliona porini kule"
         intervals [161]:
             xmin = 742.2954202245453
             xmax = 744.0556891616504
@@ -2181,7 +2181,7 @@ item []:
         intervals [162]:
             xmin = 744.0556891616504
             xmax = 748.6885243168277
-            text = "nilimwona chatu kule"
+            text = "chatu"
         intervals [163]:
             xmin = 748.6885243168277
             xmax = 760.4659938032325
@@ -2189,7 +2189,7 @@ item []:
         intervals [164]:
             xmin = 760.4659938032325
             xmax = 764.0772671896648
-            text = "kifaru"
+            text = "nilimwona chatu kule"
         intervals [165]:
             xmin = 764.0772671896648
             xmax = 765.7105064096593
@@ -2197,7 +2197,7 @@ item []:
         intervals [166]:
             xmin = 765.7105064096593
             xmax = 770.3198704305327
-            text = "niliona kifaru kule"
+            text = "kifaru"
         intervals [167]:
             xmin = 770.3198704305327
             xmax = 773.1352404937021
@@ -2205,7 +2205,7 @@ item []:
         intervals [168]:
             xmin = 773.1352404937021
             xmax = 776.9642791094669
-            text = "dume"
+            text = "niliona kifaru kule"
         intervals [169]:
             xmin = 776.9642791094669
             xmax = 778.3434588952401
@@ -2213,7 +2213,7 @@ item []:
         intervals [170]:
             xmin = 778.3434588952401
             xmax = 784.4408853165529
-            text = "niliona dume kule"
+            text = "dume"
         intervals [171]:
             xmin = 784.4408853165529
             xmax = 785.7837708974373
@@ -2221,7 +2221,7 @@ item []:
         intervals [172]:
             xmin = 785.7837708974373
             xmax = 789.3768971814252
-            text = "kichwa"
+            text = "niliona dume kule"
         intervals [173]:
             xmin = 789.3768971814252
             xmax = 791.4428779559378
@@ -2229,7 +2229,7 @@ item []:
         intervals [174]:
             xmin = 791.4428779559378
             xmax = 796.3244485134769
-            text = "niliona kichwa kule"
+            text = "kichwa"
         intervals [175]:
             xmin = 796.3244485134769
             xmax = 797.794363811472
@@ -2237,7 +2237,7 @@ item []:
         intervals [176]:
             xmin = 797.794363811472
             xmax = 801.6415495296812
-            text = "titi"
+            text = "niliona kichwa kule"
         intervals [177]:
             xmin = 801.6415495296812
             xmax = 802.8936995983437
@@ -2245,7 +2245,7 @@ item []:
         intervals [178]:
             xmin = 802.8936995983437
             xmax = 807.5937991314389
-            text = "niliona titi kule"
+            text = "titi"
         intervals [179]:
             xmin = 807.5937991314389
             xmax = 815.1849745228151
@@ -2253,7 +2253,7 @@ item []:
         intervals [180]:
             xmin = 815.1849745228151
             xmax = 819.5039849045784
-            text = "ulimbo"
+            text = "niliona titi kule"
         intervals [181]:
             xmin = 819.5039849045784
             xmax = 821.7723727101262
@@ -2261,7 +2261,7 @@ item []:
         intervals [182]:
             xmin = 821.7723727101262
             xmax = 826.9624440092199
-            text = "niliona ulimbo kule"
+            text = "ulimbo"
         intervals [183]:
             xmin = 826.9624440092199
             xmax = 836.8191587579151
@@ -2269,7 +2269,7 @@ item []:
         intervals [184]:
             xmin = 836.8191587579151
             xmax = 840.3034024272367
-            text = "bibi"
+            text = "niliona ulimbo kule"
         intervals [185]:
             xmin = 840.3034024272367
             xmax = 841.97293585212
@@ -2277,7 +2277,7 @@ item []:
         intervals [186]:
             xmin = 841.97293585212
             xmax = 847.27188976588
-            text = "niliona bibi yangu kule"
+            text = "bibi"
         intervals [187]:
             xmin = 847.27188976588
             xmax = 849.1410413176515
@@ -2285,7 +2285,7 @@ item []:
         intervals [188]:
             xmin = 849.1410413176515
             xmax = 853.2785806749708
-            text = "babu"
+            text = "niliona bibi yangu kule"
         intervals [189]:
             xmin = 853.2785806749708
             xmax = 854.9666725793927
@@ -2293,7 +2293,7 @@ item []:
         intervals [190]:
             xmin = 854.9666725793927
             xmax = 860.5559801322628
-            text = "niliona babu kule"
+            text = "babu"
         intervals [191]:
             xmin = 860.5559801322628
             xmax = 867.7785269051274
@@ -2301,7 +2301,7 @@ item []:
         intervals [192]:
             xmin = 867.7785269051274
             xmax = 871.262770574449
-            text = "mama"
+            text = "niliona babu kule"
         intervals [193]:
             xmin = 871.262770574449
             xmax = 872.9528556543723
@@ -2309,7 +2309,7 @@ item []:
         intervals [194]:
             xmin = 872.9528556543723
             xmax = 877.9614559290221
-            text = "niliona mama kule"
+            text = "mama"
         intervals [195]:
             xmin = 877.9614559290221
             xmax = 879.7761661734604
@@ -2317,7 +2317,7 @@ item []:
         intervals [196]:
             xmin = 879.7761661734604
             xmax = 883.8592642234466
-            text = "baba"
+            text = "niliona mama kule"
         intervals [197]:
             xmin = 883.8592642234466
             xmax = 885.3836208287748
@@ -2325,7 +2325,7 @@ item []:
         intervals [198]:
             xmin = 885.3836208287748
             xmax = 890.7188689474235
-            text = "niliona baba kule"
+            text = "baba"
         intervals [199]:
             xmin = 890.7188689474235
             xmax = 894.4347397521475
@@ -2333,7 +2333,7 @@ item []:
         intervals [200]:
             xmin = 894.4347397521475
             xmax = 898.3363667776899
-            text = "kaka; dada (kama anayeongea ni mwanaume)"
+            text = "niliona baba kule"
         intervals [201]:
             xmin = 898.3363667776899
             xmax = 900.4595777636828
@@ -2341,7 +2341,7 @@ item []:
         intervals [202]:
             xmin = 900.4595777636828
             xmax = 905.6859432676652
-            text = "niliona kaka; dada (kama anayeongea ni mwanaume) kule"
+            text = "kaka; dada (kama anayeongea ni mwanaume)"
         intervals [203]:
             xmin = 905.6859432676652
             xmax = 908.3898615318783
@@ -2349,7 +2349,7 @@ item []:
         intervals [204]:
             xmin = 908.3898615318783
             xmax = 912.2189001476431
-            text = "baba mkwe"
+            text = "niliona kaka; dada (kama anayeongea ni mwanaume) kule"
         intervals [205]:
             xmin = 912.2189001476431
             xmax = 914.3846491177067
@@ -2357,7 +2357,7 @@ item []:
         intervals [206]:
             xmin = 914.3846491177067
             xmax = 919.8106327485772
-            text = "baba mkwe kule"
+            text = "baba mkwe"
         intervals [207]:
             xmin = 919.8106327485772
             xmax = 926.6062663822051
@@ -2365,7 +2365,7 @@ item []:
         intervals [208]:
             xmin = 926.6062663822051
             xmax = 930.4529447191926
-            text = "mjomba"
+            text = "baba mkwe kule"
         intervals [209]:
             xmin = 930.4529447191926
             xmax = 932.144954434431
@@ -2373,7 +2373,7 @@ item []:
         intervals [210]:
             xmin = 932.144954434431
             xmax = 936.6840939940012
-            text = "niliona mjomba kule"
+            text = "mjomba"
         intervals [211]:
             xmin = 936.6840939940012
             xmax = 942.487158564233
@@ -2381,7 +2381,7 @@ item []:
         intervals [212]:
             xmin = 942.487158564233
             xmax = 946.0298039055136
-            text = "shemeji"
+            text = "niliona mjomba kule"
         intervals [213]:
             xmin = 946.0298039055136
             xmax = 947.7085947948517
@@ -2389,7 +2389,7 @@ item []:
         intervals [214]:
             xmin = 947.7085947948517
             xmax = 952.9889610552024
-            text = "niliona shemeji kule"
+            text = "shemeji"
         intervals [215]:
             xmin = 952.9889610552024
             xmax = 963.5479057349983
@@ -2397,7 +2397,7 @@ item []:
         intervals [216]:
             xmin = 963.5479057349983
             xmax = 967.5664288086896
-            text = "mke"
+            text = "niliona shemeji kule"
         intervals [217]:
             xmin = 967.5664288086896
             xmax = 969.8929421671425
@@ -2405,7 +2405,7 @@ item []:
         intervals [218]:
             xmin = 969.8929421671425
             xmax = 975.154034875462
-            text = "niliona mke kule"
+            text = "mke"
         intervals [219]:
             xmin = 975.154034875462
             xmax = 995.5617417640915
@@ -2413,7 +2413,7 @@ item []:
         intervals [220]:
             xmin = 995.5617417640915
             xmax = 998.311257551354
-            text = "mwana; binti (kama anayeongea ni mwanamke)"
+            text = "niliona mke kule"
         intervals [221]:
             xmin = 998.311257551354
             xmax = 1051.931340957989
@@ -2421,7 +2421,7 @@ item []:
         intervals [222]:
             xmin = 1051.931340957989
             xmax = 1057.0602454073055
-            text = "niliona mwana; binti (kama anayeongea ni mwanamke) kule"
+            text = "mwana; binti (kama anayeongea ni mwanamke)"
         intervals [223]:
             xmin = 1057.0602454073055
             xmax = 1060.5896719226857
@@ -2429,7 +2429,7 @@ item []:
         intervals [224]:
             xmin = 1060.5896719226857
             xmax = 1064.5685385186762
-            text = "tumbili"
+            text = "niliona mwana; binti (kama anayeongea ni mwanamke) kule"
         intervals [225]:
             xmin = 1064.5685385186762
             xmax = 1066.5536928287747
@@ -2437,7 +2437,7 @@ item []:
         intervals [226]:
             xmin = 1066.5536928287747
             xmax = 1071.2095099119938
-            text = "niliona tumbili kule"
+            text = "tumbili"
         intervals [227]:
             xmin = 1071.2095099119938
             xmax = 1078.4508744272366
@@ -2445,7 +2445,7 @@ item []:
         intervals [228]:
             xmin = 1078.4508744272366
             xmax = 1082.259712658492
-            text = "kazi"
+            text = "niliona tumbili kule"
         intervals [229]:
             xmin = 1082.259712658492
             xmax = 1084.3232611341853
@@ -2453,7 +2453,7 @@ item []:
         intervals [230]:
             xmin = 1084.3232611341853
             xmax = 1089.4872655285826
-            text = "niliona kazi kule"
+            text = "kazi"
         intervals [231]:
             xmin = 1089.4872655285826
             xmax = 1093.2465447925213
@@ -2461,7 +2461,7 @@ item []:
         intervals [232]:
             xmin = 1093.2465447925213
             xmax = 1097.3325761026008
-            text = "kike"
+            text = "niliona kazi kule"
         intervals [233]:
             xmin = 1097.3325761026008
             xmax = 1114.7009659405574
@@ -2469,7 +2469,7 @@ item []:
         intervals [234]:
             xmin = 1114.7009659405574
             xmax = 1119.1155223810958
-            text = "niliona kike kule"
+            text = "kike"
         intervals [235]:
             xmin = 1119.1155223810958
             xmax = 1120.337225209989
@@ -2477,7 +2477,7 @@ item []:
         intervals [236]:
             xmin = 1120.337225209989
             xmax = 1123.5608780526147
-            text = "mwanaume"
+            text = "niliona kike kule"
         intervals [237]:
             xmin = 1123.5608780526147
             xmax = 1125.3574998598106
@@ -2485,7 +2485,7 @@ item []:
         intervals [238]:
             xmin = 1125.3574998598106
             xmax = 1129.7453021119388
-            text = "niliona mwanaume kule"
+            text = "mwanaume"
         intervals [239]:
             xmin = 1129.7453021119388
             xmax = 1133.8210670116916
@@ -2493,7 +2493,7 @@ item []:
         intervals [240]:
             xmin = 1133.8210670116916
             xmax = 1136.8907236994148
-            text = "binadamu"
+            text = "niliona mwanaume kule"
         intervals [241]:
             xmin = 1136.8907236994148
             xmax = 1138.6105737406122
@@ -2501,7 +2501,7 @@ item []:
         intervals [242]:
             xmin = 1138.6105737406122
             xmax = 1143.4357865942238
-            text = "niliona binadamu kule"
+            text = "binadamu"
         intervals [243]:
             xmin = 1143.4357865942238
             xmax = 1144.4213619856
@@ -2509,7 +2509,7 @@ item []:
         intervals [244]:
             xmin = 1144.4213619856
             xmax = 1147.9119414967233
-            text = "nyoka"
+            text = "niliona binadamu kule"
         intervals [245]:
             xmin = 1147.9119414967233
             xmax = 1149.5135015077092
@@ -2517,7 +2517,7 @@ item []:
         intervals [246]:
             xmin = 1149.5135015077092
             xmax = 1154.0717876928234
-            text = "niliona nyoka kule"
+            text = "nyoka"
         intervals [247]:
             xmin = 1154.0717876928234
             xmax = 1157.1517107908733
@@ -2525,7 +2525,7 @@ item []:
         intervals [248]:
             xmin = 1157.1517107908733
             xmax = 1160.929749791148
-            text = "mti"
+            text = "niliona nyoka kule"
         intervals [249]:
             xmin = 1160.929749791148
             xmax = 1162.4972516862313
@@ -2533,7 +2533,7 @@ item []:
         intervals [250]:
             xmin = 1162.4972516862313
             xmax = 1167.1376691539601
-            text = "niliona mti kule"
+            text = "mti"
         intervals [251]:
             xmin = 1167.1376691539601
             xmax = 1170.0122640454733
@@ -2541,7 +2541,7 @@ item []:
         intervals [252]:
             xmin = 1170.0122640454733
             xmax = 1174.0572297142458
-            text = "nywele (kichwa)"
+            text = "niliona mti kule"
         intervals [253]:
             xmin = 1174.0572297142458
             xmax = 1182.6810143887858
@@ -2549,7 +2549,7 @@ item []:
         intervals [254]:
             xmin = 1182.6810143887858
             xmax = 1187.711367588456
-            text = "niliona nywele (kichwa) kule"
+            text = "nywele (kichwa)"
         intervals [255]:
             xmin = 1187.711367588456
             xmax = 1188.1630896428367
@@ -2557,7 +2557,7 @@ item []:
         intervals [256]:
             xmin = 1188.1630896428367
             xmax = 1192.2491209529162
-            text = "njia, namna"
+            text = "niliona nywele (kichwa) kule"
         intervals [257]:
             xmin = 1192.2491209529162
             xmax = 1193.3373604475605
@@ -2565,7 +2565,7 @@ item []:
         intervals [258]:
             xmin = 1193.3373604475605
             xmax = 1199.0865502305874
-            text = "niliona njia, namna kule"
+            text = "njia, namna"
         intervals [259]:
             xmin = 1199.0865502305874
             xmax = 1217.5251363333064
@@ -2573,7 +2573,7 @@ item []:
         intervals [260]:
             xmin = 1217.5251363333064
             xmax = 1221.0157158444297
-            text = "moja"
+            text = "niliona njia, namna kule"
         intervals [261]:
             xmin = 1221.0157158444297
             xmax = 1234.328433998783
@@ -2581,7 +2581,7 @@ item []:
         intervals [262]:
             xmin = 1234.328433998783
             xmax = 1242.9707124150323
-            text = "niliona jiwe moja kule"
+            text = "moja"
         intervals [263]:
             xmin = 1242.9707124150323
             xmax = 1256.3134120267973
@@ -2589,7 +2589,7 @@ item []:
         intervals [264]:
             xmin = 1256.3134120267973
             xmax = 1260.3378448749158
-            text = "mbili"
+            text = "niliona jiwe moja kule"
         intervals [265]:
             xmin = 1260.3378448749158
             xmax = 1281.028635372032
@@ -2597,7 +2597,7 @@ item []:
         intervals [266]:
             xmin = 1281.028635372032
             xmax = 1287.7223349051276
-            text = "niliona mawe mawili kule"
+            text = "mbili"
         intervals [267]:
             xmin = 1287.7223349051276
             xmax = 1291.5383480883188
@@ -2605,7 +2605,7 @@ item []:
         intervals [268]:
             xmin = 1291.5383480883188
             xmax = 1296.1582327353938
-            text = "tatu"
+            text = "niliona mawe mawili kule"
         intervals [269]:
             xmin = 1296.1582327353938
             xmax = 1312.5228907963663
@@ -2613,7 +2613,7 @@ item []:
         intervals [270]:
             xmin = 1312.5228907963663
             xmax = 1320.4278388875496
-            text = "niliona mawe matatu kule"
+            text = "tatu"
         intervals [271]:
             xmin = 1320.4278388875496
             xmax = 1326.2180943118835
@@ -2621,7 +2621,7 @@ item []:
         intervals [272]:
             xmin = 1326.2180943118835
             xmax = 1330.3041256219633
-            text = "nne"
+            text = "niliona mawe matatu kule"
         intervals [273]:
             xmin = 1330.3041256219633
             xmax = 1379.2419866491534
@@ -2629,7 +2629,7 @@ item []:
         intervals [274]:
             xmin = 1379.2419866491534
             xmax = 1387.9273697856545
-            text = "niliona mawe manne kule"
+            text = "nne"
         intervals [275]:
             xmin = 1387.9273697856545
             xmax = 1411.5230610792557
@@ -2637,7 +2637,7 @@ item []:
         intervals [276]:
             xmin = 1411.5230610792557
             xmax = 1415.9911990633257
-            text = "tano"
+            text = "niliona mawe manne kule"
         intervals [277]:
             xmin = 1415.9911990633257
             xmax = 1417.9828826667313
@@ -2645,7 +2645,7 @@ item []:
         intervals [278]:
             xmin = 1417.9828826667313
             xmax = 1426.134412466237
-            text = "niliona mawe matano kule"
+            text = "tano"
         intervals [279]:
             xmin = 1426.134412466237
             xmax = 1438.3390204310817
@@ -2653,7 +2653,7 @@ item []:
         intervals [280]:
             xmin = 1438.3390204310817
             xmax = 1442.3018548172392
-            text = "sita"
+            text = "niliona mawe matano kule"
         intervals [281]:
             xmin = 1442.3018548172392
             xmax = 1444.5193994478354
@@ -2661,7 +2661,7 @@ item []:
         intervals [282]:
             xmin = 1444.5193994478354
             xmax = 1451.007770774394
-            text = "niliona mawe sita kule"
+            text = "sita"
         intervals [283]:
             xmin = 1451.007770774394
             xmax = 1460.4150204310815
@@ -2669,7 +2669,7 @@ item []:
         intervals [284]:
             xmin = 1460.4150204310815
             xmax = 1464.4805189205076
-            text = "saba"
+            text = "niliona mawe sita kule"
         intervals [285]:
             xmin = 1464.4805189205076
             xmax = 1496.2953071654952
@@ -2677,7 +2677,7 @@ item []:
         intervals [286]:
             xmin = 1496.2953071654952
             xmax = 1502.3730220789805
-            text = "niliona mawe saba kule"
+            text = "saba"
         intervals [287]:
             xmin = 1502.3730220789805
             xmax = 1507.0300470721143
@@ -2685,7 +2685,7 @@ item []:
         intervals [288]:
             xmin = 1507.0300470721143
             xmax = 1511.4240706919988
-            text = "nane"
+            text = "niliona mawe saba kule"
         intervals [289]:
             xmin = 1511.4240706919988
             xmax = 1514.134403018283
@@ -2693,7 +2693,7 @@ item []:
         intervals [290]:
             xmin = 1514.134403018283
             xmax = 1520.6433071654953
-            text = "niliona mawe manane kule"
+            text = "nane"
         intervals [291]:
             xmin = 1520.6433071654953
             xmax = 1542.9187820350367
@@ -2701,7 +2701,7 @@ item []:
         intervals [292]:
             xmin = 1542.9187820350367
             xmax = 1546.9432148831554
-            text = "tisa"
+            text = "niliona mawe manane kule"
         intervals [293]:
             xmin = 1546.9432148831554
             xmax = 1562.1294219691213
@@ -2709,7 +2709,7 @@ item []:
         intervals [294]:
             xmin = 1562.1294219691213
             xmax = 1568.9463184261385
-            text = "niliona mawe tisa kule"
+            text = "tisa"
         intervals [295]:
             xmin = 1568.9463184261385
             xmax = 1573.3198092253695
@@ -2717,7 +2717,7 @@ item []:
         intervals [296]:
             xmin = 1573.3198092253695
             xmax = 1577.2210451495662
-            text = "kumi"
+            text = "niliona mawe tisa kule"
         intervals [297]:
             xmin = 1577.2210451495662
             xmax = 1581.0196169704946
@@ -2725,7 +2725,7 @@ item []:
         intervals [298]:
             xmin = 1581.0196169704946
             xmax = 1588.1694219691205
-            text = "niliona mawe makumi kule"
+            text = "kumi"
         intervals [299]:
             xmin = 1588.1694219691205
             xmax = 1592.7277081542347
@@ -2733,7 +2733,7 @@ item []:
         intervals [300]:
             xmin = 1592.7277081542347
             xmax = 1596.5673456164704
-            text = "mimi"
+            text = "niliona mawe makumi kule"
         intervals [301]:
             xmin = 1596.5673456164704
             xmax = 1605.2321959323178
@@ -2741,7 +2741,7 @@ item []:
         intervals [302]:
             xmin = 1605.2321959323178
             xmax = 1608.5174472369044
-            text = "Ndiyo mimi"
+            text = "mimi"
         intervals [303]:
             xmin = 1608.5174472369044
             xmax = 1611.176603512653
@@ -2749,7 +2749,7 @@ item []:
         intervals [304]:
             xmin = 1611.176603512653
             xmax = 1614.934109692274
-            text = "Ndiyo wewe"
+            text = "Ndiyo mimi"
         intervals [305]:
             xmin = 1614.934109692274
             xmax = 1627.5412615736254
@@ -2757,7 +2757,7 @@ item []:
         intervals [306]:
             xmin = 1627.5412615736254
             xmax = 1630.7443815955974
-            text = "wewe"
+            text = "Ndiyo wewe"
         intervals [307]:
             xmin = 1630.7443815955974
             xmax = 1667.2948743173768
@@ -2765,7 +2765,7 @@ item []:
         intervals [308]:
             xmin = 1667.2948743173768
             xmax = 1671.2782415241882
-            text = "fahamu (mtu)"
+            text = "wewe"
         intervals [309]:
             xmin = 1671.2782415241882
             xmax = 1679.9587029358881
@@ -2773,7 +2773,7 @@ item []:
         intervals [310]:
             xmin = 1679.9587029358881
             xmax = 1689.8144568496482
-            text = "gudo alimfahamu Maria"
+            text = "fahamu (mtu)"
         intervals [311]:
             xmin = 1689.8144568496482
             xmax = 1707.7806749216065
@@ -2781,7 +2781,7 @@ item []:
         intervals [312]:
             xmin = 1707.7806749216065
             xmax = 1711.3328528946909
-            text = "ona"
+            text = "gudo alimfahamu Maria"
         intervals [313]:
             xmin = 1711.3328528946909
             xmax = 1716.7690298790355
@@ -2789,7 +2789,7 @@ item []:
         intervals [314]:
             xmin = 1716.7690298790355
             xmax = 1725.803470966649
-            text = "gudo alimwona Maria nyumbani"
+            text = "ona"
         intervals [315]:
             xmin = 1725.803470966649
             xmax = 1729.006590988621
@@ -2797,7 +2797,7 @@ item []:
         intervals [316]:
             xmin = 1729.006590988621
             xmax = 1733.2979505052374
-            text = "kufa"
+            text = "gudo alimwona Maria nyumbani"
         intervals [317]:
             xmin = 1733.2979505052374
             xmax = 1744.7739033203982
@@ -2805,7 +2805,7 @@ item []:
         intervals [318]:
             xmin = 1744.7739033203982
             xmax = 1751.1185449023812
-            text = "Fisi alikufa nyumbani"
+            text = "kufa"
         intervals [319]:
             xmin = 1751.1185449023812
             xmax = 1769.1579470995791
@@ -2813,7 +2813,7 @@ item []:
         intervals [320]:
             xmin = 1769.1579470995791
             xmax = 1773.0797158444295
-            text = "kupa"
+            text = "Fisi alikufa nyumbani"
         intervals [321]:
             xmin = 1773.0797158444295
             xmax = 1806.0850912907358
@@ -2821,7 +2821,7 @@ item []:
         intervals [322]:
             xmin = 1806.0850912907358
             xmax = 1816.3491486376188
-            text = "gudo alimpa nyama nyumbani"
+            text = "kupa"
         intervals [323]:
             xmin = 1816.3491486376188
             xmax = 1835.4935413868636
@@ -2829,7 +2829,7 @@ item []:
         intervals [324]:
             xmin = 1835.4935413868636
             xmax = 1839.7643680828262
-            text = "kulima"
+            text = "gudo alimpa nyama nyumbani"
         intervals [325]:
             xmin = 1839.7643680828262
             xmax = 1841.9203142514614
@@ -2837,7 +2837,7 @@ item []:
         intervals [326]:
             xmin = 1841.9203142514614
             xmax = 1847.705676844155
-            text = "gudo alilima nyumbani"
+            text = "kulima"
         intervals [327]:
             xmin = 1847.705676844155
             xmax = 1861.010944627731
@@ -2845,7 +2845,7 @@ item []:
         intervals [328]:
             xmin = 1861.010944627731
             xmax = 1865.8977559433038
-            text = "kuandika"
+            text = "gudo alilima nyumbani"
         intervals [329]:
             xmin = 1865.8977559433038
             xmax = 1873.6843717082033
@@ -2853,7 +2853,7 @@ item []:
         intervals [330]:
             xmin = 1873.6843717082033
             xmax = 1879.310364567308
-            text = "gudo aliandika nyumbani"
+            text = "kuandika"
         intervals [331]:
             xmin = 1879.310364567308
             xmax = 1891.9791149106204
@@ -2861,7 +2861,7 @@ item []:
         intervals [332]:
             xmin = 1891.9791149106204
             xmax = 1896.1678103239685
-            text = "kuchunga"
+            text = "gudo aliandika nyumbani"
         intervals [333]:
             xmin = 1896.1678103239685
             xmax = 1909.5480070831004
@@ -2869,7 +2869,7 @@ item []:
         intervals [334]:
             xmin = 1909.5480070831004
             xmax = 1915.6873204585468
-            text = "gudo alichunga ng'ombe nyumbani"
+            text = "kuchunga"
         intervals [335]:
             xmin = 1915.6873204585468
             xmax = 1929.8179470995792
@@ -2877,7 +2877,7 @@ item []:
         intervals [336]:
             xmin = 1929.8179470995792
             xmax = 1934.4994302086152
-            text = "kulipa"
+            text = "gudo alichunga ng'ombe nyumbani"
         intervals [337]:
             xmin = 1934.4994302086152
             xmax = 1939.755832295954
@@ -2885,7 +2885,7 @@ item []:
         intervals [338]:
             xmin = 1939.755832295954
             xmax = 1948.4822810737624
-            text = "gudo alimlipa Maria nyumbani"
+            text = "kulipa"
         intervals [339]:
             xmin = 1948.4822810737624
             xmax = 1951.220078382194
@@ -2893,7 +2893,7 @@ item []:
         intervals [340]:
             xmin = 1951.220078382194
             xmax = 1955.0597158444298
-            text = "kupona"
+            text = "gudo alimlipa Maria nyumbani"
         intervals [341]:
             xmin = 1955.0597158444298
             xmax = 1978.777701672499
@@ -2901,7 +2901,7 @@ item []:
         intervals [342]:
             xmin = 1978.777701672499
             xmax = 1985.245540178404
-            text = "gudo alipona nyumbani"
+            text = "kupona"
         intervals [343]:
             xmin = 1985.245540178404
             xmax = 2010.6573899998816
@@ -2909,7 +2909,7 @@ item []:
         intervals [344]:
             xmin = 2010.6573899998816
             xmax = 2015.2362090056492
-            text = "kuhesabu"
+            text = "gudo alipona nyumbani"
         intervals [345]:
             xmin = 2015.2362090056492
             xmax = 2018.2814450397057
@@ -2917,7 +2917,7 @@ item []:
         intervals [346]:
             xmin = 2018.2814450397057
             xmax = 2024.1856689342403
-            text = "gudo alihesabu nyumbani"
+            text = "kuhesabu"
         intervals [347]:
             xmin = 2024.1856689342403
             xmax = 2027.9729363882363
@@ -2925,7 +2925,7 @@ item []:
         intervals [348]:
             xmin = 2027.9729363882363
             xmax = 2033.4757323234192
-            text = "kukuta"
+            text = "gudo alihesabu nyumbani"
         intervals [349]:
             xmin = 2033.4757323234192
             xmax = 2036.5145897801617
@@ -2933,7 +2933,7 @@ item []:
         intervals [350]:
             xmin = 2036.5145897801617
             xmax = 2044.0091594038918
-            text = "gudo alimkuta Maria nyumbani"
+            text = "kukuta"
         intervals [351]:
             xmin = 2044.0091594038918
             xmax = 2048.5469127683523
@@ -2941,7 +2941,7 @@ item []:
         intervals [352]:
             xmin = 2048.5469127683523
             xmax = 2052.016959458822
-            text = "kujificha"
+            text = "gudo alimkuta Maria nyumbani"
         intervals [353]:
             xmin = 2052.016959458822
             xmax = 2058.3000025788438
@@ -2949,7 +2949,7 @@ item []:
         intervals [354]:
             xmin = 2058.3000025788438
             xmax = 2063.9875938999094
-            text = "gudo alijificha nyumbani"
+            text = "kujificha"
         intervals [355]:
             xmin = 2063.9875938999094
             xmax = 2072.0470337241336
@@ -2957,7 +2957,7 @@ item []:
         intervals [356]:
             xmin = 2072.0470337241336
             xmax = 2075.866138365716
-            text = "kimvuli"
+            text = "gudo alijificha nyumbani"
         intervals [357]:
             xmin = 2075.866138365716
             xmax = 2077.6730265832384
@@ -2965,7 +2965,7 @@ item []:
         intervals [358]:
             xmin = 2077.6730265832384
             xmax = 2082.8472973879625
-            text = "Niliona kimvuli kule"
+            text = "kimvuli"
         intervals [359]:
             xmin = 2082.8472973879625
             xmax = 2093.2902096648086
@@ -2973,7 +2973,7 @@ item []:
         intervals [360]:
             xmin = 2093.2902096648086
             xmax = 2096.842387637893
-            text = "kuja"
+            text = "Niliona kimvuli kule"
         intervals [361]:
             xmin = 2096.842387637893
             xmax = 2102.5915774209197
@@ -2981,7 +2981,7 @@ item []:
         intervals [362]:
             xmin = 2102.5915774209197
             xmax = 2107.765848225644
-            text = "gudo alikuja nyumbani"
+            text = "kuja"
         intervals [363]:
             xmin = 2107.765848225644
             xmax = 2117.8480860723894
@@ -2989,7 +2989,7 @@ item []:
         intervals [364]:
             xmin = 2117.8480860723894
             xmax = 2122.016248665084
-            text = "kula, chakula"
+            text = "gudo alikuja nyumbani"
         intervals [365]:
             xmin = 2122.016248665084
             xmax = 2132.8781107908735
@@ -2997,7 +2997,7 @@ item []:
         intervals [366]:
             xmin = 2132.8781107908735
             xmax = 2140.758997360497
-            text = "gudo alikula nyumbani"
+            text = "kula, chakula"
         intervals [367]:
             xmin = 2140.758997360497
             xmax = 2152.8528287255067
@@ -3005,7 +3005,7 @@ item []:
         intervals [368]:
             xmin = 2152.8528287255067
             xmax = 2157.34951644866
-            text = "kunywa"
+            text = "gudo alikula nyumbani"
         intervals [369]:
             xmin = 2157.34951644866
             xmax = 2163.5873060668964
@@ -3013,7 +3013,7 @@ item []:
         intervals [370]:
             xmin = 2163.5873060668964
             xmax = 2169.3775614912306
-            text = "gudo alikunywa nyumbani"
+            text = "kunywa"
         intervals [371]:
             xmin = 2169.3775614912306
             xmax = 2177.6728210353117
@@ -3021,7 +3021,7 @@ item []:
         intervals [372]:
             xmin = 2177.6728210353117
             xmax = 2181.86151644866
-            text = "kucheka"
+            text = "gudo alikunywa nyumbani"
         intervals [373]:
             xmin = 2181.86151644866
             xmax = 2187.143020431082
@@ -3029,7 +3029,7 @@ item []:
         intervals [374]:
             xmin = 2187.143020431082
             xmax = 2192.235159953191
-            text = "gudo alicheka nyumbani"
+            text = "kucheka"
         intervals [375]:
             xmin = 2192.235159953191
             xmax = 2216.5326815132025
@@ -3037,7 +3037,7 @@ item []:
         intervals [376]:
             xmin = 2216.5326815132025
             xmax = 2220.88563949178
-            text = "kisu (kikubwa) hiki, jiwe hili"
+            text = "gudo alicheka nyumbani"
         intervals [377]:
             xmin = 2220.88563949178
             xmax = 2235.2167120181402
@@ -3045,7 +3045,7 @@ item []:
         intervals [378]:
             xmin = 2235.2167120181402
             xmax = 2239.407157698198
-            text = "hii"
+            text = "kisu (kikubwa) hiki, jiwe hili"
         intervals [379]:
             xmin = 2239.407157698198
             xmax = 2243.651337868481
@@ -3431,7 +3431,7 @@ item []:
         intervals [94]:
             xmin = 427.756673919684
             xmax = 434.18074818499565
-            text = "gudo was full at home"
+            text = ""gudo was full at home"
         intervals [95]:
             xmin = 434.18074818499565
             xmax = 460.204790445913
@@ -3439,7 +3439,7 @@ item []:
         intervals [96]:
             xmin = 460.204790445913
             xmax = 463.701888337701
-            text = "new"
+            text = "xuphuko ccosokwa ezzana "
         intervals [97]:
             xmin = 463.701888337701
             xmax = 483.0317412352567
@@ -3447,7 +3447,7 @@ item []:
         intervals [98]:
             xmin = 483.0317412352567
             xmax = 487.39466262853966
-            text = "I saw a new (big) knife there"
+            text = "new"
         intervals [99]:
             xmin = 487.39466262853966
             xmax = 501.3852687277038
@@ -3455,7 +3455,7 @@ item []:
         intervals [100]:
             xmin = 501.3852687277038
             xmax = 505.72242621191145
-            text = "name"
+            text = "I saw a new (big) knife there"
         intervals [101]:
             xmin = 505.72242621191145
             xmax = 508.0452553247925
@@ -3463,7 +3463,7 @@ item []:
         intervals [102]:
             xmin = 508.0452553247925
             xmax = 513.4712389556631
-            text = "I saw a name there"
+            text = "name"
         intervals [103]:
             xmin = 513.4712389556631
             xmax = 515.6851854538779
@@ -3471,7 +3471,7 @@ item []:
         intervals [104]:
             xmin = 515.6851854538779
             xmax = 520.1130784503074
-            text = "cow"
+            text = "I saw a name there"
         intervals [105]:
             xmin = 520.1130784503074
             xmax = 521.671491633499
@@ -3479,7 +3479,7 @@ item []:
         intervals [106]:
             xmin = 521.671491633499
             xmax = 526.8845097340103
-            text = "I saw a cow there"
+            text = "cow"
         intervals [107]:
             xmin = 526.8845097340103
             xmax = 540.3085658438806
@@ -3487,7 +3487,7 @@ item []:
         intervals [108]:
             xmin = 540.3085658438806
             xmax = 543.7928095132022
-            text = "desert"
+            text = "I saw a cow there"
         intervals [109]:
             xmin = 543.7928095132022
             xmax = 545.376317780162
@@ -3495,7 +3495,7 @@ item []:
         intervals [110]:
             xmin = 545.376317780162
             xmax = 550.2941825425899
-            text = "I saw a desert there"
+            text = "desert"
         intervals [111]:
             xmin = 550.2941825425899
             xmax = 557.8070829545646
@@ -3503,7 +3503,7 @@ item []:
         intervals [112]:
             xmin = 557.8070829545646
             xmax = 561.7994454923289
-            text = "beard (short)"
+            text = "I saw a desert there"
         intervals [113]:
             xmin = 561.7994454923289
             xmax = 564.6753415648365
@@ -3511,7 +3511,7 @@ item []:
         intervals [114]:
             xmin = 564.6753415648365
             xmax = 570.573149859261
-            text = "I saw a beard there"
+            text = "beard (short)"
         intervals [115]:
             xmin = 570.573149859261
             xmax = 576.9972241245727
@@ -3519,7 +3519,7 @@ item []:
         intervals [116]:
             xmin = 576.9972241245727
             xmax = 580.1729670523397
-            text = "big knife"
+            text = "I saw a beard there"
         intervals [117]:
             xmin = 580.1729670523397
             xmax = 581.8969417845561
@@ -3527,7 +3527,7 @@ item []:
         intervals [118]:
             xmin = 581.8969417845561
             xmax = 586.5607471127627
-            text = "I saw a big knife there"
+            text = "big knife"
         intervals [119]:
             xmin = 586.5607471127627
             xmax = 588.1758392303128
@@ -3535,7 +3535,7 @@ item []:
         intervals [120]:
             xmin = 588.1758392303128
             xmax = 591.8620072061437
-            text = "goat"
+            text = "I saw a big knife there"
         intervals [121]:
             xmin = 591.8620072061437
             xmax = 593.3319225041388
@@ -3543,7 +3543,7 @@ item []:
         intervals [122]:
             xmin = 593.3319225041388
             xmax = 598.122757549456
-            text = "I saw a goat there"
+            text = "goat"
         intervals [123]:
             xmin = 598.122757549456
             xmax = 605.8534231907632
@@ -3551,7 +3551,7 @@ item []:
         intervals [124]:
             xmin = 605.8534231907632
             xmax = 609.7550502163057
-            text = "sheep"
+            text = "I saw a goat there"
         intervals [125]:
             xmin = 609.7550502163057
             xmax = 611.4816194005958
@@ -3559,7 +3559,7 @@ item []:
         intervals [126]:
             xmin = 611.4816194005958
             xmax = 617.8149581536857
-            text = "I saw a sheep there"
+            text = "sheep"
         intervals [127]:
             xmin = 617.8149581536857
             xmax = 626.3696689342404
@@ -3567,7 +3567,7 @@ item []:
         intervals [128]:
             xmin = 626.3696689342404
             xmax = 630.7936689342404
-            text = "twins"
+            text = "I saw a sheep there"
         intervals [129]:
             xmin = 630.7936689342404
             xmax = 632.978796220151
@@ -3575,7 +3575,7 @@ item []:
         intervals [130]:
             xmin = 632.978796220151
             xmax = 638.5318095681323
-            text = "I saw twins there"
+            text = "twins"
         intervals [131]:
             xmin = 638.5318095681323
             xmax = 639.6932241245728
@@ -3583,7 +3583,7 @@ item []:
         intervals [132]:
             xmin = 639.6932241245728
             xmax = 644.0303816087804
-            text = "skirt"
+            text = "I saw twins there"
         intervals [133]:
             xmin = 644.0303816087804
             xmax = 645.336972984776
@@ -3591,7 +3591,7 @@ item []:
         intervals [134]:
             xmin = 645.336972984776
             xmax = 650.8355450254242
-            text = "I saw a skirt there"
+            text = "skirt"
         intervals [135]:
             xmin = 650.8355450254242
             xmax = 654.831415830148
@@ -3599,7 +3599,7 @@ item []:
         intervals [136]:
             xmin = 654.831415830148
             xmax = 658.8963667776899
-            text = "poison"
+            text = "I saw a skirt there"
         intervals [137]:
             xmin = 658.8963667776899
             xmax = 660.4025762805737
@@ -3607,7 +3607,7 @@ item []:
         intervals [138]:
             xmin = 660.4025762805737
             xmax = 665.6107946821118
-            text = "I saw a poison there"
+            text = "poison"
         intervals [139]:
             xmin = 665.6107946821118
             xmax = 671.4723087716475
@@ -3615,7 +3615,7 @@ item []:
         intervals [140]:
             xmin = 671.4723087716475
             xmax = 675.760314269088
-            text = "feather (for epeme dance)"
+            text = "I saw a poison there"
         intervals [141]:
             xmin = 675.760314269088
             xmax = 677.5507641283014
@@ -3623,7 +3623,7 @@ item []:
         intervals [142]:
             xmin = 677.5507641283014
             xmax = 682.3644326022521
-            text = "I saw a feather there"
+            text = "feather (for epeme dance)"
         intervals [143]:
             xmin = 682.3644326022521
             xmax = 683.2427902877149
@@ -3631,7 +3631,7 @@ item []:
         intervals [144]:
             xmin = 683.2427902877149
             xmax = 687.271447030368
-            text = "lie"
+            text = "I saw a feather there"
         intervals [145]:
             xmin = 687.271447030368
             xmax = 689.8120413725817
@@ -3639,7 +3639,7 @@ item []:
         intervals [146]:
             xmin = 689.8120413725817
             xmax = 694.3306698812331
-            text = "I saw a lie there"
+            text = "lie"
         intervals [147]:
             xmin = 694.3306698812331
             xmax = 696.0364975110051
@@ -3647,7 +3647,7 @@ item []:
         intervals [148]:
             xmin = 696.0364975110051
             xmax = 699.9562716389919
-            text = "donkey"
+            text = "I saw a lie there"
         intervals [149]:
             xmin = 699.9562716389919
             xmax = 702.7690725178713
@@ -3655,7 +3655,7 @@ item []:
         intervals [150]:
             xmin = 702.7690725178713
             xmax = 708.0757977032598
-            text = "I saw a donkey there"
+            text = "donkey"
         intervals [151]:
             xmin = 708.0757977032598
             xmax = 713.1388392852427
@@ -3663,7 +3663,7 @@ item []:
         intervals [152]:
             xmin = 713.1388392852427
             xmax = 716.8589952863414
-            text = "left"
+            text = "I saw a donkey there"
         intervals [153]:
             xmin = 716.8589952863414
             xmax = 718.3470576867808
@@ -3671,7 +3671,7 @@ item []:
         intervals [154]:
             xmin = 718.3470576867808
             xmax = 723.9363652396509
-            text = "I saw a left there"
+            text = "left"
         intervals [155]:
             xmin = 723.9363652396509
             xmax = 725.4062805376459
@@ -3679,7 +3679,7 @@ item []:
         intervals [156]:
             xmin = 725.4062805376459
             xmax = 729.4835658988106
-            text = "bush, wilderness"
+            text = "I saw a left there"
         intervals [157]:
             xmin = 729.4835658988106
             xmax = 731.5886297823591
@@ -3687,7 +3687,7 @@ item []:
         intervals [158]:
             xmin = 731.5886297823591
             xmax = 736.7787010814527
-            text = "I saw the bush there"
+            text = "bush, wilderness"
         intervals [159]:
             xmin = 736.7787010814527
             xmax = 738.2849105843366
@@ -3695,7 +3695,7 @@ item []:
         intervals [160]:
             xmin = 738.2849105843366
             xmax = 742.2954202245453
-            text = "python"
+            text = "I saw the bush there"
         intervals [161]:
             xmin = 742.2954202245453
             xmax = 744.0556891616504
@@ -3703,7 +3703,7 @@ item []:
         intervals [162]:
             xmin = 744.0556891616504
             xmax = 748.6885243168277
-            text = "I saw a python there"
+            text = "python"
         intervals [163]:
             xmin = 748.6885243168277
             xmax = 760.4659938032325
@@ -3711,7 +3711,7 @@ item []:
         intervals [164]:
             xmin = 760.4659938032325
             xmax = 764.0772671896648
-            text = "rhinoceros"
+            text = "I saw a python there"
         intervals [165]:
             xmin = 764.0772671896648
             xmax = 765.7105064096593
@@ -3719,7 +3719,7 @@ item []:
         intervals [166]:
             xmin = 765.7105064096593
             xmax = 770.3198704305327
-            text = "I saw a rhinoceros there"
+            text = "rhinoceros"
         intervals [167]:
             xmin = 770.3198704305327
             xmax = 773.1352404937021
@@ -3727,7 +3727,7 @@ item []:
         intervals [168]:
             xmin = 773.1352404937021
             xmax = 776.9642791094669
-            text = "male (of a human or animal)"
+            text = "I saw a rhinoceros there"
         intervals [169]:
             xmin = 776.9642791094669
             xmax = 778.3434588952401
@@ -3735,7 +3735,7 @@ item []:
         intervals [170]:
             xmin = 778.3434588952401
             xmax = 784.4408853165529
-            text = "I saw a male there"
+            text = "male (of a human or animal)"
         intervals [171]:
             xmin = 784.4408853165529
             xmax = 785.7837708974373
@@ -3743,7 +3743,7 @@ item []:
         intervals [172]:
             xmin = 785.7837708974373
             xmax = 789.3768971814252
-            text = "head"
+            text = "I saw a male there"
         intervals [173]:
             xmin = 789.3768971814252
             xmax = 791.4428779559378
@@ -3751,7 +3751,7 @@ item []:
         intervals [174]:
             xmin = 791.4428779559378
             xmax = 796.3244485134769
-            text = "I saw a head there"
+            text = "head"
         intervals [175]:
             xmin = 796.3244485134769
             xmax = 797.794363811472
@@ -3759,7 +3759,7 @@ item []:
         intervals [176]:
             xmin = 797.794363811472
             xmax = 801.6415495296812
-            text = "breasts"
+            text = "I saw a head there"
         intervals [177]:
             xmin = 801.6415495296812
             xmax = 802.8936995983437
@@ -3767,7 +3767,7 @@ item []:
         intervals [178]:
             xmin = 802.8936995983437
             xmax = 807.5937991314389
-            text = "I saw breasts there"
+            text = "breasts"
         intervals [179]:
             xmin = 807.5937991314389
             xmax = 815.1849745228151
@@ -3775,7 +3775,7 @@ item []:
         intervals [180]:
             xmin = 815.1849745228151
             xmax = 819.5039849045784
-            text = "birdlime"
+            text = "I saw breasts there"
         intervals [181]:
             xmin = 819.5039849045784
             xmax = 821.7723727101262
@@ -3783,7 +3783,7 @@ item []:
         intervals [182]:
             xmin = 821.7723727101262
             xmax = 826.9624440092199
-            text = "I saw a birdlime there"
+            text = "birdlime"
         intervals [183]:
             xmin = 826.9624440092199
             xmax = 836.8191587579151
@@ -3791,7 +3791,7 @@ item []:
         intervals [184]:
             xmin = 836.8191587579151
             xmax = 840.3034024272367
-            text = "grandmother"
+            text = "I saw a birdlime there"
         intervals [185]:
             xmin = 840.3034024272367
             xmax = 841.97293585212
@@ -3799,7 +3799,7 @@ item []:
         intervals [186]:
             xmin = 841.97293585212
             xmax = 847.27188976588
-            text = "I saw my grandmother there"
+            text = "grandmother"
         intervals [187]:
             xmin = 847.27188976588
             xmax = 849.1410413176515
@@ -3807,7 +3807,7 @@ item []:
         intervals [188]:
             xmin = 849.1410413176515
             xmax = 853.2785806749708
-            text = "grandfather"
+            text = "I saw my grandmother there"
         intervals [189]:
             xmin = 853.2785806749708
             xmax = 854.9666725793927
@@ -3815,7 +3815,7 @@ item []:
         intervals [190]:
             xmin = 854.9666725793927
             xmax = 860.5559801322628
-            text = "I saw my grandfather there"
+            text = "grandfather"
         intervals [191]:
             xmin = 860.5559801322628
             xmax = 867.7785269051274
@@ -3823,7 +3823,7 @@ item []:
         intervals [192]:
             xmin = 867.7785269051274
             xmax = 871.262770574449
-            text = "mother"
+            text = "I saw my grandfather there"
         intervals [193]:
             xmin = 871.262770574449
             xmax = 872.9528556543723
@@ -3831,7 +3831,7 @@ item []:
         intervals [194]:
             xmin = 872.9528556543723
             xmax = 877.9614559290221
-            text = "I saw my mother there"
+            text = "mother"
         intervals [195]:
             xmin = 877.9614559290221
             xmax = 879.7761661734604
@@ -3839,7 +3839,7 @@ item []:
         intervals [196]:
             xmin = 879.7761661734604
             xmax = 883.8592642234466
-            text = "father"
+            text = "I saw my mother there"
         intervals [197]:
             xmin = 883.8592642234466
             xmax = 885.3836208287748
@@ -3847,7 +3847,7 @@ item []:
         intervals [198]:
             xmin = 885.3836208287748
             xmax = 890.7188689474235
-            text = "I saw my father there"
+            text = "father"
         intervals [199]:
             xmin = 890.7188689474235
             xmax = 894.4347397521475
@@ -3855,7 +3855,7 @@ item []:
         intervals [200]:
             xmin = 894.4347397521475
             xmax = 898.3363667776899
-            text = "sibling (ego is male)"
+            text = "I saw my father there"
         intervals [201]:
             xmin = 898.3363667776899
             xmax = 900.4595777636828
@@ -3863,7 +3863,7 @@ item []:
         intervals [202]:
             xmin = 900.4595777636828
             xmax = 905.6859432676652
-            text = "I saw my sibling there"
+            text = "sibling (ego is male)"
         intervals [203]:
             xmin = 905.6859432676652
             xmax = 908.3898615318783
@@ -3871,7 +3871,7 @@ item []:
         intervals [204]:
             xmin = 908.3898615318783
             xmax = 912.2189001476431
-            text = "father or mother in law"
+            text = "I saw my sibling there"
         intervals [205]:
             xmin = 912.2189001476431
             xmax = 914.3846491177067
@@ -3879,7 +3879,7 @@ item []:
         intervals [206]:
             xmin = 914.3846491177067
             xmax = 919.8106327485772
-            text = "I saw my in-law there"
+            text = "father or mother in law"
         intervals [207]:
             xmin = 919.8106327485772
             xmax = 926.6062663822051
@@ -3887,7 +3887,7 @@ item []:
         intervals [208]:
             xmin = 926.6062663822051
             xmax = 930.4529447191926
-            text = "maternal uncle"
+            text = "I saw my in-law there"
         intervals [209]:
             xmin = 930.4529447191926
             xmax = 932.144954434431
@@ -3895,7 +3895,7 @@ item []:
         intervals [210]:
             xmin = 932.144954434431
             xmax = 936.6840939940012
-            text = "I saw my maternal uncle there"
+            text = "maternal uncle"
         intervals [211]:
             xmin = 936.6840939940012
             xmax = 942.487158564233
@@ -3903,7 +3903,7 @@ item []:
         intervals [212]:
             xmin = 942.487158564233
             xmax = 946.0298039055136
-            text = "brother-in-law, sister-in-law"
+            text = "I saw my maternal uncle there"
         intervals [213]:
             xmin = 946.0298039055136
             xmax = 947.7085947948517
@@ -3911,7 +3911,7 @@ item []:
         intervals [214]:
             xmin = 947.7085947948517
             xmax = 952.9889610552024
-            text = "I saw my brother-in-law or sister-in-law there"
+            text = "brother-in-law, sister-in-law"
         intervals [215]:
             xmin = 952.9889610552024
             xmax = 963.5479057349983
@@ -3919,7 +3919,7 @@ item []:
         intervals [216]:
             xmin = 963.5479057349983
             xmax = 967.5664288086896
-            text = "spouse"
+            text = "I saw my brother-in-law or sister-in-law there"
         intervals [217]:
             xmin = 967.5664288086896
             xmax = 969.8929421671425
@@ -3927,7 +3927,7 @@ item []:
         intervals [218]:
             xmin = 969.8929421671425
             xmax = 975.154034875462
-            text = "I saw my spouse there"
+            text = "spouse"
         intervals [219]:
             xmin = 975.154034875462
             xmax = 995.5617417640915
@@ -3935,7 +3935,7 @@ item []:
         intervals [220]:
             xmin = 995.5617417640915
             xmax = 998.311257551354
-            text = "(grand)child, nephew, niece"
+            text = "I saw my spouse there"
         intervals [221]:
             xmin = 998.311257551354
             xmax = 1051.931340957989
@@ -3943,7 +3943,7 @@ item []:
         intervals [222]:
             xmin = 1051.931340957989
             xmax = 1057.0602454073055
-            text = "I saw my child there"
+            text = "(grand)child, nephew, niece"
         intervals [223]:
             xmin = 1057.0602454073055
             xmax = 1060.5896719226857
@@ -3951,7 +3951,7 @@ item []:
         intervals [224]:
             xmin = 1060.5896719226857
             xmax = 1064.5685385186762
-            text = "vervet monkey"
+            text = "I saw my child there"
         intervals [225]:
             xmin = 1064.5685385186762
             xmax = 1066.5536928287747
@@ -3959,7 +3959,7 @@ item []:
         intervals [226]:
             xmin = 1066.5536928287747
             xmax = 1071.2095099119938
-            text = "I saw a vervet monkey there"
+            text = "vervet monkey"
         intervals [227]:
             xmin = 1071.2095099119938
             xmax = 1078.4508744272366
@@ -3967,7 +3967,7 @@ item []:
         intervals [228]:
             xmin = 1078.4508744272366
             xmax = 1082.259712658492
-            text = "work"
+            text = "I saw a vervet monkey there"
         intervals [229]:
             xmin = 1082.259712658492
             xmax = 1084.3232611341853
@@ -3975,7 +3975,7 @@ item []:
         intervals [230]:
             xmin = 1084.3232611341853
             xmax = 1089.4872655285826
-            text = "I saw work there"
+            text = "work"
         intervals [231]:
             xmin = 1089.4872655285826
             xmax = 1093.2465447925213
@@ -3983,7 +3983,7 @@ item []:
         intervals [232]:
             xmin = 1093.2465447925213
             xmax = 1097.3325761026008
-            text = "female"
+            text = "I saw work there"
         intervals [233]:
             xmin = 1097.3325761026008
             xmax = 1114.7009659405574
@@ -3991,7 +3991,7 @@ item []:
         intervals [234]:
             xmin = 1114.7009659405574
             xmax = 1119.1155223810958
-            text = "I saw a female there"
+            text = "female"
         intervals [235]:
             xmin = 1119.1155223810958
             xmax = 1120.337225209989
@@ -3999,7 +3999,7 @@ item []:
         intervals [236]:
             xmin = 1120.337225209989
             xmax = 1123.5608780526147
-            text = "man"
+            text = "I saw a female there"
         intervals [237]:
             xmin = 1123.5608780526147
             xmax = 1125.3574998598106
@@ -4007,7 +4007,7 @@ item []:
         intervals [238]:
             xmin = 1125.3574998598106
             xmax = 1129.7453021119388
-            text = "I saw a man there"
+            text = "man"
         intervals [239]:
             xmin = 1129.7453021119388
             xmax = 1133.8210670116916
@@ -4015,7 +4015,7 @@ item []:
         intervals [240]:
             xmin = 1133.8210670116916
             xmax = 1136.8907236994148
-            text = "person"
+            text = "I saw a man there"
         intervals [241]:
             xmin = 1136.8907236994148
             xmax = 1138.6105737406122
@@ -4023,7 +4023,7 @@ item []:
         intervals [242]:
             xmin = 1138.6105737406122
             xmax = 1143.4357865942238
-            text = "I saw a person there"
+            text = "person"
         intervals [243]:
             xmin = 1143.4357865942238
             xmax = 1144.4213619856
@@ -4031,7 +4031,7 @@ item []:
         intervals [244]:
             xmin = 1144.4213619856
             xmax = 1147.9119414967233
-            text = "snake (general)"
+            text = "I saw a person there"
         intervals [245]:
             xmin = 1147.9119414967233
             xmax = 1149.5135015077092
@@ -4039,7 +4039,7 @@ item []:
         intervals [246]:
             xmin = 1149.5135015077092
             xmax = 1154.0717876928234
-            text = "I saw a snake there"
+            text = "snake (general)"
         intervals [247]:
             xmin = 1154.0717876928234
             xmax = 1157.1517107908733
@@ -4047,7 +4047,7 @@ item []:
         intervals [248]:
             xmin = 1157.1517107908733
             xmax = 1160.929749791148
-            text = "tree, wood, stick, a charm or medicine"
+            text = "I saw a snake there"
         intervals [249]:
             xmin = 1160.929749791148
             xmax = 1162.4972516862313
@@ -4055,7 +4055,7 @@ item []:
         intervals [250]:
             xmin = 1162.4972516862313
             xmax = 1167.1376691539601
-            text = "I saw a tree there"
+            text = "tree, wood, stick, a charm or medicine"
         intervals [251]:
             xmin = 1167.1376691539601
             xmax = 1170.0122640454733
@@ -4063,7 +4063,7 @@ item []:
         intervals [252]:
             xmin = 1170.0122640454733
             xmax = 1174.0572297142458
-            text = "hair (of the head)"
+            text = "I saw a tree there"
         intervals [253]:
             xmin = 1174.0572297142458
             xmax = 1182.6810143887858
@@ -4071,7 +4071,7 @@ item []:
         intervals [254]:
             xmin = 1182.6810143887858
             xmax = 1187.711367588456
-            text = "I saw a hair there"
+            text = "hair (of the head)"
         intervals [255]:
             xmin = 1187.711367588456
             xmax = 1188.1630896428367
@@ -4079,7 +4079,7 @@ item []:
         intervals [256]:
             xmin = 1188.1630896428367
             xmax = 1192.2491209529162
-            text = "path, road, way, manner, behaviour"
+            text = "I saw a hair there"
         intervals [257]:
             xmin = 1192.2491209529162
             xmax = 1193.3373604475605
@@ -4087,7 +4087,7 @@ item []:
         intervals [258]:
             xmin = 1193.3373604475605
             xmax = 1199.0865502305874
-            text = "I saw a paththere"
+            text = "path, road, way, manner, behaviour"
         intervals [259]:
             xmin = 1199.0865502305874
             xmax = 1217.5251363333064
@@ -4095,7 +4095,7 @@ item []:
         intervals [260]:
             xmin = 1217.5251363333064
             xmax = 1221.0157158444297
-            text = "one"
+            text = "I saw a paththere"
         intervals [261]:
             xmin = 1221.0157158444297
             xmax = 1234.328433998783
@@ -4103,7 +4103,7 @@ item []:
         intervals [262]:
             xmin = 1234.328433998783
             xmax = 1242.9707124150323
-            text = "I saw one stone there"
+            text = "one"
         intervals [263]:
             xmin = 1242.9707124150323
             xmax = 1256.3134120267973
@@ -4111,7 +4111,7 @@ item []:
         intervals [264]:
             xmin = 1256.3134120267973
             xmax = 1260.3378448749158
-            text = "two"
+            text = "I saw one stone there"
         intervals [265]:
             xmin = 1260.3378448749158
             xmax = 1281.028635372032
@@ -4119,7 +4119,7 @@ item []:
         intervals [266]:
             xmin = 1281.028635372032
             xmax = 1287.7223349051276
-            text = "I saw two stones there"
+            text = "two"
         intervals [267]:
             xmin = 1287.7223349051276
             xmax = 1291.5383480883188
@@ -4127,7 +4127,7 @@ item []:
         intervals [268]:
             xmin = 1291.5383480883188
             xmax = 1296.1582327353938
-            text = "three"
+            text = "I saw two stones there"
         intervals [269]:
             xmin = 1296.1582327353938
             xmax = 1312.5228907963663
@@ -4135,7 +4135,7 @@ item []:
         intervals [270]:
             xmin = 1312.5228907963663
             xmax = 1320.4278388875496
-            text = "I saw three stones there"
+            text = "three"
         intervals [271]:
             xmin = 1320.4278388875496
             xmax = 1326.2180943118835
@@ -4143,7 +4143,7 @@ item []:
         intervals [272]:
             xmin = 1326.2180943118835
             xmax = 1330.3041256219633
-            text = "four"
+            text = "I saw three stones there"
         intervals [273]:
             xmin = 1330.3041256219633
             xmax = 1379.2419866491534
@@ -4151,7 +4151,7 @@ item []:
         intervals [274]:
             xmin = 1379.2419866491534
             xmax = 1387.9273697856545
-            text = "I saw four stones there"
+            text = "four"
         intervals [275]:
             xmin = 1387.9273697856545
             xmax = 1411.5230610792557
@@ -4159,7 +4159,7 @@ item []:
         intervals [276]:
             xmin = 1411.5230610792557
             xmax = 1415.9911990633257
-            text = "five"
+            text = "I saw four stones there"
         intervals [277]:
             xmin = 1415.9911990633257
             xmax = 1417.9828826667313
@@ -4167,7 +4167,7 @@ item []:
         intervals [278]:
             xmin = 1417.9828826667313
             xmax = 1426.134412466237
-            text = "I saw five stones there"
+            text = "five"
         intervals [279]:
             xmin = 1426.134412466237
             xmax = 1438.3390204310817
@@ -4175,7 +4175,7 @@ item []:
         intervals [280]:
             xmin = 1438.3390204310817
             xmax = 1442.3018548172392
-            text = "six"
+            text = "I saw five stones there"
         intervals [281]:
             xmin = 1442.3018548172392
             xmax = 1444.5193994478354
@@ -4183,7 +4183,7 @@ item []:
         intervals [282]:
             xmin = 1444.5193994478354
             xmax = 1451.007770774394
-            text = "I saw six stones there"
+            text = "six"
         intervals [283]:
             xmin = 1451.007770774394
             xmax = 1460.4150204310815
@@ -4191,7 +4191,7 @@ item []:
         intervals [284]:
             xmin = 1460.4150204310815
             xmax = 1464.4805189205076
-            text = "seven"
+            text = "I saw six stones there"
         intervals [285]:
             xmin = 1464.4805189205076
             xmax = 1496.2953071654952
@@ -4199,7 +4199,7 @@ item []:
         intervals [286]:
             xmin = 1496.2953071654952
             xmax = 1502.3730220789805
-            text = "I saw seven stones there"
+            text = "seven"
         intervals [287]:
             xmin = 1502.3730220789805
             xmax = 1507.0300470721143
@@ -4207,7 +4207,7 @@ item []:
         intervals [288]:
             xmin = 1507.0300470721143
             xmax = 1511.4240706919988
-            text = "eight"
+            text = "I saw seven stones there"
         intervals [289]:
             xmin = 1511.4240706919988
             xmax = 1514.134403018283
@@ -4215,7 +4215,7 @@ item []:
         intervals [290]:
             xmin = 1514.134403018283
             xmax = 1520.6433071654953
-            text = "I saw eight stones there"
+            text = "eight"
         intervals [291]:
             xmin = 1520.6433071654953
             xmax = 1542.9187820350367
@@ -4223,7 +4223,7 @@ item []:
         intervals [292]:
             xmin = 1542.9187820350367
             xmax = 1546.9432148831554
-            text = "nine"
+            text = "I saw eight stones there"
         intervals [293]:
             xmin = 1546.9432148831554
             xmax = 1562.1294219691213
@@ -4231,7 +4231,7 @@ item []:
         intervals [294]:
             xmin = 1562.1294219691213
             xmax = 1568.9463184261385
-            text = "I saw nine stones there"
+            text = "nine"
         intervals [295]:
             xmin = 1568.9463184261385
             xmax = 1573.3198092253695
@@ -4239,7 +4239,7 @@ item []:
         intervals [296]:
             xmin = 1573.3198092253695
             xmax = 1577.2210451495662
-            text = "ten"
+            text = "I saw nine stones there"
         intervals [297]:
             xmin = 1577.2210451495662
             xmax = 1581.0196169704946
@@ -4247,7 +4247,7 @@ item []:
         intervals [298]:
             xmin = 1581.0196169704946
             xmax = 1588.1694219691205
-            text = "I saw ten stones there"
+            text = "ten"
         intervals [299]:
             xmin = 1588.1694219691205
             xmax = 1592.7277081542347
@@ -4255,7 +4255,7 @@ item []:
         intervals [300]:
             xmin = 1592.7277081542347
             xmax = 1596.5673456164704
-            text = "I / me"
+            text = "I saw ten stones there"
         intervals [301]:
             xmin = 1596.5673456164704
             xmax = 1605.2321959323178
@@ -4263,7 +4263,7 @@ item []:
         intervals [302]:
             xmin = 1605.2321959323178
             xmax = 1608.5174472369044
-            text = "It's me"
+            text = "I / me"
         intervals [303]:
             xmin = 1608.5174472369044
             xmax = 1611.176603512653
@@ -4271,7 +4271,7 @@ item []:
         intervals [304]:
             xmin = 1611.176603512653
             xmax = 1614.934109692274
-            text = "It's you"
+            text = "It's me"
         intervals [305]:
             xmin = 1614.934109692274
             xmax = 1627.5412615736254
@@ -4279,7 +4279,7 @@ item []:
         intervals [306]:
             xmin = 1627.5412615736254
             xmax = 1630.7443815955974
-            text = "you"
+            text = "It's you"
         intervals [307]:
             xmin = 1630.7443815955974
             xmax = 1667.2948743173768
@@ -4287,7 +4287,7 @@ item []:
         intervals [308]:
             xmin = 1667.2948743173768
             xmax = 1671.2782415241882
-            text = "to know (a person) (a thing?)"
+            text = "you"
         intervals [309]:
             xmin = 1671.2782415241882
             xmax = 1679.9587029358881
@@ -4295,7 +4295,7 @@ item []:
         intervals [310]:
             xmin = 1679.9587029358881
             xmax = 1689.8144568496482
-            text = "gudo knew Maria"
+            text = "to know (a person) (a thing?)"
         intervals [311]:
             xmin = 1689.8144568496482
             xmax = 1707.7806749216065
@@ -4303,7 +4303,7 @@ item []:
         intervals [312]:
             xmin = 1707.7806749216065
             xmax = 1711.3328528946909
-            text = "to see, know"
+            text = "gudo knew Maria"
         intervals [313]:
             xmin = 1711.3328528946909
             xmax = 1716.7690298790355
@@ -4311,7 +4311,7 @@ item []:
         intervals [314]:
             xmin = 1716.7690298790355
             xmax = 1725.803470966649
-            text = "gudo saw Maria at home"
+            text = "to see, know"
         intervals [315]:
             xmin = 1725.803470966649
             xmax = 1729.006590988621
@@ -4319,7 +4319,7 @@ item []:
         intervals [316]:
             xmin = 1729.006590988621
             xmax = 1733.2979505052374
-            text = "die"
+            text = "gudo saw Maria at home"
         intervals [317]:
             xmin = 1733.2979505052374
             xmax = 1744.7739033203982
@@ -4327,7 +4327,7 @@ item []:
         intervals [318]:
             xmin = 1744.7739033203982
             xmax = 1751.1185449023812
-            text = "gudo died at home"
+            text = "die"
         intervals [319]:
             xmin = 1751.1185449023812
             xmax = 1769.1579470995791
@@ -4335,7 +4335,7 @@ item []:
         intervals [320]:
             xmin = 1769.1579470995791
             xmax = 1773.0797158444295
-            text = "give"
+            text = "gudo died at home"
         intervals [321]:
             xmin = 1773.0797158444295
             xmax = 1806.0850912907358
@@ -4343,7 +4343,7 @@ item []:
         intervals [322]:
             xmin = 1806.0850912907358
             xmax = 1816.3491486376188
-            text = "gudo gave Maria meat"
+            text = "give"
         intervals [323]:
             xmin = 1816.3491486376188
             xmax = 1835.4935413868636
@@ -4351,7 +4351,7 @@ item []:
         intervals [324]:
             xmin = 1835.4935413868636
             xmax = 1839.7643680828262
-            text = "to farm, hoe, weed"
+            text = "gudo gave Maria meat"
         intervals [325]:
             xmin = 1839.7643680828262
             xmax = 1841.9203142514614
@@ -4359,7 +4359,7 @@ item []:
         intervals [326]:
             xmin = 1841.9203142514614
             xmax = 1847.705676844155
-            text = "gudo farmed at home"
+            text = "to farm, hoe, weed"
         intervals [327]:
             xmin = 1847.705676844155
             xmax = 1861.010944627731
@@ -4367,7 +4367,7 @@ item []:
         intervals [328]:
             xmin = 1861.010944627731
             xmax = 1865.8977559433038
-            text = "to write"
+            text = "gudo farmed at home"
         intervals [329]:
             xmin = 1865.8977559433038
             xmax = 1873.6843717082033
@@ -4375,7 +4375,7 @@ item []:
         intervals [330]:
             xmin = 1873.6843717082033
             xmax = 1879.310364567308
-            text = "gudo wrote at home"
+            text = "to write"
         intervals [331]:
             xmin = 1879.310364567308
             xmax = 1891.9791149106204
@@ -4383,7 +4383,7 @@ item []:
         intervals [332]:
             xmin = 1891.9791149106204
             xmax = 1896.1678103239685
-            text = "to herd livestock"
+            text = "gudo wrote at home"
         intervals [333]:
             xmin = 1896.1678103239685
             xmax = 1909.5480070831004
@@ -4391,7 +4391,7 @@ item []:
         intervals [334]:
             xmin = 1909.5480070831004
             xmax = 1915.6873204585468
-            text = "gudo herded a cow at home"
+            text = "to herd livestock"
         intervals [335]:
             xmin = 1915.6873204585468
             xmax = 1929.8179470995792
@@ -4399,7 +4399,7 @@ item []:
         intervals [336]:
             xmin = 1929.8179470995792
             xmax = 1934.4994302086152
-            text = "to pay"
+            text = "gudo herded a cow at home"
         intervals [337]:
             xmin = 1934.4994302086152
             xmax = 1939.755832295954
@@ -4407,7 +4407,7 @@ item []:
         intervals [338]:
             xmin = 1939.755832295954
             xmax = 1948.4822810737624
-            text = "gudo paid Maria at home"
+            text = "to pay"
         intervals [339]:
             xmin = 1948.4822810737624
             xmax = 1951.220078382194
@@ -4415,7 +4415,7 @@ item []:
         intervals [340]:
             xmin = 1951.220078382194
             xmax = 1955.0597158444298
-            text = "to get well"
+            text = "gudo paid Maria at home"
         intervals [341]:
             xmin = 1955.0597158444298
             xmax = 1978.777701672499
@@ -4423,7 +4423,7 @@ item []:
         intervals [342]:
             xmin = 1978.777701672499
             xmax = 1985.245540178404
-            text = "gudo recovered at home"
+            text = "to get well"
         intervals [343]:
             xmin = 1985.245540178404
             xmax = 2010.6573899998816
@@ -4431,7 +4431,7 @@ item []:
         intervals [344]:
             xmin = 2010.6573899998816
             xmax = 2015.2362090056492
-            text = "to count, calculate"
+            text = "gudo recovered at home"
         intervals [345]:
             xmin = 2015.2362090056492
             xmax = 2018.2814450397057
@@ -4439,7 +4439,7 @@ item []:
         intervals [346]:
             xmin = 2018.2814450397057
             xmax = 2024.1856689342403
-            text = "gudo counted at home"
+            text = "to count, calculate"
         intervals [347]:
             xmin = 2024.1856689342403
             xmax = 2027.9729363882363
@@ -4447,7 +4447,7 @@ item []:
         intervals [348]:
             xmin = 2027.9729363882363
             xmax = 2033.4757323234192
-            text = "to meet, encounter"
+            text = "gudo counted at home"
         intervals [349]:
             xmin = 2033.4757323234192
             xmax = 2036.5145897801617
@@ -4455,7 +4455,7 @@ item []:
         intervals [350]:
             xmin = 2036.5145897801617
             xmax = 2044.0091594038918
-            text = "gudo met Maria at home"
+            text = "to meet, encounter"
         intervals [351]:
             xmin = 2044.0091594038918
             xmax = 2048.5469127683523
@@ -4463,7 +4463,7 @@ item []:
         intervals [352]:
             xmin = 2048.5469127683523
             xmax = 2052.016959458822
-            text = "to hide oneself"
+            text = "gudo met Maria at home"
         intervals [353]:
             xmin = 2052.016959458822
             xmax = 2058.3000025788438
@@ -4471,7 +4471,7 @@ item []:
         intervals [354]:
             xmin = 2058.3000025788438
             xmax = 2063.9875938999094
-            text = "gudo hid at home"
+            text = "to hide oneself"
         intervals [355]:
             xmin = 2063.9875938999094
             xmax = 2072.0470337241336
@@ -4479,7 +4479,7 @@ item []:
         intervals [356]:
             xmin = 2072.0470337241336
             xmax = 2075.866138365716
-            text = "first rains October-December"
+            text = "gudo hid at home"
         intervals [357]:
             xmin = 2075.866138365716
             xmax = 2077.6730265832384
@@ -4487,7 +4487,7 @@ item []:
         intervals [358]:
             xmin = 2077.6730265832384
             xmax = 2082.8472973879625
-            text = "I saw a drizzle there"
+            text = "first rains October-December"
         intervals [359]:
             xmin = 2082.8472973879625
             xmax = 2093.2902096648086
@@ -4495,7 +4495,7 @@ item []:
         intervals [360]:
             xmin = 2093.2902096648086
             xmax = 2096.842387637893
-            text = "to come"
+            text = "I saw a drizzle there"
         intervals [361]:
             xmin = 2096.842387637893
             xmax = 2102.5915774209197
@@ -4503,7 +4503,7 @@ item []:
         intervals [362]:
             xmin = 2102.5915774209197
             xmax = 2107.765848225644
-            text = "gudo came home"
+            text = "to come"
         intervals [363]:
             xmin = 2107.765848225644
             xmax = 2117.8480860723894
@@ -4511,7 +4511,7 @@ item []:
         intervals [364]:
             xmin = 2117.8480860723894
             xmax = 2122.016248665084
-            text = "to eat, food"
+            text = "gudo came home"
         intervals [365]:
             xmin = 2122.016248665084
             xmax = 2132.8781107908735
@@ -4519,7 +4519,7 @@ item []:
         intervals [366]:
             xmin = 2132.8781107908735
             xmax = 2140.758997360497
-            text = "gudo at at home"
+            text = "to eat, food"
         intervals [367]:
             xmin = 2140.758997360497
             xmax = 2152.8528287255067
@@ -4527,7 +4527,7 @@ item []:
         intervals [368]:
             xmin = 2152.8528287255067
             xmax = 2157.34951644866
-            text = "to drink"
+            text = "gudo at at home"
         intervals [369]:
             xmin = 2157.34951644866
             xmax = 2163.5873060668964
@@ -4535,7 +4535,7 @@ item []:
         intervals [370]:
             xmin = 2163.5873060668964
             xmax = 2169.3775614912306
-            text = "gudo drank at home"
+            text = "to drink"
         intervals [371]:
             xmin = 2169.3775614912306
             xmax = 2177.6728210353117
@@ -4543,7 +4543,7 @@ item []:
         intervals [372]:
             xmin = 2177.6728210353117
             xmax = 2181.86151644866
-            text = "to laugh"
+            text = "gudo drank at home"
         intervals [373]:
             xmin = 2181.86151644866
             xmax = 2187.143020431082
@@ -4551,7 +4551,7 @@ item []:
         intervals [374]:
             xmin = 2187.143020431082
             xmax = 2192.235159953191
-            text = "gudo laughed at home"
+            text = "to laugh"
         intervals [375]:
             xmin = 2192.235159953191
             xmax = 2216.5326815132025
@@ -4559,7 +4559,7 @@ item []:
         intervals [376]:
             xmin = 2216.5326815132025
             xmax = 2220.88563949178
-            text = "this (big) knife, this rock"
+            text = "gudo laughed at home"
         intervals [377]:
             xmin = 2220.88563949178
             xmax = 2235.2167120181402
@@ -4567,7 +4567,7 @@ item []:
         intervals [378]:
             xmin = 2235.2167120181402
             xmax = 2239.407157698198
-            text = "this"
+            text = "this (big) knife, this rock"
         intervals [379]:
             xmin = 2239.407157698198
             xmax = 2243.651337868481
@@ -4953,7 +4953,7 @@ item []:
         intervals [94]:
             xmin = 427.756673919684
             xmax = 434.18074818499565
-            text = "xuphuko ccosokwa ezzana "
+            text = ""
         intervals [95]:
             xmin = 434.18074818499565
             xmax = 460.204790445913
@@ -4961,7 +4961,7 @@ item []:
         intervals [96]:
             xmin = 460.204790445913
             xmax = 463.701888337701
-            text = "zana:ko"
+            text = ""
         intervals [97]:
             xmin = 463.701888337701
             xmax = 483.0317412352567
@@ -4969,7 +4969,7 @@ item []:
         intervals [98]:
             xmin = 483.0317412352567
             xmax = 487.39466262853966
-            text = "aako zanako"
+            text = "zana:ko"
         intervals [99]:
             xmin = 487.39466262853966
             xmax = 501.3852687277038
@@ -4977,7 +4977,7 @@ item []:
         intervals [100]:
             xmin = 501.3852687277038
             xmax = 505.72242621191145
-            text = "akhanapee"
+            text = "aako zanako"
         intervals [101]:
             xmin = 505.72242621191145
             xmax = 508.0452553247925
@@ -4985,7 +4985,7 @@ item []:
         intervals [102]:
             xmin = 508.0452553247925
             xmax = 513.4712389556631
-            text = "ciyetanaa akhanabee nana"
+            text = "akhanapee"
         intervals [103]:
             xmin = 513.4712389556631
             xmax = 515.6851854538779
@@ -4993,7 +4993,7 @@ item []:
         intervals [104]:
             xmin = 515.6851854538779
             xmax = 520.1130784503074
-            text = "atcheka:ko"
+            text = "ciyetanaa akhanabee nana"
         intervals [105]:
             xmin = 520.1130784503074
             xmax = 521.671491633499
@@ -5001,7 +5001,7 @@ item []:
         intervals [106]:
             xmin = 521.671491633499
             xmax = 526.8845097340103
-            text = "citanaa atcheyako nana"
+            text = "atcheka:ko"
         intervals [107]:
             xmin = 526.8845097340103
             xmax = 540.3085658438806
@@ -5009,7 +5009,7 @@ item []:
         intervals [108]:
             xmin = 540.3085658438806
             xmax = 543.7928095132022
-            text = "kera:ko"
+            text = "citanaa atcheyako nana"
         intervals [109]:
             xmin = 543.7928095132022
             xmax = 545.376317780162
@@ -5017,7 +5017,7 @@ item []:
         intervals [110]:
             xmin = 545.376317780162
             xmax = 550.2941825425899
-            text = "citanaa kerako nana"
+            text = "kera:ko"
         intervals [111]:
             xmin = 550.2941825425899
             xmax = 557.8070829545646
@@ -5025,7 +5025,7 @@ item []:
         intervals [112]:
             xmin = 557.8070829545646
             xmax = 561.7994454923289
-            text = "nderunderuako"
+            text = "citanaa kerako nana"
         intervals [113]:
             xmin = 561.7994454923289
             xmax = 564.6753415648365
@@ -5033,7 +5033,7 @@ item []:
         intervals [114]:
             xmin = 564.6753415648365
             xmax = 570.573149859261
-            text = "citanaa nderunderuko nana"
+            text = "nderunderuako"
         intervals [115]:
             xmin = 570.573149859261
             xmax = 576.9972241245727
@@ -5041,7 +5041,7 @@ item []:
         intervals [116]:
             xmin = 576.9972241245727
             xmax = 580.1729670523397
-            text = "joroa"
+            text = "citanaa nderunderuko nana"
         intervals [117]:
             xmin = 580.1729670523397
             xmax = 581.8969417845561
@@ -5049,7 +5049,7 @@ item []:
         intervals [118]:
             xmin = 581.8969417845561
             xmax = 586.5607471127627
-            text = "ciyanaa joro nana"
+            text = "joroa"
         intervals [119]:
             xmin = 586.5607471127627
             xmax = 588.1758392303128
@@ -5057,7 +5057,7 @@ item []:
         intervals [120]:
             xmin = 588.1758392303128
             xmax = 591.8620072061437
-            text = "ara:ko"
+            text = "ciyanaa joro nana"
         intervals [121]:
             xmin = 591.8620072061437
             xmax = 593.3319225041388
@@ -5065,7 +5065,7 @@ item []:
         intervals [122]:
             xmin = 593.3319225041388
             xmax = 598.122757549456
-            text = "ciyanaa arako nana"
+            text = "ara:ko"
         intervals [123]:
             xmin = 598.122757549456
             xmax = 605.8534231907632
@@ -5073,7 +5073,7 @@ item []:
         intervals [124]:
             xmin = 605.8534231907632
             xmax = 609.7550502163057
-            text = "pukupukuako"
+            text = "ciyanaa arako nana"
         intervals [125]:
             xmin = 609.7550502163057
             xmax = 611.4816194005958
@@ -5081,7 +5081,7 @@ item []:
         intervals [126]:
             xmin = 611.4816194005958
             xmax = 617.8149581536857
-            text = "ciyanaa pukupukuko nana"
+            text = "pukupukuako"
         intervals [127]:
             xmin = 617.8149581536857
             xmax = 626.3696689342404
@@ -5089,7 +5089,7 @@ item []:
         intervals [128]:
             xmin = 626.3696689342404
             xmax = 630.7936689342404
-            text = "mapatchapii"
+            text = "ciyanaa pukupukuko nana"
         intervals [129]:
             xmin = 630.7936689342404
             xmax = 632.978796220151
@@ -5097,7 +5097,7 @@ item []:
         intervals [130]:
             xmin = 632.978796220151
             xmax = 638.5318095681323
-            text = "citchanaa mapatchabii nana"
+            text = "mapatchapii"
         intervals [131]:
             xmin = 638.5318095681323
             xmax = 639.6932241245728
@@ -5105,7 +5105,7 @@ item []:
         intervals [132]:
             xmin = 639.6932241245728
             xmax = 644.0303816087804
-            text = "siketapee"
+            text = "citchanaa mapatchabii nana"
         intervals [133]:
             xmin = 644.0303816087804
             xmax = 645.336972984776
@@ -5113,7 +5113,7 @@ item []:
         intervals [134]:
             xmin = 645.336972984776
             xmax = 650.8355450254242
-            text = "ciyetanaa siketabee nana"
+            text = "siketapee"
         intervals [135]:
             xmin = 650.8355450254242
             xmax = 654.831415830148
@@ -5121,7 +5121,7 @@ item []:
         intervals [136]:
             xmin = 654.831415830148
             xmax = 658.8963667776899
-            text = "ggada:"
+            text = "ciyetanaa siketabee nana"
         intervals [137]:
             xmin = 658.8963667776899
             xmax = 660.4025762805737
@@ -5129,7 +5129,7 @@ item []:
         intervals [138]:
             xmin = 660.4025762805737
             xmax = 665.6107946821118
-            text = "ciyanaa ggada nana"
+            text = "ggada:"
         intervals [139]:
             xmin = 665.6107946821118
             xmax = 671.4723087716475
@@ -5137,7 +5137,7 @@ item []:
         intervals [140]:
             xmin = 671.4723087716475
             xmax = 675.760314269088
-            text = "haipii"
+            text = "ciyanaa ggada nana"
         intervals [141]:
             xmin = 675.760314269088
             xmax = 677.5507641283014
@@ -5145,7 +5145,7 @@ item []:
         intervals [142]:
             xmin = 677.5507641283014
             xmax = 682.3644326022521
-            text = "citchanaa haibii nana"
+            text = "haipii"
         intervals [143]:
             xmin = 682.3644326022521
             xmax = 683.2427902877149
@@ -5153,7 +5153,7 @@ item []:
         intervals [144]:
             xmin = 683.2427902877149
             xmax = 687.271447030368
-            text = "rama:ko"
+            text = "citchanaa haibii nana"
         intervals [145]:
             xmin = 687.271447030368
             xmax = 689.8120413725817
@@ -5161,7 +5161,7 @@ item []:
         intervals [146]:
             xmin = 689.8120413725817
             xmax = 694.3306698812331
-            text = "citanaa ramako nana"
+            text = "rama:ko"
         intervals [147]:
             xmin = 694.3306698812331
             xmax = 696.0364975110051
@@ -5169,7 +5169,7 @@ item []:
         intervals [148]:
             xmin = 696.0364975110051
             xmax = 699.9562716389919
-            text = "natia"
+            text = "citanaa ramako nana"
         intervals [149]:
             xmin = 699.9562716389919
             xmax = 702.7690725178713
@@ -5177,7 +5177,7 @@ item []:
         intervals [150]:
             xmin = 702.7690725178713
             xmax = 708.0757977032598
-            text = "ciyanaa natia nana"
+            text = "natia"
         intervals [151]:
             xmin = 708.0757977032598
             xmax = 713.1388392852427
@@ -5185,7 +5185,7 @@ item []:
         intervals [152]:
             xmin = 713.1388392852427
             xmax = 716.8589952863414
-            text = "pasa:ko"
+            text = "ciyanaa natia nana"
         intervals [153]:
             xmin = 716.8589952863414
             xmax = 718.3470576867808
@@ -5193,7 +5193,7 @@ item []:
         intervals [154]:
             xmin = 718.3470576867808
             xmax = 723.9363652396509
-            text = "citanaa pasako nana"
+            text = "pasa:ko"
         intervals [155]:
             xmin = 723.9363652396509
             xmax = 725.4062805376459
@@ -5201,7 +5201,7 @@ item []:
         intervals [156]:
             xmin = 725.4062805376459
             xmax = 729.4835658988106
-            text = "slaapee"
+            text = "citanaa pasako nana"
         intervals [157]:
             xmin = 729.4835658988106
             xmax = 731.5886297823591
@@ -5209,7 +5209,7 @@ item []:
         intervals [158]:
             xmin = 731.5886297823591
             xmax = 736.7787010814527
-            text = "ciyetanaa slaabee nana"
+            text = "slaapee"
         intervals [159]:
             xmin = 736.7787010814527
             xmax = 738.2849105843366
@@ -5217,7 +5217,7 @@ item []:
         intervals [160]:
             xmin = 738.2849105843366
             xmax = 742.2954202245453
-            text = "itchakwaa"
+            text = "ciyetanaa slaabee nana"
         intervals [161]:
             xmin = 742.2954202245453
             xmax = 744.0556891616504
@@ -5225,7 +5225,7 @@ item []:
         intervals [162]:
             xmin = 744.0556891616504
             xmax = 748.6885243168277
-            text = "ciyana itchakwa nana"
+            text = "itchakwaa"
         intervals [163]:
             xmin = 748.6885243168277
             xmax = 760.4659938032325
@@ -5233,7 +5233,7 @@ item []:
         intervals [164]:
             xmin = 760.4659938032325
             xmax = 764.0772671896648
-            text = "tlhakatea"
+            text = "ciyana itchakwa nana"
         intervals [165]:
             xmin = 764.0772671896648
             xmax = 765.7105064096593
@@ -5241,7 +5241,7 @@ item []:
         intervals [166]:
             xmin = 765.7105064096593
             xmax = 770.3198704305327
-            text = "ciyanaa thlakate nana"
+            text = "tlhakatea"
         intervals [167]:
             xmin = 770.3198704305327
             xmax = 773.1352404937021
@@ -5249,7 +5249,7 @@ item []:
         intervals [168]:
             xmin = 773.1352404937021
             xmax = 776.9642791094669
-            text = "??"
+            text = "ciyanaa thlakate nana"
         intervals [169]:
             xmin = 776.9642791094669
             xmax = 778.3434588952401
@@ -5257,7 +5257,7 @@ item []:
         intervals [170]:
             xmin = 778.3434588952401
             xmax = 784.4408853165529
-            text = "ciyanaa ?? nana"
+            text = "??"
         intervals [171]:
             xmin = 784.4408853165529
             xmax = 785.7837708974373
@@ -5265,7 +5265,7 @@ item []:
         intervals [172]:
             xmin = 785.7837708974373
             xmax = 789.3768971814252
-            text = "dloma:ko"
+            text = "ciyanaa ?? nana"
         intervals [173]:
             xmin = 789.3768971814252
             xmax = 791.4428779559378
@@ -5273,7 +5273,7 @@ item []:
         intervals [174]:
             xmin = 791.4428779559378
             xmax = 796.3244485134769
-            text = "citanaa dlomako nana"
+            text = "dloma:ko"
         intervals [175]:
             xmin = 796.3244485134769
             xmax = 797.794363811472
@@ -5281,7 +5281,7 @@ item []:
         intervals [176]:
             xmin = 797.794363811472
             xmax = 801.6415495296812
-            text = "iriba:ko"
+            text = "citanaa dlomako nana"
         intervals [177]:
             xmin = 801.6415495296812
             xmax = 802.8936995983437
@@ -5289,7 +5289,7 @@ item []:
         intervals [178]:
             xmin = 802.8936995983437
             xmax = 807.5937991314389
-            text = "citanaa iribako nana"
+            text = "iriba:ko"
         intervals [179]:
             xmin = 807.5937991314389
             xmax = 815.1849745228151
@@ -5297,7 +5297,7 @@ item []:
         intervals [180]:
             xmin = 815.1849745228151
             xmax = 819.5039849045784
-            text = "rirembo"
+            text = "citanaa iribako nana"
         intervals [181]:
             xmin = 819.5039849045784
             xmax = 821.7723727101262
@@ -5305,7 +5305,7 @@ item []:
         intervals [182]:
             xmin = 821.7723727101262
             xmax = 826.9624440092199
-            text = "ciyanaa rirembo nana"
+            text = "rirembo"
         intervals [183]:
             xmin = 826.9624440092199
             xmax = 836.8191587579151
@@ -5313,7 +5313,7 @@ item []:
         intervals [184]:
             xmin = 836.8191587579151
             xmax = 840.3034024272367
-            text = "bibiako"
+            text = "ciyanaa rirembo nana"
         intervals [185]:
             xmin = 840.3034024272367
             xmax = 841.97293585212
@@ -5321,7 +5321,7 @@ item []:
         intervals [186]:
             xmin = 841.97293585212
             xmax = 847.27188976588
-            text = "citanaa bibiko nana"
+            text = "bibiako"
         intervals [187]:
             xmin = 847.27188976588
             xmax = 849.1410413176515
@@ -5329,7 +5329,7 @@ item []:
         intervals [188]:
             xmin = 849.1410413176515
             xmax = 853.2785806749708
-            text = "paanakwetea"
+            text = "citanaa bibiko nana"
         intervals [189]:
             xmin = 853.2785806749708
             xmax = 854.9666725793927
@@ -5337,7 +5337,7 @@ item []:
         intervals [190]:
             xmin = 854.9666725793927
             xmax = 860.5559801322628
-            text = "ciyanaa paanakwete nana"
+            text = "paanakwetea"
         intervals [191]:
             xmin = 860.5559801322628
             xmax = 867.7785269051274
@@ -5345,7 +5345,7 @@ item []:
         intervals [192]:
             xmin = 867.7785269051274
             xmax = 871.262770574449
-            text = "iyako"
+            text = "ciyanaa paanakwete nana"
         intervals [193]:
             xmin = 871.262770574449
             xmax = 872.9528556543723
@@ -5353,7 +5353,7 @@ item []:
         intervals [194]:
             xmin = 872.9528556543723
             xmax = 877.9614559290221
-            text = "citanaa iyako nana"
+            text = "iyako"
         intervals [195]:
             xmin = 877.9614559290221
             xmax = 879.7761661734604
@@ -5361,7 +5361,7 @@ item []:
         intervals [196]:
             xmin = 879.7761661734604
             xmax = 883.8592642234466
-            text = "baba:"
+            text = "citanaa iyako nana"
         intervals [197]:
             xmin = 883.8592642234466
             xmax = 885.3836208287748
@@ -5369,7 +5369,7 @@ item []:
         intervals [198]:
             xmin = 885.3836208287748
             xmax = 890.7188689474235
-            text = "ciyanaa baba nana"
+            text = "baba:"
         intervals [199]:
             xmin = 890.7188689474235
             xmax = 894.4347397521475
@@ -5377,7 +5377,7 @@ item []:
         intervals [200]:
             xmin = 894.4347397521475
             xmax = 898.3363667776899
-            text = "mizziako"
+            text = "ciyanaa baba nana"
         intervals [201]:
             xmin = 898.3363667776899
             xmax = 900.4595777636828
@@ -5385,7 +5385,7 @@ item []:
         intervals [202]:
             xmin = 900.4595777636828
             xmax = 905.6859432676652
-            text = "ciyanaa mizziko nana"
+            text = "mizziako"
         intervals [203]:
             xmin = 905.6859432676652
             xmax = 908.3898615318783
@@ -5393,7 +5393,7 @@ item []:
         intervals [204]:
             xmin = 908.3898615318783
             xmax = 912.2189001476431
-            text = "siteako"
+            text = "ciyanaa mizziko nana"
         intervals [205]:
             xmin = 912.2189001476431
             xmax = 914.3846491177067
@@ -5401,7 +5401,7 @@ item []:
         intervals [206]:
             xmin = 914.3846491177067
             xmax = 919.8106327485772
-            text = "citanaa siteko nana"
+            text = "siteako"
         intervals [207]:
             xmin = 919.8106327485772
             xmax = 926.6062663822051
@@ -5409,7 +5409,7 @@ item []:
         intervals [208]:
             xmin = 926.6062663822051
             xmax = 930.4529447191926
-            text = "akayea"
+            text = "citanaa siteko nana"
         intervals [209]:
             xmin = 930.4529447191926
             xmax = 932.144954434431
@@ -5417,7 +5417,7 @@ item []:
         intervals [210]:
             xmin = 932.144954434431
             xmax = 936.6840939940012
-            text = "ciyanaa akaye nana "
+            text = "akayea"
         intervals [211]:
             xmin = 936.6840939940012
             xmax = 942.487158564233
@@ -5425,7 +5425,7 @@ item []:
         intervals [212]:
             xmin = 942.487158564233
             xmax = 946.0298039055136
-            text = "amea"
+            text = "ciyanaa akaye nana "
         intervals [213]:
             xmin = 946.0298039055136
             xmax = 947.7085947948517
@@ -5433,7 +5433,7 @@ item []:
         intervals [214]:
             xmin = 947.7085947948517
             xmax = 952.9889610552024
-            text = "ciyanaa ame nana"
+            text = "amea"
         intervals [215]:
             xmin = 952.9889610552024
             xmax = 963.5479057349983
@@ -5441,7 +5441,7 @@ item []:
         intervals [216]:
             xmin = 963.5479057349983
             xmax = 967.5664288086896
-            text = "akhwitiako"
+            text = "ciyanaa ame nana"
         intervals [217]:
             xmin = 967.5664288086896
             xmax = 969.8929421671425
@@ -5449,7 +5449,7 @@ item []:
         intervals [218]:
             xmin = 969.8929421671425
             xmax = 975.154034875462
-            text = "citanaa akhwitiko nana"
+            text = "akhwitiako"
         intervals [219]:
             xmin = 975.154034875462
             xmax = 995.5617417640915
@@ -5457,7 +5457,7 @@ item []:
         intervals [220]:
             xmin = 995.5617417640915
             xmax = 998.311257551354
-            text = "teko"
+            text = "citanaa akhwitiko nana"
         intervals [221]:
             xmin = 998.311257551354
             xmax = 1051.931340957989
@@ -5465,7 +5465,7 @@ item []:
         intervals [222]:
             xmin = 1051.931340957989
             xmax = 1057.0602454073055
-            text = "citanaa teko nana"
+            text = "teko"
         intervals [223]:
             xmin = 1057.0602454073055
             xmax = 1060.5896719226857
@@ -5473,7 +5473,7 @@ item []:
         intervals [224]:
             xmin = 1060.5896719226857
             xmax = 1064.5685385186762
-            text = "numbiria"
+            text = "citanaa teko nana"
         intervals [225]:
             xmin = 1064.5685385186762
             xmax = 1066.5536928287747
@@ -5481,7 +5481,7 @@ item []:
         intervals [226]:
             xmin = 1066.5536928287747
             xmax = 1071.2095099119938
-            text = "ciyanaa numbiri nana"
+            text = "numbiria"
         intervals [227]:
             xmin = 1071.2095099119938
             xmax = 1078.4508744272366
@@ -5489,7 +5489,7 @@ item []:
         intervals [228]:
             xmin = 1078.4508744272366
             xmax = 1082.259712658492
-            text = "kaziako"
+            text = "ciyanaa numbiri nana"
         intervals [229]:
             xmin = 1082.259712658492
             xmax = 1084.3232611341853
@@ -5497,7 +5497,7 @@ item []:
         intervals [230]:
             xmin = 1084.3232611341853
             xmax = 1089.4872655285826
-            text = "citanaa kaziko nana"
+            text = "kaziako"
         intervals [231]:
             xmin = 1089.4872655285826
             xmax = 1093.2465447925213
@@ -5505,7 +5505,7 @@ item []:
         intervals [232]:
             xmin = 1093.2465447925213
             xmax = 1097.3325761026008
-            text = "akhwitiako"
+            text = "citanaa kaziko nana"
         intervals [233]:
             xmin = 1097.3325761026008
             xmax = 1114.7009659405574
@@ -5513,7 +5513,7 @@ item []:
         intervals [234]:
             xmin = 1114.7009659405574
             xmax = 1119.1155223810958
-            text = "citanaa akhwitiko nana"
+            text = "akhwitiako"
         intervals [235]:
             xmin = 1119.1155223810958
             xmax = 1120.337225209989
@@ -5521,7 +5521,7 @@ item []:
         intervals [236]:
             xmin = 1120.337225209989
             xmax = 1123.5608780526147
-            text = "slemea"
+            text = "citanaa akhwitiko nana"
         intervals [237]:
             xmin = 1123.5608780526147
             xmax = 1125.3574998598106
@@ -5529,7 +5529,7 @@ item []:
         intervals [238]:
             xmin = 1125.3574998598106
             xmax = 1129.7453021119388
-            text = "ciyanaa sleme nana"
+            text = "slemea"
         intervals [239]:
             xmin = 1129.7453021119388
             xmax = 1133.8210670116916
@@ -5537,7 +5537,7 @@ item []:
         intervals [240]:
             xmin = 1133.8210670116916
             xmax = 1136.8907236994148
-            text = "unua"
+            text = "ciyanaa sleme nana"
         intervals [241]:
             xmin = 1136.8907236994148
             xmax = 1138.6105737406122
@@ -5545,7 +5545,7 @@ item []:
         intervals [242]:
             xmin = 1138.6105737406122
             xmax = 1143.4357865942238
-            text = "ciyanaa unu nana"
+            text = "unua"
         intervals [243]:
             xmin = 1143.4357865942238
             xmax = 1144.4213619856
@@ -5553,7 +5553,7 @@ item []:
         intervals [244]:
             xmin = 1144.4213619856
             xmax = 1147.9119414967233
-            text = "itchakhwaa"
+            text = "ciyanaa unu nana"
         intervals [245]:
             xmin = 1147.9119414967233
             xmax = 1149.5135015077092
@@ -5561,7 +5561,7 @@ item []:
         intervals [246]:
             xmin = 1149.5135015077092
             xmax = 1154.0717876928234
-            text = "ciyanaa itchakhwa nana"
+            text = "itchakhwaa"
         intervals [247]:
             xmin = 1154.0717876928234
             xmax = 1157.1517107908733
@@ -5569,7 +5569,7 @@ item []:
         intervals [248]:
             xmin = 1157.1517107908733
             xmax = 1160.929749791148
-            text = "zzitiako"
+            text = "ciyanaa itchakhwa nana"
         intervals [249]:
             xmin = 1160.929749791148
             xmax = 1162.4972516862313
@@ -5577,7 +5577,7 @@ item []:
         intervals [250]:
             xmin = 1162.4972516862313
             xmax = 1167.1376691539601
-            text = "citanaa zzitiko nana"
+            text = "zzitiako"
         intervals [251]:
             xmin = 1167.1376691539601
             xmax = 1170.0122640454733
@@ -5585,7 +5585,7 @@ item []:
         intervals [252]:
             xmin = 1170.0122640454733
             xmax = 1174.0572297142458
-            text = "hadlepee"
+            text = "citanaa zzitiko nana"
         intervals [253]:
             xmin = 1174.0572297142458
             xmax = 1182.6810143887858
@@ -5593,7 +5593,7 @@ item []:
         intervals [254]:
             xmin = 1182.6810143887858
             xmax = 1187.711367588456
-            text = "ciyetanaa hadlebee nana"
+            text = "hadlepee"
         intervals [255]:
             xmin = 1187.711367588456
             xmax = 1188.1630896428367
@@ -5601,7 +5601,7 @@ item []:
         intervals [256]:
             xmin = 1188.1630896428367
             xmax = 1192.2491209529162
-            text = "yekeako"
+            text = "ciyetanaa hadlebee nana"
         intervals [257]:
             xmin = 1192.2491209529162
             xmax = 1193.3373604475605
@@ -5609,7 +5609,7 @@ item []:
         intervals [258]:
             xmin = 1193.3373604475605
             xmax = 1199.0865502305874
-            text = "citanaa yekeko nana"
+            text = "yekeako"
         intervals [259]:
             xmin = 1199.0865502305874
             xmax = 1217.5251363333064
@@ -5617,7 +5617,7 @@ item []:
         intervals [260]:
             xmin = 1217.5251363333064
             xmax = 1221.0157158444297
-            text = "itchamea"
+            text = "citanaa yekeko nana"
         intervals [261]:
             xmin = 1221.0157158444297
             xmax = 1234.328433998783
@@ -5625,7 +5625,7 @@ item []:
         intervals [262]:
             xmin = 1234.328433998783
             xmax = 1242.9707124150323
-            text = "citanaa haqqako ichameko nana"
+            text = "itchamea"
         intervals [263]:
             xmin = 1242.9707124150323
             xmax = 1256.3134120267973
@@ -5633,7 +5633,7 @@ item []:
         intervals [264]:
             xmin = 1256.3134120267973
             xmax = 1260.3378448749158
-            text = "piepee"
+            text = "citanaa haqqako ichameko nana"
         intervals [265]:
             xmin = 1260.3378448749158
             xmax = 1281.028635372032
@@ -5641,7 +5641,7 @@ item []:
         intervals [266]:
             xmin = 1281.028635372032
             xmax = 1287.7223349051276
-            text = "ciyetanaa haqqabee piebee nana"
+            text = "piepee"
         intervals [267]:
             xmin = 1287.7223349051276
             xmax = 1291.5383480883188
@@ -5649,7 +5649,7 @@ item []:
         intervals [268]:
             xmin = 1291.5383480883188
             xmax = 1296.1582327353938
-            text = "samakapee"
+            text = "ciyetanaa haqqabee piebee nana"
         intervals [269]:
             xmin = 1296.1582327353938
             xmax = 1312.5228907963663
@@ -5657,7 +5657,7 @@ item []:
         intervals [270]:
             xmin = 1312.5228907963663
             xmax = 1320.4278388875496
-            text = "ciyetanaa haqqabee samakabee nana"
+            text = "samakapee"
         intervals [271]:
             xmin = 1320.4278388875496
             xmax = 1326.2180943118835
@@ -5665,7 +5665,7 @@ item []:
         intervals [272]:
             xmin = 1326.2180943118835
             xmax = 1330.3041256219633
-            text = "bonipii"
+            text = "ciyetanaa haqqabee samakabee nana"
         intervals [273]:
             xmin = 1330.3041256219633
             xmax = 1379.2419866491534
@@ -5673,7 +5673,7 @@ item []:
         intervals [274]:
             xmin = 1379.2419866491534
             xmax = 1387.9273697856545
-            text = "ciyetanaa haqqabii bonibii nana"
+            text = "bonipii"
         intervals [275]:
             xmin = 1387.9273697856545
             xmax = 1411.5230610792557
@@ -5681,7 +5681,7 @@ item []:
         intervals [276]:
             xmin = 1411.5230610792557
             xmax = 1415.9911990633257
-            text = "bothanopii"
+            text = "ciyetanaa haqqabii bonibii nana"
         intervals [277]:
             xmin = 1415.9911990633257
             xmax = 1417.9828826667313
@@ -5689,7 +5689,7 @@ item []:
         intervals [278]:
             xmin = 1417.9828826667313
             xmax = 1426.134412466237
-            text = "ciyetanaa haqqabee bothanobee nana"
+            text = "bothanopii"
         intervals [279]:
             xmin = 1426.134412466237
             xmax = 1438.3390204310817
@@ -5697,7 +5697,7 @@ item []:
         intervals [280]:
             xmin = 1438.3390204310817
             xmax = 1442.3018548172392
-            text = "sitapii"
+            text = "ciyetanaa haqqabee bothanobee nana"
         intervals [281]:
             xmin = 1442.3018548172392
             xmax = 1444.5193994478354
@@ -5705,7 +5705,7 @@ item []:
         intervals [282]:
             xmin = 1444.5193994478354
             xmax = 1451.007770774394
-            text = "ciyetanaa haqqabee sitabee nana"
+            text = "sitapii"
         intervals [283]:
             xmin = 1451.007770774394
             xmax = 1460.4150204310815
@@ -5713,7 +5713,7 @@ item []:
         intervals [284]:
             xmin = 1460.4150204310815
             xmax = 1464.4805189205076
-            text = "sabapii"
+            text = "ciyetanaa haqqabee sitabee nana"
         intervals [285]:
             xmin = 1464.4805189205076
             xmax = 1496.2953071654952
@@ -5721,7 +5721,7 @@ item []:
         intervals [286]:
             xmin = 1496.2953071654952
             xmax = 1502.3730220789805
-            text = "ciyetanaa haqqabii sababii nana"
+            text = "sabapii"
         intervals [287]:
             xmin = 1502.3730220789805
             xmax = 1507.0300470721143
@@ -5729,7 +5729,7 @@ item []:
         intervals [288]:
             xmin = 1507.0300470721143
             xmax = 1511.4240706919988
-            text = "nanipii"
+            text = "ciyetanaa haqqabii sababii nana"
         intervals [289]:
             xmin = 1511.4240706919988
             xmax = 1514.134403018283
@@ -5737,7 +5737,7 @@ item []:
         intervals [290]:
             xmin = 1514.134403018283
             xmax = 1520.6433071654953
-            text = "ciyetanaa haqqabii nanebii nana"
+            text = "nanipii"
         intervals [291]:
             xmin = 1520.6433071654953
             xmax = 1542.9187820350367
@@ -5745,7 +5745,7 @@ item []:
         intervals [292]:
             xmin = 1542.9187820350367
             xmax = 1546.9432148831554
-            text = "tisapii"
+            text = "ciyetanaa haqqabii nanebii nana"
         intervals [293]:
             xmin = 1546.9432148831554
             xmax = 1562.1294219691213
@@ -5753,7 +5753,7 @@ item []:
         intervals [294]:
             xmin = 1562.1294219691213
             xmax = 1568.9463184261385
-            text = "ciyetanaa haqqabii tisabii  nana"
+            text = "tisapii"
         intervals [295]:
             xmin = 1568.9463184261385
             xmax = 1573.3198092253695
@@ -5761,7 +5761,7 @@ item []:
         intervals [296]:
             xmin = 1573.3198092253695
             xmax = 1577.2210451495662
-            text = "ikhumia"
+            text = "ciyetanaa haqqabii tisabii  nana"
         intervals [297]:
             xmin = 1577.2210451495662
             xmax = 1581.0196169704946
@@ -5769,7 +5769,7 @@ item []:
         intervals [298]:
             xmin = 1581.0196169704946
             xmax = 1588.1694219691205
-            text = "ciyanaa haqqabii ikhumibii nana"
+            text = "ikhumia"
         intervals [299]:
             xmin = 1588.1694219691205
             xmax = 1592.7277081542347
@@ -5777,7 +5777,7 @@ item []:
         intervals [300]:
             xmin = 1592.7277081542347
             xmax = 1596.5673456164704
-            text = "oneneko"
+            text = "ciyanaa haqqabii ikhumibii nana"
         intervals [301]:
             xmin = 1596.5673456164704
             xmax = 1605.2321959323178
@@ -5793,7 +5793,7 @@ item []:
         intervals [304]:
             xmin = 1611.176603512653
             xmax = 1614.934109692274
-            text = "theteko"
+            text = "oneneko"
         intervals [305]:
             xmin = 1614.934109692274
             xmax = 1627.5412615736254
@@ -5801,7 +5801,7 @@ item []:
         intervals [306]:
             xmin = 1627.5412615736254
             xmax = 1630.7443815955974
-            text = "the:ko"
+            text = "theteko"
         intervals [307]:
             xmin = 1630.7443815955974
             xmax = 1667.2948743173768
@@ -5809,7 +5809,7 @@ item []:
         intervals [308]:
             xmin = 1667.2948743173768
             xmax = 1671.2782415241882
-            text = "tsainata"
+            text = "the:ko"
         intervals [309]:
             xmin = 1671.2782415241882
             xmax = 1679.9587029358881
@@ -5817,7 +5817,7 @@ item []:
         intervals [310]:
             xmin = 1679.9587029358881
             xmax = 1689.8144568496482
-            text = "gudo tsaitamo mariako"
+            text = "tsainata"
         intervals [311]:
             xmin = 1689.8144568496482
             xmax = 1707.7806749216065
@@ -5825,7 +5825,7 @@ item []:
         intervals [312]:
             xmin = 1707.7806749216065
             xmax = 1711.3328528946909
-            text = "ciee"
+            text = "gudo tsaitamo mariako"
         intervals [313]:
             xmin = 1711.3328528946909
             xmax = 1716.7690298790355
@@ -5833,7 +5833,7 @@ item []:
         intervals [314]:
             xmin = 1716.7690298790355
             xmax = 1725.803470966649
-            text = "gudo citamo mariako cceezzana "
+            text = "ciee"
         intervals [315]:
             xmin = 1725.803470966649
             xmax = 1729.006590988621
@@ -5841,7 +5841,7 @@ item []:
         intervals [316]:
             xmin = 1729.006590988621
             xmax = 1733.2979505052374
-            text = "misiamo"
+            text = "gudo citamo mariako cceezzana "
         intervals [317]:
             xmin = 1733.2979505052374
             xmax = 1744.7739033203982
@@ -5849,7 +5849,7 @@ item []:
         intervals [318]:
             xmin = 1744.7739033203982
             xmax = 1751.1185449023812
-            text = "uzameko misiakwa ezzana"
+            text = "misiamo"
         intervals [319]:
             xmin = 1751.1185449023812
             xmax = 1769.1579470995791
@@ -5857,7 +5857,7 @@ item []:
         intervals [320]:
             xmin = 1769.1579470995791
             xmax = 1773.0797158444295
-            text = "khwemaa"
+            text = "uzameko misiakwa ezzana"
         intervals [321]:
             xmin = 1773.0797158444295
             xmax = 1806.0850912907358
@@ -5865,7 +5865,7 @@ item []:
         intervals [322]:
             xmin = 1806.0850912907358
             xmax = 1816.3491486376188
-            text = "gudo khwisamo ma:nako eezzana"
+            text = "khwemaa"
         intervals [323]:
             xmin = 1816.3491486376188
             xmax = 1835.4935413868636
@@ -5873,7 +5873,7 @@ item []:
         intervals [324]:
             xmin = 1835.4935413868636
             xmax = 1839.7643680828262
-            text = "tosletcha"
+            text = "gudo khwisamo ma:nako eezzana"
         intervals [325]:
             xmin = 1839.7643680828262
             xmax = 1841.9203142514614
@@ -5881,7 +5881,7 @@ item []:
         intervals [326]:
             xmin = 1841.9203142514614
             xmax = 1847.705676844155
-            text = "gudo tosleamo ezzana"
+            text = "tosletcha"
         intervals [327]:
             xmin = 1847.705676844155
             xmax = 1861.010944627731
@@ -5889,7 +5889,7 @@ item []:
         intervals [328]:
             xmin = 1861.010944627731
             xmax = 1865.8977559433038
-            text = "andikhaeamo"
+            text = "gudo tosleamo ezzana"
         intervals [329]:
             xmin = 1865.8977559433038
             xmax = 1873.6843717082033
@@ -5897,7 +5897,7 @@ item []:
         intervals [330]:
             xmin = 1873.6843717082033
             xmax = 1879.310364567308
-            text = "gudo andikhaeamo ezzana"
+            text = "andikhaeamo"
         intervals [331]:
             xmin = 1879.310364567308
             xmax = 1891.9791149106204
@@ -5905,7 +5905,7 @@ item []:
         intervals [332]:
             xmin = 1891.9791149106204
             xmax = 1896.1678103239685
-            text = "tchungaeamo"
+            text = "gudo andikhaeamo ezzana"
         intervals [333]:
             xmin = 1896.1678103239685
             xmax = 1909.5480070831004
@@ -5913,7 +5913,7 @@ item []:
         intervals [334]:
             xmin = 1909.5480070831004
             xmax = 1915.6873204585468
-            text = "gudo gutchunga ezzana"
+            text = "tchungaeamo"
         intervals [335]:
             xmin = 1915.6873204585468
             xmax = 1929.8179470995792
@@ -5921,7 +5921,7 @@ item []:
         intervals [336]:
             xmin = 1929.8179470995792
             xmax = 1934.4994302086152
-            text = "gorephamo"
+            text = "gudo gutchunga ezzana"
         intervals [337]:
             xmin = 1934.4994302086152
             xmax = 1939.755832295954
@@ -5929,7 +5929,7 @@ item []:
         intervals [338]:
             xmin = 1939.755832295954
             xmax = 1948.4822810737624
-            text = "gudo gorephatamo mariako ezzana"
+            text = "gorephamo"
         intervals [339]:
             xmin = 1948.4822810737624
             xmax = 1951.220078382194
@@ -5937,7 +5937,7 @@ item []:
         intervals [340]:
             xmin = 1951.220078382194
             xmax = 1955.0597158444298
-            text = "koxxoakwa"
+            text = "gudo gorephatamo mariako ezzana"
         intervals [341]:
             xmin = 1955.0597158444298
             xmax = 1978.777701672499
@@ -5945,7 +5945,7 @@ item []:
         intervals [342]:
             xmin = 1978.777701672499
             xmax = 1985.245540178404
-            text = "gudo koxxoamo ezzana"
+            text = "koxxoakwa"
         intervals [343]:
             xmin = 1985.245540178404
             xmax = 2010.6573899998816
@@ -5953,7 +5953,7 @@ item []:
         intervals [344]:
             xmin = 2010.6573899998816
             xmax = 2015.2362090056492
-            text = "hesabueamo"
+            text = "gudo koxxoamo ezzana"
         intervals [345]:
             xmin = 2015.2362090056492
             xmax = 2018.2814450397057
@@ -5961,7 +5961,7 @@ item []:
         intervals [346]:
             xmin = 2018.2814450397057
             xmax = 2024.1856689342403
-            text = "gudo hesabueamo ezzana"
+            text = "hesabueamo"
         intervals [347]:
             xmin = 2024.1856689342403
             xmax = 2027.9729363882363
@@ -5969,7 +5969,7 @@ item []:
         intervals [348]:
             xmin = 2027.9729363882363
             xmax = 2033.4757323234192
-            text = "gopandanamo"
+            text = "gudo hesabueamo ezzana"
         intervals [349]:
             xmin = 2033.4757323234192
             xmax = 2036.5145897801617
@@ -5977,7 +5977,7 @@ item []:
         intervals [350]:
             xmin = 2036.5145897801617
             xmax = 2044.0091594038918
-            text = "gudo gopandatamo mariako ezzana"
+            text = "gopandanamo"
         intervals [351]:
             xmin = 2044.0091594038918
             xmax = 2048.5469127683523
@@ -5985,7 +5985,7 @@ item []:
         intervals [352]:
             xmin = 2048.5469127683523
             xmax = 2052.016959458822
-            text = "bia:mo"
+            text = "gudo gopandatamo mariako ezzana"
         intervals [353]:
             xmin = 2052.016959458822
             xmax = 2058.3000025788438
@@ -5993,7 +5993,7 @@ item []:
         intervals [354]:
             xmin = 2058.3000025788438
             xmax = 2063.9875938999094
-            text = "gudo biha:mo ezzana"
+            text = "bia:mo"
         intervals [355]:
             xmin = 2063.9875938999094
             xmax = 2072.0470337241336
@@ -6001,7 +6001,7 @@ item []:
         intervals [356]:
             xmin = 2072.0470337241336
             xmax = 2075.866138365716
-            text = "sapeako"
+            text = "gudo biha:mo ezzana"
         intervals [357]:
             xmin = 2075.866138365716
             xmax = 2077.6730265832384
@@ -6009,7 +6009,7 @@ item []:
         intervals [358]:
             xmin = 2077.6730265832384
             xmax = 2082.8472973879625
-            text = "citanaa sapeko nana"
+            text = "sapeako"
         intervals [359]:
             xmin = 2082.8472973879625
             xmax = 2093.2902096648086
@@ -6017,7 +6017,7 @@ item []:
         intervals [360]:
             xmin = 2093.2902096648086
             xmax = 2096.842387637893
-            text = "zaa"
+            text = "citanaa sapeko nana"
         intervals [361]:
             xmin = 2096.842387637893
             xmax = 2102.5915774209197
@@ -6025,7 +6025,7 @@ item []:
         intervals [362]:
             xmin = 2102.5915774209197
             xmax = 2107.765848225644
-            text = "gudo za:mo ezzana"
+            text = "zaa"
         intervals [363]:
             xmin = 2107.765848225644
             xmax = 2117.8480860723894
@@ -6033,7 +6033,7 @@ item []:
         intervals [364]:
             xmin = 2117.8480860723894
             xmax = 2122.016248665084
-            text = "manaketa"
+            text = "gudo za:mo ezzana"
         intervals [365]:
             xmin = 2122.016248665084
             xmax = 2132.8781107908735
@@ -6041,7 +6041,7 @@ item []:
         intervals [366]:
             xmin = 2132.8781107908735
             xmax = 2140.758997360497
-            text = "gudo semeamo manaketa ezzana"
+            text = "manaketa"
         intervals [367]:
             xmin = 2140.758997360497
             xmax = 2152.8528287255067
@@ -6049,7 +6049,7 @@ item []:
         intervals [368]:
             xmin = 2152.8528287255067
             xmax = 2157.34951644866
-            text = "fata atibii"
+            text = "gudo semeamo manaketa ezzana"
         intervals [369]:
             xmin = 2157.34951644866
             xmax = 2163.5873060668964
@@ -6057,7 +6057,7 @@ item []:
         intervals [370]:
             xmin = 2163.5873060668964
             xmax = 2169.3775614912306
-            text = "gudo fa:mo ezzana"
+            text = "fata atibii"
         intervals [371]:
             xmin = 2169.3775614912306
             xmax = 2177.6728210353117
@@ -6065,7 +6065,7 @@ item []:
         intervals [372]:
             xmin = 2177.6728210353117
             xmax = 2181.86151644866
-            text = "natcheamo"
+            text = "gudo fa:mo ezzana"
         intervals [373]:
             xmin = 2181.86151644866
             xmax = 2187.143020431082
@@ -6073,7 +6073,7 @@ item []:
         intervals [374]:
             xmin = 2187.143020431082
             xmax = 2192.235159953191
-            text = "gudo natchea ezzana"
+            text = "natcheamo"
         intervals [375]:
             xmin = 2192.235159953191
             xmax = 2216.5326815132025
@@ -6081,7 +6081,7 @@ item []:
         intervals [376]:
             xmin = 2216.5326815132025
             xmax = 2220.88563949178
-            text = "joroa hama"
+            text = "gudo natchea ezzana"
         intervals [377]:
             xmin = 2220.88563949178
             xmax = 2235.2167120181402
@@ -6089,7 +6089,7 @@ item []:
         intervals [378]:
             xmin = 2235.2167120181402
             xmax = 2239.407157698198
-            text = "habamia"
+            text = "joroa hama"
         intervals [379]:
             xmin = 2239.407157698198
             xmax = 2243.651337868481
