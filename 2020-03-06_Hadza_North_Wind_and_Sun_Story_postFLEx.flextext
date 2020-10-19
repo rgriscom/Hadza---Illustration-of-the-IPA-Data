@@ -1,0 +1,1366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+  <interlinear-text guid="c44f4827-a95f-4e73-ad34-1b90e329924a">
+    <item type="title" lang="en">20200306</item>
+    <item type="comment" lang="en">North Wind and the Sun story</item>
+    <paragraphs>
+      <paragraph guid="58453edc-7d09-493a-99e5-5ebb78f21dd4">
+        <phrases>
+          <phrase guid="8f8a405c-6e49-4297-a4d9-2e88e5a11c0b" begin-time-offset="13650" end-time-offset="14423" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="a93d7506-95c4-4137-b013-a79a5d0c1fe4">
+                <item type="txt" lang="hts">kwami</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">kw</item>
+                    <item type="cf" lang="hts">kwa</item>
+                    <item type="gls" lang="en">COND.AUX</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ami</item>
+                    <item type="cf" lang="hts">-ami</item>
+                    <item type="gls" lang="en">3.M.PL.SBJ.POST</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COND.AUX</item>
+              </word>
+              <word guid="f77c5797-6422-48ad-95f9-c9dee3f3efc6">
+                <item type="txt" lang="hts">zzutchibisa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">zzutchi</item>
+                    <item type="cf" lang="hts">zzutchi</item>
+                    <item type="gls" lang="en">wind</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-bi</item>
+                    <item type="cf" lang="hts">-bii</item>
+                    <item type="gls" lang="en">M.PL</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-sa</item>
+                    <item type="cf" lang="hts">-sa</item>
+                    <item type="hn" lang="hts">1</item>
+                    <item type="gls" lang="en">3.F.SG.POSS</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wind</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="e42e728a-8e85-4700-a783-52fa9f91f99b">
+                <item type="txt" lang="hts">sanzako</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">sanza</item>
+                    <item type="cf" lang="hts">sanza</item>
+                    <item type="gls" lang="en">north</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ko</item>
+                    <item type="cf" lang="hts">-ko</item>
+                    <item type="gls" lang="en">F.SG</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">north</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="c70f04d6-c71a-4eb3-9b2b-057da455b96d">
+                <item type="txt" lang="hts">a</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">a</item>
+                    <item type="cf" lang="hts">a</item>
+                    <item type="gls" lang="en">CONJ</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CONJ</item>
+              </word>
+              <word guid="d4071459-ab34-4c38-9fe0-a1e96ff438d4">
+                <item type="txt" lang="hts">ishoko</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">isho</item>
+                    <item type="cf" lang="hts">isho</item>
+                    <item type="gls" lang="en">sun</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ko</item>
+                    <item type="cf" lang="hts">-ko</item>
+                    <item type="gls" lang="en">F.SG</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="eb6716fb-cf27-41c3-927a-c6eac7e7df7f">
+                <item type="txt" lang="hts">guguruwakee</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">when the north wind and the sun were disputing</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="94d28541-6a50-40c4-8661-11757f272b47">
+        <phrases>
+          <phrase guid="189179df-150e-43f1-bc18-f59639e43180" begin-time-offset="18420" end-time-offset="19320" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word guid="4f8c017a-191d-4410-87bb-b64d9de11e57">
+                <item type="txt" lang="hts">akwazaha</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">akwaza</item>
+                    <item type="cf" lang="hts">akwaza</item>
+                    <item type="gls" lang="en">who</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ha</item>
+                    <item type="cf" lang="hts">-ha</item>
+                    <item type="gls" lang="en">Cop</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">who</item>
+              </word>
+              <word guid="8772edb0-8c9c-46bd-8d05-76666480836d">
+                <item type="txt" lang="hts">urubite</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">uru</item>
+                    <item type="cf" lang="hts">uru</item>
+                    <item type="gls" lang="en">strength</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-bite</item>
+                    <item type="cf" lang="hts">-bite</item>
+                    <item type="gls" lang="en">F.Pl.Assoc</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">strength</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="af53416e-d00f-4ade-89ec-8dd871c890c1">
+                <item type="txt" lang="hts">paana</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">paana</item>
+                    <item type="cf" lang="hts">paana</item>
+                    <item type="gls" lang="en">a.lot</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">a.lot</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">who has a lot of strength</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="00d17c42-8cc9-4081-9918-3a70a1c67299">
+        <phrases>
+          <phrase guid="e5e7fd70-651b-4208-bc1e-2be3a81995af" begin-time-offset="21480" end-time-offset="22098" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word guid="d040c70a-488c-4f5e-be04-3270b1576b91">
+                <item type="txt" lang="hts">iitlhikwa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">i-</item>
+                    <item type="cf" lang="hts">i-</item>
+                    <item type="gls" lang="en">NMLZ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">itlhikwa</item>
+                    <item type="cf" lang="hts">itlhikwa</item>
+                    <item type="gls" lang="en">walk</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="7848bd6b-b451-4a09-8170-f00dd0fde78a">
+                <item type="txt" lang="hts">hama</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">hama</item>
+                    <item type="cf" lang="hts">hama</item>
+                    <item type="hn" lang="hts">2</item>
+                    <item type="gls" lang="en">PROX.DEM.SG</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROX.DEM.SG</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="3945ba84-c0ae-4f42-b79f-8c2495a80778">
+                <item type="txt" lang="hts">kwamo</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">kw</item>
+                    <item type="cf" lang="hts">kwa</item>
+                    <item type="gls" lang="en">COND.AUX</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-amo</item>
+                    <item type="cf" lang="hts">-amo</item>
+                    <item type="gls" lang="en">3.SG.M.SBJ.POST</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COND.AUX</item>
+              </word>
+              <word guid="d37f44df-4ae9-4edb-8923-14aeff2e9d7a">
+                <item type="txt" lang="hts">sluba</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">sluba</item>
+                    <item type="cf" lang="hts">sluba</item>
+                    <item type="gls" lang="en">cover</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="a85e3af7-ae66-4d93-b326-5b4567160cc1">
+                <item type="txt" lang="hts">dloa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">dloa</item>
+                    <item type="cf" lang="hts">dloa</item>
+                    <item type="gls" lang="en">cloth</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="9054fa2e-a745-460a-8419-27ef6aed98af">
+                <item type="txt" lang="hts">ncaphane</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">ncaphane</item>
+                    <item type="cf" lang="hts">ncaphane</item>
+                    <item type="gls" lang="en">heavy</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">heavy</item>
+              </word>
+              <word guid="6ad83e01-8ee3-4db0-a800-435c10b8be11">
+                <item type="txt" lang="hts">kamo</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">ka-</item>
+                    <item type="cf" lang="hts">ka-</item>
+                    <item type="gls" lang="en">SEQ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-amo</item>
+                    <item type="cf" lang="hts">-amo</item>
+                    <item type="gls" lang="en">3.SG.M.SBJ.POST</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="5e68503a-b703-402b-b38c-a3c1786b20ad">
+                <item type="txt" lang="hts">quyu</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">quyu</item>
+                    <item type="cf" lang="hts">quyu</item>
+                    <item type="gls" lang="en">come.out</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">a traveller covered in a heavy shawl (skin) then appeared</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="c862d75c-df49-497b-b8b4-476fe935e023">
+        <phrases>
+          <phrase guid="b0b44202-10fe-40dd-a4ae-17f4f7c42bb5" begin-time-offset="26890" end-time-offset="27490" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word guid="e2832515-5bb0-43b0-bb46-501a964eb1a6">
+                <item type="txt" lang="hts">kitcha</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">ka-</item>
+                    <item type="cf" lang="hts">ka-</item>
+                    <item type="gls" lang="en">SEQ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">itcha</item>
+                    <item type="cf" lang="hts">itcha</item>
+                    <item type="gls" lang="en">3.F.Pl.SUBJ.POST</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3.F.Pl.SUBJ.POST</item>
+              </word>
+              <word guid="af1197f2-93b1-4cd5-8486-7effd28e4b40">
+                <item type="txt" lang="hts">dlozo</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">dlozo</item>
+                    <item type="cf" lang="hts">dlozo</item>
+                    <item type="gls" lang="en">say</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">they said</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="63f3d003-eea4-4e77-a944-196456ab8598">
+        <phrases>
+          <phrase guid="73c01048-c64f-4a8c-bb2b-2cad87d7b7cf" begin-time-offset="28265" end-time-offset="29195" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">5</item>
+            <words>
+              <word guid="b37d63b6-4906-4092-ab3b-8ca62dbede50">
+                <item type="txt" lang="hts">hishina</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">hishina</item>
+                    <item type="cf" lang="hts">hishina</item>
+                    <item type="gls" lang="en">thus</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">thus</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">thus</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="b2e51bee-3094-4aa5-b2d6-ccc525fb1f4e">
+        <phrases>
+          <phrase guid="bc7b10e2-d349-403d-8a0d-408300f0d165" begin-time-offset="29270" end-time-offset="29840" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word guid="7848bd6b-b451-4a09-8170-f00dd0fde78a">
+                <item type="txt" lang="hts">hama</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">hama</item>
+                    <item type="cf" lang="hts">hama</item>
+                    <item type="hn" lang="hts">2</item>
+                    <item type="gls" lang="en">PROX.DEM.SG</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROX.DEM.SG</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="e9bac6b6-4e35-455e-b238-151f2c874d17">
+                <item type="txt" lang="hts">kweso</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">kwa</item>
+                    <item type="cf" lang="hts">kwa</item>
+                    <item type="gls" lang="en">COND.AUX</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-eso</item>
+                    <item type="cf" lang="hts">-eso</item>
+                    <item type="gls" lang="en">3.M.Sg.SUBJ.POST</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COND.AUX</item>
+              </word>
+              <word guid="2e59de29-05bf-42b2-8325-40c67d0b5702">
+                <item type="txt" lang="hts">gumia</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">gumia</item>
+                    <item type="cf" lang="hts">gumia</item>
+                    <item type="gls" lang="en">go.ahead</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">go.ahead</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">the one who goes ahead</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="46741c32-4aaa-40df-850f-648f2fe6e784">
+        <phrases>
+          <phrase guid="07449fea-593d-43cb-aa43-8810cfa0cd46" begin-time-offset="31020" end-time-offset="31598" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">7</item>
+            <words>
+              <word guid="1caeb159-10cb-4fe4-8396-55110c8945a8">
+                <item type="txt" lang="hts">so</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">so</item>
+                    <item type="cf" lang="hts">so</item>
+                    <item type="gls" lang="en">oneself</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">oneself</item>
+              </word>
+              <word guid="c55cc9b3-c950-408e-966c-661bdc9ecd56">
+                <item type="txt" lang="hts">hiqqema</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">hiqqe</item>
+                    <item type="cf" lang="hts">hiqqe</item>
+                    <item type="gls" lang="en">leave</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ma</item>
+                    <item type="cf" lang="hts">-ma</item>
+                    <item type="gls" lang="en">APPL</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">leave</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="8dbeb07d-4b41-4fb0-9e73-43621720f5a6">
+                <item type="txt" lang="hts">dloa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">dloa</item>
+                    <item type="cf" lang="hts">dloa</item>
+                    <item type="gls" lang="en">cloth</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">skin</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="7848bd6b-b451-4a09-8170-f00dd0fde78a">
+                <item type="txt" lang="hts">hama</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">hama</item>
+                    <item type="cf" lang="hts">hama</item>
+                    <item type="hn" lang="hts">2</item>
+                    <item type="gls" lang="en">PROX.DEM.SG</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PROX.DEM.SG</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="4cd820b6-ad5b-40f3-abc3-a23d5d6cb673">
+                <item type="txt" lang="hts">unu</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">unu</item>
+                    <item type="cf" lang="hts">unu</item>
+                    <item type="gls" lang="en">person</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">person</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">and removes the shawl</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="3e49d8c0-ec96-47fc-a920-efe8676186d6">
+        <phrases>
+          <phrase guid="1b344b65-8752-49d0-b260-96791603ae33" begin-time-offset="34000" end-time-offset="34710" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">8</item>
+            <words>
+              <word guid="6fe716e4-b9cd-44a8-84e5-83af349d00d8">
+                <item type="txt" lang="hts">bami</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">bami</item>
+                    <item type="cf" lang="hts">bami</item>
+                    <item type="gls" lang="en">DIST.DEM.SG.M</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DIST.DEM.SG.M</item>
+              </word>
+              <word guid="b60dae2c-e719-4cdd-aa22-2fc664bce2ba">
+                <item type="txt" lang="hts">eheya</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">ehe</item>
+                    <item type="cf" lang="hts">ehe</item>
+                    <item type="gls" lang="en">say</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ya</item>
+                    <item type="cf" lang="hts">-ya</item>
+                    <item type="gls" lang="en">PASS</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">say</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="8772edb0-8c9c-46bd-8d05-76666480836d">
+                <item type="txt" lang="hts">urubite</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">uru</item>
+                    <item type="cf" lang="hts">uru</item>
+                    <item type="gls" lang="en">strength</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-bite</item>
+                    <item type="cf" lang="hts">-bite</item>
+                    <item type="gls" lang="en">F.Pl.Assoc</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">strength</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">of that person will be said to have strength</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="62839da5-2ce2-4aea-a1eb-70f27088afbf">
+        <phrases>
+          <phrase guid="bfc113ac-5a0f-4d6c-a397-226e33eba2d2" begin-time-offset="36490" end-time-offset="37224" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">9</item>
+            <words>
+              <word guid="3d3725db-b12a-4064-833a-4073fcd93a48">
+                <item type="txt" lang="hts">zzutchibisa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">zzutchi</item>
+                    <item type="cf" lang="hts">zzutchi</item>
+                    <item type="gls" lang="en">wind</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-bi</item>
+                    <item type="cf" lang="hts">-bii</item>
+                    <item type="gls" lang="en">M.PL</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-sa</item>
+                    <item type="cf" lang="hts">-sa</item>
+                    <item type="hn" lang="hts">1</item>
+                    <item type="gls" lang="en">3.F.SG.POSS</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wind</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="aee5c53e-73e6-4d3e-b164-afa9cf352b69">
+                <item type="txt" lang="hts">sanzako</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">sanza</item>
+                    <item type="cf" lang="hts">sanza</item>
+                    <item type="gls" lang="en">north</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ko</item>
+                    <item type="cf" lang="hts">-ko</item>
+                    <item type="gls" lang="en">F.SG</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">north</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="e2832515-5bb0-43b0-bb46-501a964eb1a6">
+                <item type="txt" lang="hts">kitcha</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">ka-</item>
+                    <item type="cf" lang="hts">ka-</item>
+                    <item type="gls" lang="en">SEQ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">itcha</item>
+                    <item type="cf" lang="hts">itcha</item>
+                    <item type="gls" lang="en">3.F.Pl.SUBJ.POST</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3.F.Pl.SUBJ.POST</item>
+              </word>
+              <word guid="474ab7b9-f399-4717-af29-c530b136f919">
+                <item type="txt" lang="hts">phoya</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">phoya</item>
+                    <item type="cf" lang="hts">phoyâ</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">wind</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wind</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="af53416e-d00f-4ade-89ec-8dd871c890c1">
+                <item type="txt" lang="hts">paana</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">paana</item>
+                    <item type="cf" lang="hts">paana</item>
+                    <item type="gls" lang="en">a.lot</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">a.lot</item>
+              </word>
+              <word guid="56636d64-f69b-43df-ae52-13296612bbba">
+                <item type="txt" lang="hts">nena</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">nena</item>
+                    <item type="cf" lang="hts">nena</item>
+                    <item type="gls" lang="en">with.it</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">with.it</item>
+              </word>
+              <word guid="322e168c-3ad0-4d81-9c8b-2423288b53ab">
+                <item type="txt" lang="hts">urubee</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">uru</item>
+                    <item type="cf" lang="hts">uru</item>
+                    <item type="gls" lang="en">strength</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="hts">bee</item>
+                    <item type="gls" lang="en">M.PL</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">strength</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">the north wind then gave a lot of strong wind</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4827620c-fed3-4d91-b0d2-c809959abb2a">
+        <phrases>
+          <phrase guid="b5c5dc35-e799-477d-88ee-f1d001fc4f95" begin-time-offset="41804" end-time-offset="42579" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">10</item>
+            <words>
+              <word guid="92243024-39c2-49ac-aaab-007982a42056">
+                <item type="txt" lang="hts">kwami</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">kw</item>
+                    <item type="cf" lang="hts">kwa</item>
+                    <item type="gls" lang="en">COND.AUX</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ami</item>
+                    <item type="cf" lang="hts">-ami</item>
+                    <item type="gls" lang="en">3.M.PL.SBJ.POST</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">COND.AUX</item>
+              </word>
+              <word guid="99f74e8a-ab9e-4b47-b350-955e21fd557d">
+                <item type="txt" lang="hts">phoyeehe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">phoya</item>
+                    <item type="cf" lang="hts">phoyâ</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">wind</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ehe</item>
+                    <item type="cf" lang="hts">-ehe</item>
+                    <item type="gls" lang="en">COP</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wind</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">but when he blew</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="2afc9f75-800b-4391-8cdc-cf045a241c6c">
+        <phrases>
+          <phrase guid="61897596-a7c6-4d64-982c-6f4d8f1bdf33" begin-time-offset="43480" end-time-offset="44184" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">11</item>
+            <words>
+              <word guid="af53416e-d00f-4ade-89ec-8dd871c890c1">
+                <item type="txt" lang="hts">paana</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">paana</item>
+                    <item type="cf" lang="hts">paana</item>
+                    <item type="gls" lang="en">a.lot</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">a.lot</item>
+              </word>
+              <word guid="6fe716e4-b9cd-44a8-84e5-83af349d00d8">
+                <item type="txt" lang="hts">bami</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">bami</item>
+                    <item type="cf" lang="hts">bami</item>
+                    <item type="gls" lang="en">DIST.DEM.SG.M</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DIST.DEM.SG.M</item>
+              </word>
+              <word guid="4cd820b6-ad5b-40f3-abc3-a23d5d6cb673">
+                <item type="txt" lang="hts">unu</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">unu</item>
+                    <item type="cf" lang="hts">unu</item>
+                    <item type="gls" lang="en">person</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">person</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="6ad83e01-8ee3-4db0-a800-435c10b8be11">
+                <item type="txt" lang="hts">kamo</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">ka-</item>
+                    <item type="cf" lang="hts">ka-</item>
+                    <item type="gls" lang="en">SEQ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-amo</item>
+                    <item type="cf" lang="hts">-amo</item>
+                    <item type="gls" lang="en">3.SG.M.SBJ.POST</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b01acd8c-9c99-4a4b-b613-087f7a48323d">
+                <item type="txt" lang="hts">thaana</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">thaa</item>
+                    <item type="cf" lang="hts">thaa</item>
+                    <item type="hn" lang="hts">1</item>
+                    <item type="gls" lang="en">close</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-na</item>
+                    <item type="cf" lang="hts">-na</item>
+                    <item type="hn" lang="hts">1</item>
+                    <item type="gls" lang="en">3.M.SG.OBJ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">close</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="8dbeb07d-4b41-4fb0-9e73-43621720f5a6">
+                <item type="txt" lang="hts">dloa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">dloa</item>
+                    <item type="cf" lang="hts">dloa</item>
+                    <item type="gls" lang="en">cloth</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">skin</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="129ab2ab-6a77-47f9-be4b-2f84056e2080">
+                <item type="txt" lang="hts">mtana</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">mtana</item>
+                    <item type="cf" lang="hts">mtana</item>
+                    <item type="gls" lang="en">good</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">good</item>
+                <item type="pos" lang="en">adv</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">a lot that person closed the shawl tightly</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4b0c04d6-d039-43d1-89b8-33e8c8a00744">
+        <phrases>
+          <phrase guid="1bb601c1-ab8d-4b08-8e21-e9e5eab40929" begin-time-offset="48650" end-time-offset="49381" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">12</item>
+            <words>
+              <word guid="05655def-0918-48f3-8ab9-b40d9b6b994f">
+                <item type="txt" lang="hts">beena</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">beena</item>
+                    <item type="cf" lang="hts">beena</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+              </word>
+              <word guid="e2832515-5bb0-43b0-bb46-501a964eb1a6">
+                <item type="txt" lang="hts">kitcha</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">ka-</item>
+                    <item type="cf" lang="hts">ka-</item>
+                    <item type="gls" lang="en">SEQ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">itcha</item>
+                    <item type="cf" lang="hts">itcha</item>
+                    <item type="gls" lang="en">3.F.Pl.SUBJ.POST</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3.F.Pl.SUBJ.POST</item>
+              </word>
+              <word guid="3d3725db-b12a-4064-833a-4073fcd93a48">
+                <item type="txt" lang="hts">zzutchibisa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">zzutchi</item>
+                    <item type="cf" lang="hts">zzutchi</item>
+                    <item type="gls" lang="en">wind</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-bi</item>
+                    <item type="cf" lang="hts">-bii</item>
+                    <item type="gls" lang="en">M.PL</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-sa</item>
+                    <item type="cf" lang="hts">-sa</item>
+                    <item type="hn" lang="hts">1</item>
+                    <item type="gls" lang="en">3.F.SG.POSS</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wind</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="aee5c53e-73e6-4d3e-b164-afa9cf352b69">
+                <item type="txt" lang="hts">sanzako</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">sanza</item>
+                    <item type="cf" lang="hts">sanza</item>
+                    <item type="gls" lang="en">north</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ko</item>
+                    <item type="cf" lang="hts">-ko</item>
+                    <item type="gls" lang="en">F.SG</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">north</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="e1504cd3-7deb-4a3c-a5e5-ac27f5019384">
+                <item type="txt" lang="hts">thaya</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">tha</item>
+                    <item type="cf" lang="hts">tha</item>
+                    <item type="gls" lang="en">leave</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ya</item>
+                    <item type="cf" lang="hts">-ya</item>
+                    <item type="gls" lang="en">PASS</item>
+                    <item type="msa" lang="en">Verb</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">leave</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="22494b41-9d72-4052-94f1-d99414ed3209">
+                <item type="txt" lang="hts">phoyatcha</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">phoya</item>
+                    <item type="cf" lang="hts">phoyâ</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">wind</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-tcha</item>
+                    <item type="cf" lang="hts">-tcha</item>
+                    <item type="hn" lang="hts">1</item>
+                    <item type="gls" lang="en">3.PL.F.POSS</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wind</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">then the north wind stopped blowing wind</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="bd9d8c1b-a185-4212-a591-83d1bfa56bc4">
+        <phrases>
+          <phrase guid="484e6559-1bb8-4e9f-bcfe-b571200638e3" begin-time-offset="53380" end-time-offset="54058" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">13</item>
+            <words>
+              <word guid="f05d4084-6b6e-4037-b8d9-d699aaea57f8">
+                <item type="txt" lang="hts">atonena</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">atonena</item>
+                    <item type="cf" lang="hts">atonena</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+              </word>
+              <word guid="762f5341-e019-4c8c-8cba-b71380036cb7">
+                <item type="txt" lang="hts">ishoko</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">isho</item>
+                    <item type="cf" lang="hts">isho</item>
+                    <item type="gls" lang="en">sun</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ko</item>
+                    <item type="cf" lang="hts">-ko</item>
+                    <item type="gls" lang="en">F.SG</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f435a6ab-fd7d-4176-a85d-6a1c760e0c63">
+                <item type="txt" lang="hts">kota</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">ka-</item>
+                    <item type="cf" lang="hts">ka-</item>
+                    <item type="gls" lang="en">SEQ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">ota</item>
+                    <item type="cf" lang="hts">ota</item>
+                    <item type="gls" lang="en">3.SG.F.SBJ.POST</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3.SG.F.SBJ.POST</item>
+              </word>
+              <word guid="17a605a2-1f8a-4d5a-be15-0a6769c9204d">
+                <item type="txt" lang="hts">bexxe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">bexxe</item>
+                    <item type="cf" lang="hts">bexxê</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">shine</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">shine</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="56636d64-f69b-43df-ae52-13296612bbba">
+                <item type="txt" lang="hts">nena</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">nena</item>
+                    <item type="cf" lang="hts">nena</item>
+                    <item type="gls" lang="en">with.it</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">with.it</item>
+              </word>
+              <word guid="6f1a452a-bc13-4f41-b8fa-e016bae186a3">
+                <item type="txt" lang="hts">petenê</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">petenê</item>
+                    <item type="cf" lang="hts">petenê</item>
+                    <item type="gls" lang="en">hot</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">hot</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">then the sun shone with heat</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="41618cb0-0f7c-4408-aaa6-3b76d26a7c91">
+        <phrases>
+          <phrase guid="f9d651f6-4f89-4caf-8ff9-7cbdbb770b18" begin-time-offset="57580" end-time-offset="58500" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">14</item>
+            <words>
+              <word guid="05655def-0918-48f3-8ab9-b40d9b6b994f">
+                <item type="txt" lang="hts">beena</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">beena</item>
+                    <item type="cf" lang="hts">beena</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">then</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="7b8c8cde-a70d-4a1a-8824-3ee1c394b8cd">
+        <phrases>
+          <phrase guid="e2d73762-7b70-4250-a211-f35626c18fd3" begin-time-offset="58590" end-time-offset="59198" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">15</item>
+            <words>
+              <word guid="6fe716e4-b9cd-44a8-84e5-83af349d00d8">
+                <item type="txt" lang="hts">bami</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">bami</item>
+                    <item type="cf" lang="hts">bami</item>
+                    <item type="gls" lang="en">DIST.DEM.SG.M</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DIST.DEM.SG.M</item>
+              </word>
+              <word guid="4cd820b6-ad5b-40f3-abc3-a23d5d6cb673">
+                <item type="txt" lang="hts">unu</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">unu</item>
+                    <item type="cf" lang="hts">unu</item>
+                    <item type="gls" lang="en">person</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">person</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="c2ceae15-c6a1-4abe-a097-d215945de632">
+                <item type="txt" lang="hts">kamo</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">ka-</item>
+                    <item type="cf" lang="hts">ka-</item>
+                    <item type="gls" lang="en">SEQ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-amo</item>
+                    <item type="cf" lang="hts">-amo</item>
+                    <item type="gls" lang="en">3.SG.M.SBJ.POST</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="5a264eda-86a4-43a4-9c7e-be1e497af784">
+                <item type="txt" lang="hts">zzuana</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">zzua</item>
+                    <item type="cf" lang="hts">zzua</item>
+                    <item type="gls" lang="en">remove</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-na</item>
+                    <item type="cf" lang="hts">-na</item>
+                    <item type="hn" lang="hts">1</item>
+                    <item type="gls" lang="en">3.M.SG.OBJ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="8dbeb07d-4b41-4fb0-9e73-43621720f5a6">
+                <item type="txt" lang="hts">dloa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">dloa</item>
+                    <item type="cf" lang="hts">dloa</item>
+                    <item type="gls" lang="en">cloth</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">skin</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">the person removed the shawl</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="99573512-40f2-4e14-8beb-3ec993ae6384">
+        <phrases>
+          <phrase guid="4dcc84ee-ebac-4bec-bb69-99653842c13e" begin-time-offset="61740" end-time-offset="62450" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">16</item>
+            <words>
+              <word guid="b37d63b6-4906-4092-ab3b-8ca62dbede50">
+                <item type="txt" lang="hts">hishina</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">hishina</item>
+                    <item type="cf" lang="hts">hishina</item>
+                    <item type="gls" lang="en">thus</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">thus</item>
+              </word>
+              <word guid="3d3725db-b12a-4064-833a-4073fcd93a48">
+                <item type="txt" lang="hts">zzutchibisa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">zzutchi</item>
+                    <item type="cf" lang="hts">zzutchi</item>
+                    <item type="gls" lang="en">wind</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-bi</item>
+                    <item type="cf" lang="hts">-bii</item>
+                    <item type="gls" lang="en">M.PL</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-sa</item>
+                    <item type="cf" lang="hts">-sa</item>
+                    <item type="hn" lang="hts">1</item>
+                    <item type="gls" lang="en">3.F.SG.POSS</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">wind</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="aee5c53e-73e6-4d3e-b164-afa9cf352b69">
+                <item type="txt" lang="hts">sanzako</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">sanza</item>
+                    <item type="cf" lang="hts">sanza</item>
+                    <item type="gls" lang="en">north</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ko</item>
+                    <item type="cf" lang="hts">-ko</item>
+                    <item type="gls" lang="en">F.SG</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">north</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="e2832515-5bb0-43b0-bb46-501a964eb1a6">
+                <item type="txt" lang="hts">kitcha</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">ka-</item>
+                    <item type="cf" lang="hts">ka-</item>
+                    <item type="gls" lang="en">SEQ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">itcha</item>
+                    <item type="cf" lang="hts">itcha</item>
+                    <item type="gls" lang="en">3.F.Pl.SUBJ.POST</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3.F.Pl.SUBJ.POST</item>
+              </word>
+              <word guid="393a1f88-72ea-456b-8317-ce89dec67219">
+                <item type="txt" lang="hts">tethao</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">tethao</item>
+                    <item type="cf" lang="hts">tethao</item>
+                    <item type="gls" lang="en">know</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en"></item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">and so the north wind then knew</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="1be496da-e0f3-418b-8f68-b4d5ed95cd0f">
+        <phrases>
+          <phrase guid="9aa34232-b154-4444-aa5f-c91540739d26" begin-time-offset="65390" end-time-offset="66582" speaker="A" media-file="deec1ed7-b935-4616-bd67-77ed3bac737f">
+            <item type="segnum" lang="en">17</item>
+            <words>
+              <word guid="762f5341-e019-4c8c-8cba-b71380036cb7">
+                <item type="txt" lang="hts">ishoko</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">isho</item>
+                    <item type="cf" lang="hts">isho</item>
+                    <item type="gls" lang="en">sun</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-ko</item>
+                    <item type="cf" lang="hts">-ko</item>
+                    <item type="gls" lang="en">F.SG</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="74bfb395-7cd3-4aad-b134-99901e12563b">
+                <item type="txt" lang="hts">urubitieakwa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">uru</item>
+                    <item type="cf" lang="hts">uru</item>
+                    <item type="gls" lang="en">strength</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-bitie</item>
+                    <item type="cf" lang="hts">-bite</item>
+                    <item type="variantTypes" lang="en">+unspec. var. of</item>
+                    <item type="gls" lang="en">F.Pl.Assoc</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-akwa</item>
+                    <item type="cf" lang="hts">-akwa</item>
+                    <item type="gls" lang="en">3.SG.F.SBJ.POST</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">strength</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="af53416e-d00f-4ade-89ec-8dd871c890c1">
+                <item type="txt" lang="hts">paana</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">paana</item>
+                    <item type="cf" lang="hts">paana</item>
+                    <item type="gls" lang="en">a.lot</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">a.lot</item>
+              </word>
+              <word guid="de978aa5-dbf7-437c-b38b-fcc6a8b03332">
+                <item type="txt" lang="hts">xhaanayeta</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">xhaa</item>
+                    <item type="cf" lang="hts">xhaa</item>
+                    <item type="gls" lang="en">middle</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-na</item>
+                    <item type="cf" lang="hts">-na</item>
+                    <item type="hn" lang="hts">1</item>
+                    <item type="gls" lang="en">3.M.SG.OBJ</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hts">-yeta</item>
+                    <item type="cf" lang="hts">-yeta</item>
+                    <item type="gls" lang="en">3.PL.F.POSS</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">middle</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">the sun had the most strength among them</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Charis SIL" />
+      <language lang="hts" font="Charis SIL" vernacular="true" />
+    </languages>
+    <media-files offset-type="">
+      <media guid="deec1ed7-b935-4616-bd67-77ed3bac737f" location="" />
+    </media-files>
+  </interlinear-text>
+</document>

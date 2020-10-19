@@ -1,0 +1,2520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="2">
+    <interlinear-text guid="4bd667b3-e026-4e7c-8be3-d668e68999d8">
+        <item lang="hts" type="title">2020-01-02_AHb</item>
+        <paragraphs>
+            <paragraph guid="9d652504-dbe5-4a4f-aa7e-0933e4896065">
+                <phrases>
+                    <phrase begin-time-offset="23295"
+                        end-time-offset="26815"
+                        guid="47f71ca8-7d62-44fb-a987-aef5e1c28d47"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ccara</item>
+                        <words/>
+                        <item lang="en" type="gls">fish</item>
+                        <item lang="sw" type="gls">samaki</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="a767c7fc-fd05-42c8-af27-0e7d1d7c7b9d">
+                <phrases>
+                    <phrase begin-time-offset="30639"
+                        end-time-offset="36616"
+                        guid="d90135d9-4084-4fbc-8c02-e7e78b1aa00f"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa ccara nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a fish there</item>
+                        <item lang="sw" type="gls">niliona samaki kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="42204661-3e00-4725-86b3-bd63794b27f6">
+                <phrases>
+                    <phrase begin-time-offset="41895"
+                        end-time-offset="45507"
+                        guid="dc26d1de-0613-4259-868b-9716a8f03d34"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">xhaano</item>
+                        <words/>
+                        <item lang="en" type="gls">dog</item>
+                        <item lang="sw" type="gls">mbwa</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="3fd57962-069c-4f03-b159-44fef655d913">
+                <phrases>
+                    <phrase begin-time-offset="48656"
+                        end-time-offset="55495"
+                        guid="d9c6bc08-4c13-4b56-adca-c1b42fdb6b68"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa xhaano nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a dog there</item>
+                        <item lang="sw" type="gls">niliona mbwa kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="21fc1da2-14db-4653-b02c-05b71800f77e">
+                <phrases>
+                    <phrase begin-time-offset="58666"
+                        end-time-offset="62699"
+                        guid="ae66887d-25b5-4ec5-a6ed-87ad33fa0d77"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ccamazziko</item>
+                        <words/>
+                        <item lang="en" type="gls">louse</item>
+                        <item lang="sw" type="gls">chawa</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="e25544f9-e9d0-4076-ba33-f1c2b607ed15">
+                <phrases>
+                    <phrase begin-time-offset="66880"
+                        end-time-offset="75056"
+                        guid="15fa8f32-1db5-455e-ba8f-63a4215478de"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa ccamazziko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a louse there</item>
+                        <item lang="sw" type="gls">niliona chawa kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="277f49c3-28d2-40ad-8231-f3a6d6a74740">
+                <phrases>
+                    <phrase begin-time-offset="76963"
+                        end-time-offset="80904"
+                        guid="45266f84-2dee-48bd-a98c-bcea26f54668"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">athama</item>
+                        <words/>
+                        <item lang="en" type="gls">blood</item>
+                        <item lang="sw" type="gls">damu</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="edf7d88e-858b-442a-bf9f-d6e5d44b258f">
+                <phrases>
+                    <phrase begin-time-offset="83691"
+                        end-time-offset="90438"
+                        guid="db0a7577-91b2-4e0d-a3ee-16f3582b95d9"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa athama nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw blood there</item>
+                        <item lang="sw" type="gls">niliona damu kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="71352ec1-0fed-4b2d-ad54-d5f10faf2be4">
+                <phrases>
+                    <phrase begin-time-offset="92931"
+                        end-time-offset="96469"
+                        guid="f86d2531-65d3-4832-bef9-e9e8cb8ab0eb"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">midla</item>
+                        <words/>
+                        <item lang="en" type="gls">bone</item>
+                        <item lang="sw" type="gls">mfupa</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="61795794-6d37-46f5-b71f-8ad251b3832d">
+                <phrases>
+                    <phrase begin-time-offset="99219"
+                        end-time-offset="106094"
+                        guid="13fbbf55-a991-4753-b68b-e00031e0552a"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa midla nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a bone there</item>
+                        <item lang="sw" type="gls">niliona mfupa kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="cb164302-b805-4035-93d9-7410a58c98ad">
+                <phrases>
+                    <phrase begin-time-offset="110746"
+                        end-time-offset="114284"
+                        guid="021f61b4-4cc1-4e34-a5fc-8d54f5a844b9"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">usleko</item>
+                        <words/>
+                        <item lang="en" type="gls">egg</item>
+                        <item lang="sw" type="gls">yai</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="19ecdf24-d49b-4624-b4fa-4438825b77d3">
+                <phrases>
+                    <phrase begin-time-offset="116924"
+                        end-time-offset="123579"
+                        guid="7c56b1d1-edef-4696-8a9f-3726c58cd6a4"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa usleko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw an egg there</item>
+                        <item lang="sw" type="gls">niliona yai kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="4f341e2e-c7f1-477c-8c85-08074f68294f">
+                <phrases>
+                    <phrase begin-time-offset="128362"
+                        end-time-offset="132359"
+                        guid="6286dbcc-04e3-4bae-94b4-6ca011bac535"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">roo</item>
+                        <words/>
+                        <item lang="en" type="gls">horn</item>
+                        <item lang="sw" type="gls">pembe</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="6b162104-6844-4e12-9ab7-2ac1b5b239c1">
+                <phrases>
+                    <phrase begin-time-offset="134706"
+                        end-time-offset="141874"
+                        guid="2d6906b7-1673-49cb-844e-e3153935a240"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa roo nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a horn there</item>
+                        <item lang="sw" type="gls">niliona pembe kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="d5f91008-7a3f-4854-9190-5f2bdb32e2b7">
+                <phrases>
+                    <phrase begin-time-offset="144220"
+                        end-time-offset="147795"
+                        guid="eee2561f-f0be-42a3-8887-063d59c61c69"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">zzaoko</item>
+                        <words/>
+                        <item lang="en" type="gls">long tail </item>
+                        <item lang="sw" type="gls">mkia mrefu</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="eaaa2b31-5f4f-48c6-a754-0e286311a219">
+                <phrases>
+                    <phrase begin-time-offset="151902"
+                        end-time-offset="159162"
+                        guid="45c7bf68-ab9c-41ac-8bd5-582a9f336cec"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa zzaoko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a long tail there</item>
+                        <item lang="sw" type="gls">niliona mkia mrefu kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="33723aa5-01bd-4d97-85c8-b9de36812cfc">
+                <phrases>
+                    <phrase begin-time-offset="162535"
+                        end-time-offset="166385"
+                        guid="cdffc36b-b6f7-4e67-84ce-dc3a4a748455"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">hajjapitchiko</item>
+                        <words/>
+                        <item lang="en" type="gls">(round) ear</item>
+                        <item lang="sw" type="gls">sikio</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="eebe3d66-0b79-4601-ba84-f57fe9ec6f5d">
+                <phrases>
+                    <phrase begin-time-offset="179477"
+                        end-time-offset="187806"
+                        guid="669d2e2f-4e9c-4282-8ae1-dbf518da6f02"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa hajjapitchiko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw an ear there</item>
+                        <item lang="sw" type="gls">niliona sikio kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="d7b1ec67-480e-43ee-b126-57d3c27c3971">
+                <phrases>
+                    <phrase begin-time-offset="195406"
+                        end-time-offset="198805"
+                        guid="d7150f24-6935-420f-9c18-2718acfe9638"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">akhwako</item>
+                        <words/>
+                        <item lang="en" type="gls">eye</item>
+                        <item lang="sw" type="gls">jicho</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="ab4ffd9c-efc2-476c-bfde-a113fe5b1c7a">
+                <phrases>
+                    <phrase begin-time-offset="213076"
+                        end-time-offset="220099"
+                        guid="d54d08b1-8c95-42ba-ae9c-719fe4b033cb"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa akhwako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw an eye there</item>
+                        <item lang="sw" type="gls">niliona jicho kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="755a9a7d-c59c-4991-b031-a569178992da">
+                <phrases>
+                    <phrase begin-time-offset="227123"
+                        end-time-offset="230522"
+                        guid="daae6453-83d1-47c5-b931-f17567e6d3e1"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">intawe</item>
+                        <words/>
+                        <item lang="en" type="gls">nose</item>
+                        <item lang="sw" type="gls">pua</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="b924f570-dba1-4b30-8628-4a55e3991388">
+                <phrases>
+                    <phrase begin-time-offset="236847"
+                        end-time-offset="243172"
+                        guid="eb32d559-fa32-458c-921b-7c3f2b597d88"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa intawe nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a nose there</item>
+                        <item lang="sw" type="gls">niliona pua kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="c21874b9-33ef-4448-a885-9e7722d51d3b">
+                <phrases>
+                    <phrase begin-time-offset="245583"
+                        end-time-offset="248915"
+                        guid="73bdfa58-58a3-49d2-a654-8068e2acd7e6"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">aako</item>
+                        <words/>
+                        <item lang="en" type="gls">(non-molar) tooth</item>
+                        <item lang="sw" type="gls">jino</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="0dccbae5-9214-4944-86bf-95024d4c98bf">
+                <phrases>
+                    <phrase begin-time-offset="252269"
+                        end-time-offset="258729"
+                        guid="162d845b-bb6d-4750-b183-0010e6793cc5"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa aako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a tooth there</item>
+                        <item lang="sw" type="gls">niliona jino kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="1eb5a250-cba7-4a97-a494-0b8250f902f5">
+                <phrases>
+                    <phrase begin-time-offset="261092"
+                        end-time-offset="264041"
+                        guid="6570a4f3-94d8-4abc-8735-1aaad358c2f8"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ncata</item>
+                        <words/>
+                        <item lang="en" type="gls">tongue</item>
+                        <item lang="sw" type="gls">ulimi</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="46738e02-9bcf-46b4-8814-6073a8da6d45">
+                <phrases>
+                    <phrase begin-time-offset="266607"
+                        end-time-offset="272730"
+                        guid="1cefa35c-80b1-41a3-a292-5464b73447dc"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa ncata nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a tongue there</item>
+                        <item lang="sw" type="gls">niliona ulimi kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="415a7ee8-8df1-4f05-a5eb-c3eb7fb2fa74">
+                <phrases>
+                    <phrase begin-time-offset="275701"
+                        end-time-offset="279641"
+                        guid="f55017b7-59b8-4d4a-af35-59ffa3e17598"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ukwaako</item>
+                        <words/>
+                        <item lang="en" type="gls">hand</item>
+                        <item lang="sw" type="gls">mkono</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="88fa75a9-96a2-4a94-8e6e-76ddd0cc9a53">
+                <phrases>
+                    <phrase begin-time-offset="282312"
+                        end-time-offset="288885"
+                        guid="d1db35ff-cde9-4f83-b86a-183cb376fb6c"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa ukwako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a hand there</item>
+                        <item lang="sw" type="gls">niliona mkono kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="336201a9-7668-4d04-a4b5-02b1137edadc">
+                <phrases>
+                    <phrase begin-time-offset="290866"
+                        end-time-offset="294107"
+                        guid="209c17d6-0856-4751-ad52-e6e3789a5d1d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ishoko</item>
+                        <words/>
+                        <item lang="en" type="gls">sun</item>
+                        <item lang="sw" type="gls">jua</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="968298e6-b9f8-4c8a-a23f-bad85b16b26e">
+                <phrases>
+                    <phrase begin-time-offset="296651"
+                        end-time-offset="303157"
+                        guid="7ebcc8f8-3841-47d2-9b0c-89f816dbbcb4"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa ishoko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw the sun there</item>
+                        <item lang="sw" type="gls">niliona jua kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="2a8f49e2-4d17-4ee1-a439-0bfb4ec99e88">
+                <phrases>
+                    <phrase begin-time-offset="306173"
+                        end-time-offset="309324"
+                        guid="2c2e3e0c-9371-4e00-9ce8-0df5077d8e80"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">se:ta</item>
+                        <words/>
+                        <item lang="en" type="gls">moon, month</item>
+                        <item lang="sw" type="gls">mwezi</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="6ad5710d-781e-4d24-a766-6ff5174137a1">
+                <phrases>
+                    <phrase begin-time-offset="312782"
+                        end-time-offset="318657"
+                        guid="a2cecefa-524b-46aa-8b32-f364292cc466"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa se:ta nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw the moon there</item>
+                        <item lang="sw" type="gls">niliona mwezi kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="8d7e1414-f623-4760-9a49-2ba77de0024c">
+                <phrases>
+                    <phrase begin-time-offset="322326"
+                        end-time-offset="325725"
+                        guid="a0a7c61d-fb10-421e-9613-a0c182f0baaf"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">atibii</item>
+                        <words/>
+                        <item lang="en" type="gls">water</item>
+                        <item lang="sw" type="gls">maji</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="aca4e6a4-ac8b-4d39-aba6-d409be0b0aca">
+                <phrases>
+                    <phrase begin-time-offset="329529"
+                        end-time-offset="337241"
+                        guid="d53c8271-8506-41b8-a9d0-005136501baa"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitchanaa atibii nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw water there</item>
+                        <item lang="sw" type="gls">niliona maji kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="155aa75e-5523-4ac9-86e1-7a9a3e23cbdf">
+                <phrases>
+                    <phrase begin-time-offset="339177"
+                        end-time-offset="342666"
+                        guid="d14ff608-fe2e-47f0-94af-bb47ae863e80"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">monyoda</item>
+                        <words/>
+                        <item lang="en" type="gls">salt</item>
+                        <item lang="sw" type="gls">chumvi</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="11910542-d9fa-4971-9958-746ef35662c5">
+                <phrases>
+                    <phrase begin-time-offset="345412"
+                        end-time-offset="351647"
+                        guid="22005b70-bf4c-4353-89de-f14d1f1876e1"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa monyoda nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw salt there</item>
+                        <item lang="sw" type="gls">niliona chumvi kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="2a157955-5c19-4912-b6b8-7a908b3a42d7">
+                <phrases>
+                    <phrase begin-time-offset="353606"
+                        end-time-offset="356960"
+                        guid="ea69a984-96d0-457a-a875-b1260522204d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">aqqako</item>
+                        <words/>
+                        <item lang="en" type="gls">stone</item>
+                        <item lang="sw" type="gls">jiwe</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="7c0f0086-ffc1-4696-839a-6b9b6ea523e5">
+                <phrases>
+                    <phrase begin-time-offset="359659"
+                        end-time-offset="366660"
+                        guid="327d768b-e8de-44d2-bae9-2b7941faaf7e"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa aqqako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a rock there</item>
+                        <item lang="sw" type="gls">niliona jiwe kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="997219b3-6d07-4b91-bc79-412f146a4b3c">
+                <phrases>
+                    <phrase begin-time-offset="368663"
+                        end-time-offset="371905"
+                        guid="56d304c0-3a90-4167-a582-9b6149a7566e"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">tsutchibii</item>
+                        <words/>
+                        <item lang="en" type="gls">wind</item>
+                        <item lang="sw" type="gls">upepo</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="bd2c1423-bb8b-483c-a776-9d73a6a176b2">
+                <phrases>
+                    <phrase begin-time-offset="375326"
+                        end-time-offset="381021"
+                        guid="4d97dcd3-5e0c-48dd-b4ca-dc9ced2d115d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitchanaa tsutchibii nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw wind there</item>
+                        <item lang="sw" type="gls">niliona upepo kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="34be7264-b323-46ca-9bea-c47de7c03be7">
+                <phrases>
+                    <phrase begin-time-offset="383262"
+                        end-time-offset="387629"
+                        guid="4ed17157-bf17-44df-9b3f-4106459f9b06"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">zzoko</item>
+                        <words/>
+                        <item lang="en" type="gls">fire</item>
+                        <item lang="sw" type="gls">moto</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="5c2d9dc7-632a-4f70-8194-e1233719ca6f">
+                <phrases>
+                    <phrase begin-time-offset="389925"
+                        end-time-offset="395732"
+                        guid="f1187491-5f49-474a-b0cc-1832ad3f2208"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa zzoko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a fire there</item>
+                        <item lang="sw" type="gls">niliona moto kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="46a56fb2-41bb-4680-9068-8a6ddcaa0cc5">
+                <phrases>
+                    <phrase begin-time-offset="398298"
+                        end-time-offset="401562"
+                        guid="b806c1ee-e061-40a7-8ebb-9cf70de95a14"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ng'wa:kha </item>
+                        <words/>
+                        <item lang="en" type="gls">year</item>
+                        <item lang="sw" type="gls">mwaka</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="30277a86-62e3-4983-a8da-62a2ef0919ca">
+                <phrases>
+                    <phrase begin-time-offset="406307"
+                        end-time-offset="411867"
+                        guid="0b49dd7e-c10d-46fc-a928-d43c6c232d12"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa ng'wa:kha nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a year there</item>
+                        <item lang="sw" type="gls">niliona mwaka kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="70f251de-96a2-4a5d-8460-ddc0ab0d755c">
+                <phrases>
+                    <phrase begin-time-offset="421074"
+                        end-time-offset="424428"
+                        guid="19985930-f127-4c52-9153-1e95ffbc7b16"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">??</item>
+                        <words/>
+                        <item lang="en" type="gls">to be full</item>
+                        <item lang="sw" type="gls">jaa</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="0b1fbbe3-7108-4513-999d-128eae49d16e">
+                <phrases>
+                    <phrase begin-time-offset="435954"
+                        end-time-offset="443315"
+                        guid="d89733d0-7db6-4bf6-a010-8bb98027330d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">?? ccosoame ccezzana </item>
+                        <words/>
+                        <item lang="en" type="gls">The bag was full at home</item>
+                        <item lang="sw" type="gls">Mfuko ulijaa nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="8af75586-d82d-4218-8d3e-050ac26cb98b">
+                <phrases>
+                    <phrase begin-time-offset="458554"
+                        end-time-offset="462066"
+                        guid="a3c127a8-f0a8-4a68-b39b-ac6b36c94bd2"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">zanapee</item>
+                        <words/>
+                        <item lang="en" type="gls">new</item>
+                        <item lang="sw" type="gls">mpya</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="0afcdbba-c101-4f71-b9c5-e3dbb75c58d2">
+                <phrases>
+                    <phrase begin-time-offset="465889"
+                        end-time-offset="470211"
+                        guid="a681d982-8931-40b6-953e-d404cb20eed7"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">aako zanako</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a new (big) knife there</item>
+                        <item lang="sw" type="gls">niliona kisu (kikubwa) kipya kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="fddbfc22-4ea6-45b7-857b-a86a080f9b3a">
+                <phrases>
+                    <phrase begin-time-offset="472710"
+                        end-time-offset="476086"
+                        guid="0feaa63e-54bf-4c56-84bc-4513ed7f437c"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">akhanabee</item>
+                        <words/>
+                        <item lang="en" type="gls">name</item>
+                        <item lang="sw" type="gls">jina</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="7ef85485-0a11-45b0-bb47-2ad51ce9d0e9">
+                <phrases>
+                    <phrase begin-time-offset="479238"
+                        end-time-offset="485743"
+                        guid="59324675-9f70-47d0-8d69-89b9b7cfa228"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa akhanabee nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a name there</item>
+                        <item lang="sw" type="gls">niliona jina kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="fe00b2ce-ed15-422c-b8c0-ff5c5ccb84e5">
+                <phrases>
+                    <phrase begin-time-offset="487139"
+                        end-time-offset="490419"
+                        guid="6d484d1a-272e-463c-95e1-e4433308536d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">atchekako</item>
+                        <words/>
+                        <item lang="en" type="gls">cow</item>
+                        <item lang="sw" type="gls">ng'ombe</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="2dd44aa3-d08f-4e47-864e-f9cd202d85be">
+                <phrases>
+                    <phrase begin-time-offset="492962"
+                        end-time-offset="499580"
+                        guid="76942ce6-c075-4380-9f2b-17efad0940f8"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa atchekako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a cow there</item>
+                        <item lang="sw" type="gls">niliona ng'ombe kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="6871bbf8-e2d8-4786-9b36-b8f7aa37f0d6">
+                <phrases>
+                    <phrase begin-time-offset="501291"
+                        end-time-offset="504645"
+                        guid="1f0caed4-1bf9-4262-8753-cfbb54e4750d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">wooko</item>
+                        <words/>
+                        <item lang="en" type="gls">desert</item>
+                        <item lang="sw" type="gls">jangwa</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="9ba6c8e9-2aac-4ec2-be25-d4cdfd8cd9e8">
+                <phrases>
+                    <phrase begin-time-offset="507909"
+                        end-time-offset="513964"
+                        guid="8146e568-ada8-4c0d-85fe-6beb7541f6fe"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa wooko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a desert there</item>
+                        <item lang="sw" type="gls">niliona jangwa kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="40f0eb00-553f-439d-9448-1e3ce9b97ed3">
+                <phrases>
+                    <phrase begin-time-offset="522702"
+                        end-time-offset="526461"
+                        guid="368b8a33-0b89-4379-981c-400dc7178897"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">nderunderu</item>
+                        <words/>
+                        <item lang="en" type="gls">beard (short)</item>
+                        <item lang="sw" type="gls">ndevu (fupi)</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="fa7aafc5-35ff-4b4c-b73d-bfcc0c25e60b">
+                <phrases>
+                    <phrase begin-time-offset="528667"
+                        end-time-offset="535375"
+                        guid="4b327791-1e24-4928-98fb-9d074abd2a7a"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa nderunderuko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a beard there</item>
+                        <item lang="sw" type="gls">niliona ndevu (fupi) kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="6e21bd24-7b77-49c2-ad6d-900bf7c56014">
+                <phrases>
+                    <phrase begin-time-offset="537761"
+                        end-time-offset="541588"
+                        guid="44a5c624-02a7-44ff-8690-815c6a058c1b"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">damogako</item>
+                        <words/>
+                        <item lang="en" type="gls">beard (short)</item>
+                        <item lang="sw" type="gls">ndevu (fupi)</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="c942e21e-ad2a-430c-8881-1f6de6639614">
+                <phrases>
+                    <phrase begin-time-offset="543501"
+                        end-time-offset="550247"
+                        guid="2b6dceb3-fa2d-4abb-92c3-c19268df52ea"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa damogako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a beard there</item>
+                        <item lang="sw" type="gls">niliona ndevu (fupi) kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="509fc4ac-17b3-436a-ab82-30a8491be9fb">
+                <phrases>
+                    <phrase begin-time-offset="554907"
+                        end-time-offset="558486"
+                        guid="b509ef1f-1a92-4cc2-86e9-b431e80b26af"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">joro</item>
+                        <words/>
+                        <item lang="en" type="gls">big knife</item>
+                        <item lang="sw" type="gls">kisu chenye vipande viwili</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="99bd20eb-3b22-4b34-89a3-fba4d06ef5cb">
+                <phrases>
+                    <phrase begin-time-offset="560985"
+                        end-time-offset="566657"
+                        guid="94944eab-fa97-47f1-83cf-c32751c0f102"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa joro nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a big knife there</item>
+                        <item lang="sw" type="gls">niliona kisu chenye vipande viwili kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="e48cc9af-5b9e-480b-8b3e-e1bb0d300e61">
+                <phrases>
+                    <phrase begin-time-offset="570596"
+                        end-time-offset="573954"
+                        guid="76dec25e-8378-4888-9dde-55e53e32b460"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">arako</item>
+                        <words/>
+                        <item lang="en" type="gls">goat</item>
+                        <item lang="sw" type="gls">mbuzi</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="1204190b-23e3-4ea6-9947-33f84d1acccb">
+                <phrases>
+                    <phrase begin-time-offset="577138"
+                        end-time-offset="583598"
+                        guid="3a92edc7-c060-4644-9be2-84d1e8897b38"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa arako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a goat there</item>
+                        <item lang="sw" type="gls">niliona mbuzi kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="6722e8a2-2a76-4803-89b9-718b4d5fda94">
+                <phrases>
+                    <phrase begin-time-offset="586164"
+                        end-time-offset="589518"
+                        guid="c909d45f-85b9-42c7-a5cb-8f00653a5221"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">pukupukuko</item>
+                        <words/>
+                        <item lang="en" type="gls">sheep</item>
+                        <item lang="sw" type="gls">kondoo</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="f0c7227f-c6ff-4f13-8a2a-41599136b4b6">
+                <phrases>
+                    <phrase begin-time-offset="594565"
+                        end-time-offset="601611"
+                        guid="12b21cdf-9a33-4a57-820f-f91278f3050b"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa pukupukuko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a sheep there</item>
+                        <item lang="sw" type="gls">niliona kondoo kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="1e0566df-4ad6-4675-8955-8290da52022f">
+                <phrases>
+                    <phrase begin-time-offset="603524"
+                        end-time-offset="607374"
+                        guid="d9a3db0c-02d1-4881-8b6a-19daf32bbbb9"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">saraokapii</item>
+                        <words/>
+                        <item lang="en" type="gls">twins</item>
+                        <item lang="sw" type="gls">mapacha</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="20b57d22-b6ff-4eb2-95fe-92cac3b205e1">
+                <phrases>
+                    <phrase begin-time-offset="610030"
+                        end-time-offset="618584"
+                        guid="dbdd8e1a-634a-448d-a5cd-0c766181d46b"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitchanaa saraokabii nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw twins there</item>
+                        <item lang="sw" type="gls">niliona mapacha kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="e51ec3dc-cd48-48ab-8476-42de11240c5f">
+                <phrases>
+                    <phrase begin-time-offset="621118"
+                        end-time-offset="625035"
+                        guid="6c62dfb8-7d38-4d8e-82cd-ea78e108c9d3"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">siketapee</item>
+                        <words/>
+                        <item lang="en" type="gls">skirt</item>
+                        <item lang="sw" type="gls">sketi</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="a5fd9b2e-b189-4a84-8fff-1382684dea23">
+                <phrases>
+                    <phrase begin-time-offset="627443"
+                        end-time-offset="633656"
+                        guid="7c26417d-9673-4a8d-8bd2-5a5336925400"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa siketabee nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a skirt there</item>
+                        <item lang="sw" type="gls">niliona sketi kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="383c2a17-5dbd-46ec-bf2b-ee33d63a7b5b">
+                <phrases>
+                    <phrase begin-time-offset="635772"
+                        end-time-offset="638923"
+                        guid="cb900b88-3bd9-462c-843c-653ae026d4c9"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ggada</item>
+                        <words/>
+                        <item lang="en" type="gls">poison</item>
+                        <item lang="sw" type="gls">sumu</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="698da8f9-74e7-4b32-871b-9ab5f877b221">
+                <phrases>
+                    <phrase begin-time-offset="641062"
+                        end-time-offset="646217"
+                        guid="c23e9c57-ac82-4b2b-9a92-e9a428bad4f7"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa ggada nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a poison there</item>
+                        <item lang="sw" type="gls">niliona sumu kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="79a2e1b5-02e4-4c6d-be50-ea590a4ba0f9">
+                <phrases>
+                    <phrase begin-time-offset="649323"
+                        end-time-offset="652884"
+                        guid="2b6545f0-2335-4631-9e06-f041767842b6"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">aibii</item>
+                        <words/>
+                        <item lang="en" type="gls">feather (for epeme dance)</item>
+                        <item lang="sw" type="gls">nyoya</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="403f726a-dc70-4fb4-9a95-929177c07963">
+                <phrases>
+                    <phrase begin-time-offset="655338"
+                        end-time-offset="661100"
+                        guid="15059546-b3a4-4ea2-930e-11d3eca9ce7a"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitchanaa aibii nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a feather there</item>
+                        <item lang="sw" type="gls">niliona nyoya kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="a9b75f65-4753-4103-a797-340930cf72a9">
+                <phrases>
+                    <phrase begin-time-offset="667606"
+                        end-time-offset="670847"
+                        guid="7630db8d-d542-48b2-b0e1-02ff248b6ebf"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ramako</item>
+                        <words/>
+                        <item lang="en" type="gls">lie</item>
+                        <item lang="sw" type="gls">uongo</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="5946031f-0bc8-483f-97e2-e0bc5c7bf4dc">
+                <phrases>
+                    <phrase begin-time-offset="673013"
+                        end-time-offset="679248"
+                        guid="676a6fd2-1727-4dfa-904a-f78e6f3d0df3"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa ramako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a lie there</item>
+                        <item lang="sw" type="gls">niliona uongo kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="09c78a15-9f2c-40b5-a2d6-45f1e86f128c">
+                <phrases>
+                    <phrase begin-time-offset="681769"
+                        end-time-offset="684741"
+                        guid="0f33397a-d07d-4ec6-b500-e50f0677bb75"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">nati</item>
+                        <words/>
+                        <item lang="en" type="gls">donkey</item>
+                        <item lang="sw" type="gls">punda</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="b3af7eca-8efb-465f-b930-629f153cffe5">
+                <phrases>
+                    <phrase begin-time-offset="687127"
+                        end-time-offset="692597"
+                        guid="af9b3d82-5f5c-450d-9fdd-42e5ab52dfbc"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa nati nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a donkey there</item>
+                        <item lang="sw" type="gls">niliona punda kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="eecc31aa-3c17-453b-a926-078edbbce94f">
+                <phrases>
+                    <phrase begin-time-offset="694645"
+                        end-time-offset="697752"
+                        guid="90fe658a-fa64-436b-bccb-888c9bec7c4c"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">pasako</item>
+                        <words/>
+                        <item lang="en" type="gls">left</item>
+                        <item lang="sw" type="gls">kushoto</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="243547a9-3614-43e8-9d18-6d3b75487677">
+                <phrases>
+                    <phrase begin-time-offset="700321"
+                        end-time-offset="707592"
+                        guid="6a67a2a2-abce-42fd-add3-3b3825151573"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa pasako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a left there</item>
+                        <item lang="sw" type="gls">niliona kushoto kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="fd4908e6-a2e8-470a-b93b-6dacca121e39">
+                <phrases>
+                    <phrase begin-time-offset="711644"
+                        end-time-offset="714841"
+                        guid="afb71753-c363-4cda-b9d2-b0f4d157e7eb"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">slaabee</item>
+                        <words/>
+                        <item lang="en" type="gls">bush, wilderness</item>
+                        <item lang="sw" type="gls">porini</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="52507c1a-6c9e-4098-b07e-408aedb5bc66">
+                <phrases>
+                    <phrase begin-time-offset="717564"
+                        end-time-offset="723575"
+                        guid="89dc5494-2f9d-4f4c-9b64-9f0398243f2f"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa slaabee nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw the bush there</item>
+                        <item lang="sw" type="gls">niliona porini kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="646aca04-b339-42d2-8965-4e512703ad3a">
+                <phrases>
+                    <phrase begin-time-offset="729765"
+                        end-time-offset="732264"
+                        guid="745afa31-0e82-4914-93cc-f2c37d414532"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">slaano</item>
+                        <words/>
+                        <item lang="en" type="gls">bush, wilderness</item>
+                        <item lang="sw" type="gls">porini</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="faf49b4a-b2b1-4352-a1da-88138f0be194">
+                <phrases>
+                    <phrase begin-time-offset="736722"
+                        end-time-offset="742125"
+                        guid="c73279bf-6489-4aa5-878b-7dbbe6d4fedf"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa slaano nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw the bush there</item>
+                        <item lang="sw" type="gls">niliona porini kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="da502782-a749-4678-8d5f-a7ce08b1a724">
+                <phrases>
+                    <phrase begin-time-offset="743993"
+                        end-time-offset="746987"
+                        guid="38fc9529-eef8-4538-bdd3-0d31e1ae8e86"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">tlhakate</item>
+                        <words/>
+                        <item lang="en" type="gls">rhinoceros</item>
+                        <item lang="sw" type="gls">kifaru</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="653f7a18-62c0-4cdb-8296-f8f22b07aa14">
+                <phrases>
+                    <phrase begin-time-offset="749193"
+                        end-time-offset="755136"
+                        guid="2ddb9d9c-8f1f-4e15-9c0f-12fbbd6e2d20"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa thlakate nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a rhinoceros there</item>
+                        <item lang="sw" type="gls">niliona kifaru kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="d6eec5cd-3983-42fb-935f-138e9774c6b6">
+                <phrases>
+                    <phrase begin-time-offset="757477"
+                        end-time-offset="760809"
+                        guid="510b8cbf-c828-4a1a-b905-508a6490ddbb"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">aggamba</item>
+                        <words/>
+                        <item lang="en" type="gls">male (of a human or animal)</item>
+                        <item lang="sw" type="gls">dume</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="84d1994c-722c-46e7-b24a-450a8c5585a7">
+                <phrases>
+                    <phrase begin-time-offset="763152"
+                        end-time-offset="768915"
+                        guid="ed98af1a-5392-4421-bcc3-b836017d5e18"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa aggamba iina</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a male there</item>
+                        <item lang="sw" type="gls">niliona dume kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="9bb8fac9-0535-4184-a8be-d28805eab164">
+                <phrases>
+                    <phrase begin-time-offset="771616"
+                        end-time-offset="774880"
+                        guid="be98b345-c7db-4ced-806e-525411563a84"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">dlomako</item>
+                        <words/>
+                        <item lang="en" type="gls">head</item>
+                        <item lang="sw" type="gls">kichwa</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="9f6e8df4-f717-47c0-82dd-a65d179d3a01">
+                <phrases>
+                    <phrase begin-time-offset="777761"
+                        end-time-offset="784267"
+                        guid="6045ae0e-df8e-4d44-834c-1b7fae474c99"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa dlomako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a head there</item>
+                        <item lang="sw" type="gls">niliona kichwa kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="9816f3f4-3599-409c-9d76-cfcb97b3916a">
+                <phrases>
+                    <phrase begin-time-offset="786223"
+                        end-time-offset="789713"
+                        guid="07f5ea4d-6e05-4c0b-bca2-cb674fa089d9"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">iribako</item>
+                        <words/>
+                        <item lang="en" type="gls">breasts</item>
+                        <item lang="sw" type="gls">titi</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="dfebce00-e8b3-49c4-9119-02f5c7320d9c">
+                <phrases>
+                    <phrase begin-time-offset="795002"
+                        end-time-offset="802341"
+                        guid="a0620e62-b008-4a88-980d-a9f21a036fa2"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa titiko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw breasts there</item>
+                        <item lang="sw" type="gls">niliona titi kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="a89881b6-0707-4b25-b52b-855d206b6fcc">
+                <phrases>
+                    <phrase begin-time-offset="804862"
+                        end-time-offset="808456"
+                        guid="798ea03c-ee74-4d0d-a7e8-307668f5d35a"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">rurembo</item>
+                        <words/>
+                        <item lang="en" type="gls">birdlime</item>
+                        <item lang="sw" type="gls">ulimbo</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="7a92045d-dfdd-4107-9de9-02cfe8a6d5bf">
+                <phrases>
+                    <phrase begin-time-offset="810842"
+                        end-time-offset="816919"
+                        guid="94308164-1231-400b-b6ba-bfa9590851d3"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa rirembo nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a birdlime there</item>
+                        <item lang="sw" type="gls">niliona ulimbo kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="b29ec2a6-5c8e-4ee9-9d6f-a17c20a91489">
+                <phrases>
+                    <phrase begin-time-offset="820386"
+                        end-time-offset="823605"
+                        guid="5e71ad85-09df-4ecd-a164-10b6b9820d7b"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">amamako</item>
+                        <words/>
+                        <item lang="en" type="gls">grandmother</item>
+                        <item lang="sw" type="gls">bibi</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="777a4cc2-ff3a-4af3-885c-11aff36bb98e">
+                <phrases>
+                    <phrase begin-time-offset="824595"
+                        end-time-offset="831169"
+                        guid="77f49347-be3d-4bf7-8753-4c5ecb43316a"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa amamako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw my grandmother there</item>
+                        <item lang="sw" type="gls">niliona bibi yangu kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="10575c74-c37c-46f8-ae73-c74060e3179f">
+                <phrases>
+                    <phrase begin-time-offset="832771"
+                        end-time-offset="836372"
+                        guid="1d565455-dc08-4310-83b9-4803bccd36f3"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">akae</item>
+                        <words/>
+                        <item lang="en" type="gls">grandfather</item>
+                        <item lang="sw" type="gls">babu</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="97cea437-7969-4640-adb3-71b7d1c5c6ee">
+                <phrases>
+                    <phrase begin-time-offset="838173"
+                        end-time-offset="844003"
+                        guid="6f32bb7d-b2bf-4055-99e8-718368a69ce5"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa akae nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw my grandfather there</item>
+                        <item lang="sw" type="gls">niliona babu kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="e8e853b8-3bf2-4861-9781-39da478686c5">
+                <phrases>
+                    <phrase begin-time-offset="848643"
+                        end-time-offset="851868"
+                        guid="f18e8630-3847-4c07-98c6-0fdf64a70810"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">aako</item>
+                        <words/>
+                        <item lang="en" type="gls">mother</item>
+                        <item lang="sw" type="gls">mama</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="15a39dc5-3468-4197-96ea-0a87b4965acb">
+                <phrases>
+                    <phrase begin-time-offset="853963"
+                        end-time-offset="860423"
+                        guid="f0159f3a-08aa-4beb-a6e3-25b13c787ce6"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa aako nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw my mother there</item>
+                        <item lang="sw" type="gls">niliona mama kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="8916d345-1c49-4106-bed4-d9a7da94f1ac">
+                <phrases>
+                    <phrase begin-time-offset="862787"
+                        end-time-offset="865938"
+                        guid="6105cee5-b0b6-4de2-ad50-b9875bed85c4"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ba:wa</item>
+                        <words/>
+                        <item lang="en" type="gls">father</item>
+                        <item lang="sw" type="gls">baba</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="dc741384-dc59-4b36-9ae7-8faf9b52abe3">
+                <phrases>
+                    <phrase begin-time-offset="868459"
+                        end-time-offset="874064"
+                        guid="fdd9d88e-56e2-4098-ae8c-767186ae4210"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa ba:wa nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw my father there</item>
+                        <item lang="sw" type="gls">niliona baba kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="8f3877c0-7fac-4617-a9ab-db8513fecbb9">
+                <phrases>
+                    <phrase begin-time-offset="877756"
+                        end-time-offset="881088"
+                        guid="7f9030f7-760f-4087-b2a7-1948c4ff9bc8"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">edla:li</item>
+                        <words/>
+                        <item lang="en" type="gls">sibling (ego is male)</item>
+                        <item lang="sw" type="gls">kaka; dada (kama anayeongea ni mwanaume)</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="69e0aed7-b0dd-4dcd-a0b2-a26081780254">
+                <phrases>
+                    <phrase begin-time-offset="884413"
+                        end-time-offset="890379"
+                        guid="42c1f004-218e-40e3-a7db-5b944a9b71b0"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa edla:li nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw my sibling there</item>
+                        <item lang="sw" type="gls">niliona kaka; dada (kama anayeongea ni mwanaume) kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="3d0f167e-324a-4e19-9955-d668f1afd343">
+                <phrases>
+                    <phrase begin-time-offset="897897"
+                        end-time-offset="901341"
+                        guid="43c8d75c-d855-4188-9e0c-8a7d973c78d2"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">siteko</item>
+                        <words/>
+                        <item lang="en" type="gls">father or mother in law</item>
+                        <item lang="sw" type="gls">baba mkwe</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="8fb2f7da-7b46-4b55-b07c-2190c0b229ef">
+                <phrases>
+                    <phrase begin-time-offset="903592"
+                        end-time-offset="910167"
+                        guid="97107905-f8f2-4414-ac18-67af08860c49"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa site nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw my in-law there</item>
+                        <item lang="sw" type="gls">baba mkwe kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="a3e65121-3672-469e-ac39-3aa606109fdb">
+                <phrases>
+                    <phrase begin-time-offset="912148"
+                        end-time-offset="915525"
+                        guid="5b7d83a8-f92e-4cc4-8b7f-c9665864ea26"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">akae</item>
+                        <words/>
+                        <item lang="en" type="gls">maternal uncle</item>
+                        <item lang="sw" type="gls">mjomba</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="127fe40c-d928-4fd1-a6c2-fc71f846b533">
+                <phrases>
+                    <phrase begin-time-offset="917708"
+                        end-time-offset="923606"
+                        guid="4a5959ec-d0ac-4d2e-b19d-a34c8efc4748"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa akae nana </item>
+                        <words/>
+                        <item lang="en" type="gls">I saw my maternal uncle there</item>
+                        <item lang="sw" type="gls">niliona mjomba kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="9e84451e-704a-44a0-995b-c59202c4a427">
+                <phrases>
+                    <phrase begin-time-offset="926127"
+                        end-time-offset="929436"
+                        guid="a993044b-44f4-4260-ba2b-65687bb91f70"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ame</item>
+                        <words/>
+                        <item lang="en" type="gls">brother-in-law, sister-in-law</item>
+                        <item lang="sw" type="gls">shemeji</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="d316a5bb-5684-45ef-80f8-ee4df93fc562">
+                <phrases>
+                    <phrase begin-time-offset="931755"
+                        end-time-offset="937383"
+                        guid="e8050586-2633-4f50-aa65-5dbc0e99e709"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa ame nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw my brother-in-law or sister-in-law there</item>
+                        <item lang="sw" type="gls">niliona shemeji kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="d109b125-2211-41a9-99f3-e7d20d78a255">
+                <phrases>
+                    <phrase begin-time-offset="939814"
+                        end-time-offset="942965"
+                        guid="526aee4b-58c2-4243-a92f-69bfdb1505d1"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ezeko</item>
+                        <words/>
+                        <item lang="en" type="gls">spouse</item>
+                        <item lang="sw" type="gls">mke</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="f1d78d44-2222-4a06-a507-c3fd909adcfd">
+                <phrases>
+                    <phrase begin-time-offset="945666"
+                        end-time-offset="952645"
+                        guid="8d44d80c-eca4-407b-ad61-5da9a00f4c1e"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa ezeko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw my spouse there</item>
+                        <item lang="sw" type="gls">niliona mke kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="0403aaf3-384c-475b-9200-6fccb55ce98b">
+                <phrases>
+                    <phrase begin-time-offset="954063"
+                        end-time-offset="957709"
+                        guid="ac28f6d4-f24e-46d6-84c1-14fe0f8d20e8"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ora</item>
+                        <words/>
+                        <item lang="en" type="gls">(grand)child, nephew, niece</item>
+                        <item lang="sw" type="gls">mwana; binti (kama anayeongea ni mwanamke)</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="b33a8bc1-de62-47de-8455-c7ba2728b7d8">
+                <phrases>
+                    <phrase begin-time-offset="962215"
+                        end-time-offset="967685"
+                        guid="caf9157c-d150-4378-9264-27d9de78d189"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa ora nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw my child there</item>
+                        <item lang="sw" type="gls">niliona mwana; binti (kama anayeongea ni mwanamke) kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="2cdb2994-6d5c-4d08-b9ce-8e03bc65f4cf">
+                <phrases>
+                    <phrase begin-time-offset="969463"
+                        end-time-offset="973538"
+                        guid="e55ff1f0-7c33-4547-8190-2c03d77bc710"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">numbiri</item>
+                        <words/>
+                        <item lang="en" type="gls">vervet monkey</item>
+                        <item lang="sw" type="gls">tumbili</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="b2a8eff4-c4dc-449e-bce9-2322506c2e7a">
+                <phrases>
+                    <phrase begin-time-offset="975541"
+                        end-time-offset="981754"
+                        guid="c214647d-4e94-475a-b067-8bea1c2e9391"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa numbiri nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a vervet monkey there</item>
+                        <item lang="sw" type="gls">niliona tumbili kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="79f9e79f-a731-4922-8aa6-34233524f894">
+                <phrases>
+                    <phrase begin-time-offset="984395"
+                        end-time-offset="987794"
+                        guid="e713ff96-b3c1-474f-a8f4-386de5119cab"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">kaziko</item>
+                        <words/>
+                        <item lang="en" type="gls">work</item>
+                        <item lang="sw" type="gls">kazi</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="f8c880e6-b72d-4574-8d3b-39e7bee7df98">
+                <phrases>
+                    <phrase begin-time-offset="989910"
+                        end-time-offset="997347"
+                        guid="ac806b2e-8c1a-46d0-be1f-d4566e0216da"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa kaziko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw work there</item>
+                        <item lang="sw" type="gls">niliona kazi kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="0e46bd7c-596e-4fca-879e-fb7fb3b93c91">
+                <phrases>
+                    <phrase begin-time-offset="998464"
+                        end-time-offset="1002606"
+                        guid="8c5cd955-e514-45d0-8019-197e016a0393"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">akhwitiko</item>
+                        <words/>
+                        <item lang="en" type="gls">female</item>
+                        <item lang="sw" type="gls">kike</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="4b094fa2-797a-42a8-9e03-17fc173c6507">
+                <phrases>
+                    <phrase begin-time-offset="1004159"
+                        end-time-offset="1010799"
+                        guid="170baae6-47ad-445d-bd46-172b7036caf6"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa akhwitiko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a female there</item>
+                        <item lang="sw" type="gls">niliona kike kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="3dcbe9f8-2093-49d5-8214-9542aee50e35">
+                <phrases>
+                    <phrase begin-time-offset="1013011"
+                        end-time-offset="1016275"
+                        guid="4d0591c4-7e12-45d4-94bd-2130153da40f"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">sleme</item>
+                        <words/>
+                        <item lang="en" type="gls">man</item>
+                        <item lang="sw" type="gls">mwanaume</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="edd541be-c3f7-432b-a7e2-c0e6c64ed7f3">
+                <phrases>
+                    <phrase begin-time-offset="1019674"
+                        end-time-offset="1025684"
+                        guid="daeb9fc8-0bac-46bb-a721-82a9e98818a4"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa sleme nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a man there</item>
+                        <item lang="sw" type="gls">niliona mwanaume kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="05dd425c-37ef-476f-9e63-440bdcc97027">
+                <phrases>
+                    <phrase begin-time-offset="1028453"
+                        end-time-offset="1031784"
+                        guid="e7384d60-2ae2-4b5b-a52e-e24b5ca372fe"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">unu</item>
+                        <words/>
+                        <item lang="en" type="gls">person</item>
+                        <item lang="sw" type="gls">binadamu</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="1e608908-2324-41de-a8a0-bdee86dee622">
+                <phrases>
+                    <phrase begin-time-offset="1033710"
+                        end-time-offset="1039563"
+                        guid="16006918-9270-4e6e-a11c-4240f38aea3d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa unu nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a person there</item>
+                        <item lang="sw" type="gls">niliona binadamu kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="1af4eba8-6375-487b-8443-036198488274">
+                <phrases>
+                    <phrase begin-time-offset="1041927"
+                        end-time-offset="1045191"
+                        guid="b8073a5b-2d6f-48d9-8e52-3340c0513838"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">kharimo</item>
+                        <words/>
+                        <item lang="en" type="gls">animal, creature</item>
+                        <item lang="sw" type="gls">mnyama, kiumbe</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="7f4b8781-ca9b-4cd6-992a-77120f0525e7">
+                <phrases>
+                    <phrase begin-time-offset="1047284"
+                        end-time-offset="1053340"
+                        guid="de22e8c5-0729-406e-9fb6-b8e830f4641a"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa kharimo nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw an animal there</item>
+                        <item lang="sw" type="gls">niliona mnyama, kiumbe kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="b62977df-3e76-4898-a673-8927500625e9">
+                <phrases>
+                    <phrase begin-time-offset="1054938"
+                        end-time-offset="1058292"
+                        guid="8b6b040e-224e-4d9a-a2f8-a21fd255b48d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">itchakhwa</item>
+                        <words/>
+                        <item lang="en" type="gls">snake (general)</item>
+                        <item lang="sw" type="gls">nyoka</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="11d331cb-1c29-4dbc-990a-7eef302bbc69">
+                <phrases>
+                    <phrase begin-time-offset="1061706"
+                        end-time-offset="1068212"
+                        guid="e0f1937b-361c-4f28-a1cd-767174ea82b4"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa itchakhwa nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a snake there</item>
+                        <item lang="sw" type="gls">niliona nyoka kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="44ef3043-f21e-40df-905c-a13e3348ea53">
+                <phrases>
+                    <phrase begin-time-offset="1069967"
+                        end-time-offset="1073592"
+                        guid="eea44e2d-bc0e-4634-b43b-f254c778c54a"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">zzitiko</item>
+                        <words/>
+                        <item lang="en" type="gls">tree, wood, stick, a charm or medicine</item>
+                        <item lang="sw" type="gls">mti</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="9320f7c2-fc4d-4874-b3ac-fea5a65086d0">
+                <phrases>
+                    <phrase begin-time-offset="1075978"
+                        end-time-offset="1082281"
+                        guid="562b06a1-b6ae-4c42-9e8c-d8901add2062"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa zzitiko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a tree there</item>
+                        <item lang="sw" type="gls">niliona mti kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="fb6362c2-7d36-49c8-b768-879ec92ec546">
+                <phrases>
+                    <phrase begin-time-offset="1085635"
+                        end-time-offset="1089101"
+                        guid="058304f3-0872-4384-b789-73d2a667e055"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">adlebee</item>
+                        <words/>
+                        <item lang="en" type="gls">hair (of the head)</item>
+                        <item lang="sw" type="gls">nywele (kichwa)</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="76191879-50df-438b-bda9-f6106ff53b58">
+                <phrases>
+                    <phrase begin-time-offset="1097565"
+                        end-time-offset="1104093"
+                        guid="5cf7dbd3-7251-42ee-b578-abfabf14498c"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa adlebee nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a hair there</item>
+                        <item lang="sw" type="gls">niliona nywele (kichwa) kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="3de34006-297c-4c35-946f-c11b825de08f">
+                <phrases>
+                    <phrase begin-time-offset="1117251"
+                        end-time-offset="1120110"
+                        guid="aab354ba-a21a-4e8f-ac3b-a8e803c70b37"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ekeko</item>
+                        <words/>
+                        <item lang="en" type="gls">path, road, way, manner, behaviour</item>
+                        <item lang="sw" type="gls">njia, namna</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="179821a0-d22f-42ed-b263-1dfae82db3e2">
+                <phrases>
+                    <phrase begin-time-offset="1122811"
+                        end-time-offset="1129047"
+                        guid="a5502d1e-4c1b-4ceb-a215-f0c27d90cf6a"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa ekeko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a paththere</item>
+                        <item lang="sw" type="gls">niliona njia, namna kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="2be9e790-5bd3-47ec-a7f2-55343e7ffaaa">
+                <phrases>
+                    <phrase begin-time-offset="1131433"
+                        end-time-offset="1135034"
+                        guid="3d6ffa25-cff5-4ec1-8151-d3f9eadb4df1"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">itchame</item>
+                        <words/>
+                        <item lang="en" type="gls">one</item>
+                        <item lang="sw" type="gls">moja</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="837acc47-c168-4734-a5a4-978f16746c75">
+                <phrases>
+                    <phrase begin-time-offset="1140825"
+                        end-time-offset="1150009"
+                        guid="cba3d1cf-6998-4176-bb6b-41933836fe59"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa haqqako ichameko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw one stone there</item>
+                        <item lang="sw" type="gls">niliona jiwe moja kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="06342b71-a0c3-4a77-a08d-4578fa6ef74b">
+                <phrases>
+                    <phrase begin-time-offset="1153318"
+                        end-time-offset="1156604"
+                        guid="d6c8ed11-3eb7-4025-bf70-28457e33e44f"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">piebee</item>
+                        <words/>
+                        <item lang="en" type="gls">two</item>
+                        <item lang="sw" type="gls">mbili</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="7b53e6c5-b9cb-45f7-9939-b969caa8fe51">
+                <phrases>
+                    <phrase begin-time-offset="1160746"
+                        end-time-offset="1170180"
+                        guid="ce2e76bb-ecc7-4b43-ad95-c87ba4d58bc2"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa haqqabee piebee nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw two stones there</item>
+                        <item lang="sw" type="gls">niliona mawe mawili kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="c11671c1-4bb2-4fe0-8cfa-affa273e06c2">
+                <phrases>
+                    <phrase begin-time-offset="1177698"
+                        end-time-offset="1181525"
+                        guid="6c29332f-1a23-40dd-bb5b-cc493146e0d3"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">samakabee</item>
+                        <words/>
+                        <item lang="en" type="gls">three</item>
+                        <item lang="sw" type="gls">tatu</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="40c58283-6bd7-4fc9-b606-ad84cca7f8b1">
+                <phrases>
+                    <phrase begin-time-offset="1186083"
+                        end-time-offset="1195492"
+                        guid="d3c2c973-4f1c-4dd1-a74a-9c759bee6d6c"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa aqqabee samakabee nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw three stones there</item>
+                        <item lang="sw" type="gls">niliona mawe matatu kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="1be18076-de8e-43a9-9653-aeb6f85c7564">
+                <phrases>
+                    <phrase begin-time-offset="1201773"
+                        end-time-offset="1204812"
+                        guid="1eca603b-cca3-4dd0-ab4c-3bcecaa7bbdd"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">bonebee</item>
+                        <words/>
+                        <item lang="en" type="gls">four</item>
+                        <item lang="sw" type="gls">nne</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="11fc6464-6503-4d24-ab43-519ff0d2a285">
+                <phrases>
+                    <phrase begin-time-offset="1206860"
+                        end-time-offset="1215482"
+                        guid="fcb04121-cf15-450d-a03d-055d163a3b85"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa aqqabee bonebee nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw four stones there</item>
+                        <item lang="sw" type="gls">niliona mawe manne kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="33a192aa-2821-43af-814d-5f8f76f2541b">
+                <phrases>
+                    <phrase begin-time-offset="1225275"
+                        end-time-offset="1228697"
+                        guid="6078e5b6-5985-4cc2-97d0-ac07ac55dd30"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">bothanobee</item>
+                        <words/>
+                        <item lang="en" type="gls">five</item>
+                        <item lang="sw" type="gls">tano</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="94ba3e1e-e093-4100-848e-185e8c568162">
+                <phrases>
+                    <phrase begin-time-offset="1232501"
+                        end-time-offset="1241392"
+                        guid="3894afc6-073d-4f4b-8c23-c78a481dee3f"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa aqqabee bothanobee nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw five stones there</item>
+                        <item lang="sw" type="gls">niliona mawe matano kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="ea556700-eca1-4a10-b939-80263e2a634a">
+                <phrases>
+                    <phrase begin-time-offset="1243664"
+                        end-time-offset="1247333"
+                        guid="39e3bfec-d929-4a2c-8cd0-9c76f0eb99b1"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">sitapee</item>
+                        <words/>
+                        <item lang="en" type="gls">six</item>
+                        <item lang="sw" type="gls">sita</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="577cbf80-daf0-4479-8fd6-d150b11cebec">
+                <phrases>
+                    <phrase begin-time-offset="1249967"
+                        end-time-offset="1258746"
+                        guid="b54328f2-08cb-48c9-9f39-6978dbcaf37d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa aqqabee sitabee nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw six stones there</item>
+                        <item lang="sw" type="gls">niliona mawe sita kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="46662710-2cef-4727-b1d0-29d7d6a8a7a0">
+                <phrases>
+                    <phrase begin-time-offset="1260817"
+                        end-time-offset="1264373"
+                        guid="3acec881-9e6e-4b27-b385-30d1093ac999"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">sabapee</item>
+                        <words/>
+                        <item lang="en" type="gls">seven</item>
+                        <item lang="sw" type="gls">saba</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="72684673-a029-4212-a280-f6835be412b4">
+                <phrases>
+                    <phrase begin-time-offset="1267095"
+                        end-time-offset="1276144"
+                        guid="374dfcdf-e640-4f2b-834b-fd766ab8a40c"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa aqqabee sababee nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw seven stones there</item>
+                        <item lang="sw" type="gls">niliona mawe saba kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="506e3e8b-ab3d-44b7-a879-e527196fba2e">
+                <phrases>
+                    <phrase begin-time-offset="1279093"
+                        end-time-offset="1282762"
+                        guid="c0f7bfa2-ec8d-420c-bd6c-5fd1bd109b00"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">nanebee</item>
+                        <words/>
+                        <item lang="en" type="gls">eight</item>
+                        <item lang="sw" type="gls">nane</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="d1e9e3c6-50ce-4501-8375-2f57ad85e688">
+                <phrases>
+                    <phrase begin-time-offset="1285846"
+                        end-time-offset="1294701"
+                        guid="53f0f38f-cac9-4ebd-b48b-5a833ace296d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa aqqabee nanebee nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw eight stones there</item>
+                        <item lang="sw" type="gls">niliona mawe manane kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="e7a9e860-65e8-4364-b4a0-31bd5d772d74">
+                <phrases>
+                    <phrase begin-time-offset="1297132"
+                        end-time-offset="1300419"
+                        guid="5bd7fee2-12a1-4a16-b460-ea45604d58c8"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">tisabee</item>
+                        <words/>
+                        <item lang="en" type="gls">nine</item>
+                        <item lang="sw" type="gls">tisa</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="be39e532-1b79-44bd-9449-02aac595bc38">
+                <phrases>
+                    <phrase begin-time-offset="1303435"
+                        end-time-offset="1312147"
+                        guid="5bc03b23-44a8-4e7d-9b5c-94fc7ff04dcd"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chietanaa aqqabee tisabee  nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw nine stones there</item>
+                        <item lang="sw" type="gls">niliona mawe tisa kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="e6de82d4-c5ad-4b61-a4b4-ae8f0e15b14e">
+                <phrases>
+                    <phrase begin-time-offset="1315790"
+                        end-time-offset="1319122"
+                        guid="34b582e8-800e-4ef8-aedc-cf2e06efc416"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ikhumia</item>
+                        <words/>
+                        <item lang="en" type="gls">ten</item>
+                        <item lang="sw" type="gls">kumi</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="684fbf79-ca79-4728-88df-b477e0f19258">
+                <phrases>
+                    <phrase begin-time-offset="1321891"
+                        end-time-offset="1330535"
+                        guid="9d6a7bdd-750c-40b9-8d53-7d7b32bcf2df"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chianaa aqqabee ikhumi nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw ten stones there</item>
+                        <item lang="sw" type="gls">niliona mawe makumi kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="bd58f349-774c-4fa8-b94a-8c69b2e01d25">
+                <phrases>
+                    <phrase begin-time-offset="1332313"
+                        end-time-offset="1335419"
+                        guid="cec62abb-51a6-4fd5-a76d-ad12fd93a20d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">ono</item>
+                        <words/>
+                        <item lang="en" type="gls">I / me</item>
+                        <item lang="sw" type="gls">mimi</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="071974fe-9ae1-4f3c-acd2-02f717264195">
+                <phrases>
+                    <phrase begin-time-offset="1341754"
+                        end-time-offset="1344995"
+                        guid="8f421b8e-4b3b-4f9d-8e03-e5b517d8e271"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">onenee</item>
+                        <words/>
+                        <item lang="en" type="gls">It's me</item>
+                        <item lang="sw" type="gls">Ndiyo mimi</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="f9e048a4-9545-45bc-838b-8c48c1ffba0f">
+                <phrases>
+                    <phrase begin-time-offset="1357151"
+                        end-time-offset="1360122"
+                        guid="e3a9e305-24cb-48ce-aa4d-95957dbef512"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">the</item>
+                        <words/>
+                        <item lang="en" type="gls">you</item>
+                        <item lang="sw" type="gls">wewe</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="63cd7091-c34b-48d4-8576-c31a0b866023">
+                <phrases>
+                    <phrase begin-time-offset="1362936"
+                        end-time-offset="1365930"
+                        guid="fad3f8e2-b3aa-48ca-a1b5-bad97e11f751"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">tetee</item>
+                        <words/>
+                        <item lang="en" type="gls">It's you</item>
+                        <item lang="sw" type="gls">Ndiyo wewe</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="73d401c9-c1ad-4d68-849d-31f3c38ed1f4">
+                <phrases>
+                    <phrase begin-time-offset="1370597"
+                        end-time-offset="1373883"
+                        guid="e33cb03b-f09a-4cc3-b816-70187bb3a94d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">tethaoo</item>
+                        <words/>
+                        <item lang="en" type="gls">to know (a person) (a thing?)</item>
+                        <item lang="sw" type="gls">fahamu (mtu)</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="77484aff-8649-4d10-8c92-e7eecdf2a3ac">
+                <phrases>
+                    <phrase begin-time-offset="1384598"
+                        end-time-offset="1392072"
+                        guid="08ded888-a2fd-4859-a6d3-eb5ca49271cb"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo tsaitamo mariako</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo knew Maria</item>
+                        <item lang="sw" type="gls">gudo alimfahamu Maria</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="9f8b80d8-f354-4eff-a88f-0be551451f0b">
+                <phrases>
+                    <phrase begin-time-offset="1396416"
+                        end-time-offset="1400086"
+                        guid="2962ae22-35eb-4319-b8f6-00edbad593de"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">citamo</item>
+                        <words/>
+                        <item lang="en" type="gls">to see, know</item>
+                        <item lang="sw" type="gls">ona</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="5edc2a8a-d22c-4907-8d3e-c72086237eaf">
+                <phrases>
+                    <phrase begin-time-offset="1409448"
+                        end-time-offset="1418227"
+                        guid="db892172-1aea-438c-8f12-6243dc01ff07"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo citamo mariako cceezzana </item>
+                        <words/>
+                        <item lang="en" type="gls">gudo saw Maria at home</item>
+                        <item lang="sw" type="gls">gudo alimwona Maria nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="573a1854-de73-48e8-ac71-334b646466d1">
+                <phrases>
+                    <phrase begin-time-offset="1421153"
+                        end-time-offset="1424552"
+                        guid="19f2ea7d-cc1e-4860-bf8f-6b4acc90c2a9"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">misiamo</item>
+                        <words/>
+                        <item lang="en" type="gls">die</item>
+                        <item lang="sw" type="gls">kufa</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="6de7cad9-db00-454f-9604-e0785a6e3d0e">
+                <phrases>
+                    <phrase begin-time-offset="1428744"
+                        end-time-offset="1436420"
+                        guid="7ee4238b-91b5-4e33-8d09-da0e08e6bdf4"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">uzameko misiakwa ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo died at home</item>
+                        <item lang="sw" type="gls">Fisi alikufa nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="523f956b-24a5-4211-9ddc-b158990baff9">
+                <phrases>
+                    <phrase begin-time-offset="1442093"
+                        end-time-offset="1445177"
+                        guid="564f2df9-8ae1-493d-b4bb-79ae0007932a"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">khweenata</item>
+                        <words/>
+                        <item lang="en" type="gls">give</item>
+                        <item lang="sw" type="gls">kupa</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="88f525b9-b534-4d01-8f8b-ef638a3b1ce4">
+                <phrases>
+                    <phrase begin-time-offset="1448979"
+                        end-time-offset="1459221"
+                        guid="eaf246b1-6d58-4156-b355-e922b1c44769"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo khwisamo mariako manako </item>
+                        <words/>
+                        <item lang="en" type="gls">gudo gave Maria meat</item>
+                        <item lang="sw" type="gls">gudo alimpa Maria nyama</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="c5a579b8-559f-414c-a66c-96546e6a3b54">
+                <phrases>
+                    <phrase begin-time-offset="1464623"
+                        end-time-offset="1467842"
+                        guid="db55188e-a595-45dd-8b4c-f59e99ce67b8"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">tosleta</item>
+                        <words/>
+                        <item lang="en" type="gls">to farm, hoe, weed</item>
+                        <item lang="sw" type="gls">kulima</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="65e623a9-30e9-4ae7-b72d-457671f1df29">
+                <phrases>
+                    <phrase begin-time-offset="1470701"
+                        end-time-offset="1477229"
+                        guid="3cde2a0a-7cb4-48ff-970f-5cf9b1d66839"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo tosleamo ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo farmed at home</item>
+                        <item lang="sw" type="gls">gudo alilima nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="40ec5cd3-b029-44a1-a5ac-a3dd3a3104dd">
+                <phrases>
+                    <phrase begin-time-offset="1479480"
+                        end-time-offset="1483239"
+                        guid="8563e6d8-76f3-43ec-9760-030aa96aca61"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">andikhaetcha</item>
+                        <words/>
+                        <item lang="en" type="gls">to write</item>
+                        <item lang="sw" type="gls">kuandika</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="cbd2b6ce-8f4f-4fe0-aa47-7fbff78d0c3a">
+                <phrases>
+                    <phrase begin-time-offset="1487700"
+                        end-time-offset="1495218"
+                        guid="b2b69c97-9a79-4676-bd27-07e016d39e75"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo andikhaeamo ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo wrote at home</item>
+                        <item lang="sw" type="gls">gudo aliandika nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="cd580fc4-efdd-497c-8552-3a0cb31e55c1">
+                <phrases>
+                    <phrase begin-time-offset="1500036"
+                        end-time-offset="1503457"
+                        guid="931ef4e3-22ef-4ff0-b37e-52ee6331db18"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">godemaa</item>
+                        <words/>
+                        <item lang="en" type="gls">to herd livestock</item>
+                        <item lang="sw" type="gls">kuchunga</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="e1fff63a-ede7-4b60-a2bf-0c4a327d6931">
+                <phrases>
+                    <phrase begin-time-offset="1507150"
+                        end-time-offset="1514398"
+                        guid="70951c5d-1f26-486a-880b-d1f9406d67e0"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo godemamo ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo herded a cow at home</item>
+                        <item lang="sw" type="gls">gudo alichunga ng'ombe nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="e5f745fd-645f-437f-8fc0-6395e905f3dd">
+                <phrases>
+                    <phrase begin-time-offset="1517797"
+                        end-time-offset="1521467"
+                        guid="526ef13b-11b1-462f-9576-58d602426e31"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gorephamo</item>
+                        <words/>
+                        <item lang="en" type="gls">to pay</item>
+                        <item lang="sw" type="gls">kulipa</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="caae1507-e407-4492-9d7c-cea3c5cc85c3">
+                <phrases>
+                    <phrase begin-time-offset="1525480"
+                        end-time-offset="1535700"
+                        guid="8978d393-4274-4481-b72a-24493f9a8fb8"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo gorephatamo mariako ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo paid Maria at home</item>
+                        <item lang="sw" type="gls">gudo alimlipa Maria nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="ee4cdd38-a499-4ef7-bb7a-202e327ecc5b">
+                <phrases>
+                    <phrase begin-time-offset="1537568"
+                        end-time-offset="1540630"
+                        guid="2d404ec5-cda5-4763-ad2f-41de1162ddad"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">koxxoamo</item>
+                        <words/>
+                        <item lang="en" type="gls">to get well</item>
+                        <item lang="sw" type="gls">kupona</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="1f5ae592-4db2-4877-b03a-eacf8f1b8260">
+                <phrases>
+                    <phrase begin-time-offset="1546978"
+                        end-time-offset="1553596"
+                        guid="ef88f685-3c3d-4963-b62a-6b9b329a3443"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo koxxoamo ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo recovered at home</item>
+                        <item lang="sw" type="gls">gudo alipona nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="f5042d0e-2b72-4761-bc8a-41cc743300c7">
+                <phrases>
+                    <phrase begin-time-offset="1555401"
+                        end-time-offset="1559745"
+                        guid="724e5fd0-1486-44b4-9767-c65bf6407dfc"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">esabueamo</item>
+                        <words/>
+                        <item lang="en" type="gls">to count, calculate</item>
+                        <item lang="sw" type="gls">kuhesabu</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="2472fa62-3ee6-41fb-8544-bde166465360">
+                <phrases>
+                    <phrase begin-time-offset="1563144"
+                        end-time-offset="1570415"
+                        guid="87f1f59b-e846-4aac-b214-05f1d8c3c846"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo esabueamo ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo counted at home</item>
+                        <item lang="sw" type="gls">gudo alihesabu nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="9a167281-debf-4234-82fc-d2276ee33ee6">
+                <phrases>
+                    <phrase begin-time-offset="1573387"
+                        end-time-offset="1577011"
+                        guid="5fed4d25-344e-401e-a514-1ec65471275e"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">tlatlakaaame</item>
+                        <words/>
+                        <item lang="en" type="gls">to meet, encounter</item>
+                        <item lang="sw" type="gls">kukuta</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="06006b7c-a285-4b7e-831e-53277bb01e3f">
+                <phrases>
+                    <phrase begin-time-offset="1592351"
+                        end-time-offset="1602976"
+                        guid="6ac5a6dd-ddf5-4a16-956d-5afe3705b240"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo gopandatamo mariako ccezzana, gudo gopandatamo mariako ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo met Maria at home</item>
+                        <item lang="sw" type="gls">gudo alimkuta Maria nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="867caf0d-014e-4734-8074-dfaeec657b72">
+                <phrases>
+                    <phrase begin-time-offset="1605610"
+                        end-time-offset="1608649"
+                        guid="c5ab873e-adf3-423f-bf3d-c50b0cf8530d"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">bia:mo</item>
+                        <words/>
+                        <item lang="en" type="gls">to hide oneself</item>
+                        <item lang="sw" type="gls">kujificha</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="ec465dbc-7a19-455c-a640-5ceee1a5af7a">
+                <phrases>
+                    <phrase begin-time-offset="1614315"
+                        end-time-offset="1623049"
+                        guid="f1e6a916-0e4f-40ca-8da5-b26154e591b6"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo bia:mo ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo hid at home</item>
+                        <item lang="sw" type="gls">gudo alijificha nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="07481194-f71b-43da-809d-123425654a1a">
+                <phrases>
+                    <phrase begin-time-offset="1625435"
+                        end-time-offset="1629127"
+                        guid="12a837b1-2503-4957-9376-074a731fbc43"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">sapeako</item>
+                        <words/>
+                        <item lang="en" type="gls">first rains October-December</item>
+                        <item lang="sw" type="gls">kimvuli</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="d33b5ef7-60ce-436f-a35b-8666b2e4e07a">
+                <phrases>
+                    <phrase begin-time-offset="1634780"
+                        end-time-offset="1641173"
+                        guid="67a78afb-8b5d-403a-a152-1c2350b87dbb"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">chitanaa sapeko nana</item>
+                        <words/>
+                        <item lang="en" type="gls">I saw a drizzle there</item>
+                        <item lang="sw" type="gls">Niliona kimvuli kule</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="94fbc0d1-aa60-464d-bc2f-f90b8f1f1a14">
+                <phrases>
+                    <phrase begin-time-offset="1642524"
+                        end-time-offset="1645473"
+                        guid="1adbfa5c-3825-4fbf-b218-28e3f5c3865f"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">butcho</item>
+                        <words/>
+                        <item lang="en" type="gls">to come</item>
+                        <item lang="sw" type="gls">kuja</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="6b4570a7-f695-45ee-a41d-1768b3c1b01a">
+                <phrases>
+                    <phrase begin-time-offset="1657190"
+                        end-time-offset="1660477"
+                        guid="0d047223-2192-4eb5-9d58-742a79590f47"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">za</item>
+                        <words/>
+                        <item lang="en" type="gls">to come</item>
+                        <item lang="sw" type="gls">kuja</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="ce7ea8de-6663-4e6d-b42d-37ac9ef31522">
+                <phrases>
+                    <phrase begin-time-offset="1664506"
+                        end-time-offset="1670719"
+                        guid="71cbae74-0055-490b-aeff-363a5460f038"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo zamo ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo came home</item>
+                        <item lang="sw" type="gls">gudo alikuja nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="5d52761a-9ab3-441e-bc18-47f5459e5590">
+                <phrases>
+                    <phrase begin-time-offset="1673285"
+                        end-time-offset="1677067"
+                        guid="47bc2baa-ee5d-4e0a-9ff2-ca251cdae7ae"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">semea</item>
+                        <words/>
+                        <item lang="en" type="gls">to eat, food</item>
+                        <item lang="sw" type="gls">kula, chakula</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="726b09d4-c737-40ba-b3c9-762b9843427c">
+                <phrases>
+                    <phrase begin-time-offset="1681479"
+                        end-time-offset="1688232"
+                        guid="1bbc934e-9918-4c2d-b25e-0b180ed3da0c"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo semeamo ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo at at home</item>
+                        <item lang="sw" type="gls">gudo alikula nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="15c3fd9e-9aac-40cc-b9fb-848bfa98f845">
+                <phrases>
+                    <phrase begin-time-offset="1690421"
+                        end-time-offset="1693798"
+                        guid="73a3a1bb-1160-40a0-9060-55a3a09925e8"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">fa:mo</item>
+                        <words/>
+                        <item lang="en" type="gls">to drink</item>
+                        <item lang="sw" type="gls">kunywa</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="a21c50ca-797c-4d73-9b51-9a503e8ef301">
+                <phrases>
+                    <phrase begin-time-offset="1699696"
+                        end-time-offset="1706134"
+                        guid="72ed8a8c-28a0-4164-9c01-56c3dbfdd376"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo fa:mo ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo drank at home</item>
+                        <item lang="sw" type="gls">gudo alikunywa nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="70381834-b808-41fc-bc17-9ab8f165e21a">
+                <phrases>
+                    <phrase begin-time-offset="1708475"
+                        end-time-offset="1712031"
+                        guid="37545afb-d301-494c-b515-32c0547c7c9b"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">natchetcha</item>
+                        <words/>
+                        <item lang="en" type="gls">to laugh</item>
+                        <item lang="sw" type="gls">kucheka</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="d0006749-a383-4b34-8df2-ae998dd697c6">
+                <phrases>
+                    <phrase begin-time-offset="1714719"
+                        end-time-offset="1722125"
+                        guid="64f717c1-a176-4718-b150-baff096dc9e3"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">gudo natceamo ccezzana</item>
+                        <words/>
+                        <item lang="en" type="gls">gudo laughed at home</item>
+                        <item lang="sw" type="gls">gudo alicheka nyumbani</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="ce1c2ee1-103f-46b0-98f6-79821d658640">
+                <phrases>
+                    <phrase begin-time-offset="1725974"
+                        end-time-offset="1729486"
+                        guid="c13537f9-7bdb-45a4-9e39-f8e93005cf0a"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">hama</item>
+                        <words/>
+                        <item lang="en" type="gls">this</item>
+                        <item lang="sw" type="gls">hii</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+            <paragraph guid="176d0c35-fd27-440e-a965-13c0c9022603">
+                <phrases>
+                    <phrase begin-time-offset="1732142"
+                        end-time-offset="1735878"
+                        guid="806f952c-712a-4cb1-8b25-11e0a99dd52f"
+                        media-file="18db2039-0d65-4c82-ba25-09f9b1fc408c" speaker="A">
+                        <item lang="hts" type="txt">joro hama</item>
+                        <words/>
+                        <item lang="en" type="gls">this (big) knife, this rock</item>
+                        <item lang="sw" type="gls">kisu (kikubwa) hiki, jiwe hili</item>
+                    </phrase>
+                </phrases>
+            </paragraph>
+        </paragraphs>
+        <media-files offset-type="">
+            <media guid="18db2039-0d65-4c82-ba25-09f9b1fc408c" location=""/>
+        </media-files>
+    </interlinear-text>
+</document>

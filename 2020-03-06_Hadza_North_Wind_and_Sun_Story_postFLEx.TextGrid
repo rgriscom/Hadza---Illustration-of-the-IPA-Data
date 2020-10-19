@@ -1,0 +1,4148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 72.378
+tiers? <exists>
+size = 14
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "A_morph-cf-hts"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 133
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 13.714
+            text = "kwa"
+        intervals [3]
+            xmin = 13.714
+            xmax = 13.778
+            text = "-ami"
+        intervals [4]
+            xmin = 13.778
+            xmax = 13.821
+            text = "zzutchi"
+        intervals [5]
+            xmin = 13.821
+            xmax = 13.864
+            text = "-bii"
+        intervals [6]
+            xmin = 13.864
+            xmax = 13.907
+            text = "-sa"
+        intervals [7]
+            xmin = 13.907
+            xmax = 13.971
+            text = "sanza"
+        intervals [8]
+            xmin = 13.971
+            xmax = 14.036
+            text = "-ko"
+        intervals [9]
+            xmin = 14.036
+            xmax = 14.165
+            text = "a"
+        intervals [10]
+            xmin = 14.165
+            xmax = 14.229
+            text = "isho"
+        intervals [11]
+            xmin = 14.229
+            xmax = 14.294
+            text = "-ko"
+        intervals [12]
+            xmin = 14.294
+            xmax = 18.42
+            text = ""
+        intervals [13]
+            xmin = 18.42
+            xmax = 18.57
+            text = "akwaza"
+        intervals [14]
+            xmin = 18.57
+            xmax = 18.72
+            text = "-ha"
+        intervals [15]
+            xmin = 18.72
+            xmax = 18.87
+            text = "uru"
+        intervals [16]
+            xmin = 18.87
+            xmax = 19.02
+            text = "-bite"
+        intervals [17]
+            xmin = 19.02
+            xmax = 19.32
+            text = "paana"
+        intervals [18]
+            xmin = 19.32
+            xmax = 21.48
+            text = ""
+        intervals [19]
+            xmin = 21.48
+            xmax = 21.518
+            text = "i-"
+        intervals [20]
+            xmin = 21.518
+            xmax = 21.557
+            text = "itlhikwa"
+        intervals [21]
+            xmin = 21.557
+            xmax = 21.634
+            text = "hama"
+        intervals [22]
+            xmin = 21.634
+            xmax = 21.672
+            text = "kwa"
+        intervals [23]
+            xmin = 21.672
+            xmax = 21.711
+            text = "-amo"
+        intervals [24]
+            xmin = 21.711
+            xmax = 21.789
+            text = "sluba"
+        intervals [25]
+            xmin = 21.789
+            xmax = 21.866
+            text = "dloa"
+        intervals [26]
+            xmin = 21.866
+            xmax = 21.943
+            text = "ncaphane"
+        intervals [27]
+            xmin = 21.943
+            xmax = 21.981
+            text = "ka-"
+        intervals [28]
+            xmin = 21.981
+            xmax = 22.02
+            text = "-amo"
+        intervals [29]
+            xmin = 22.02
+            xmax = 22.098
+            text = "quyu"
+        intervals [30]
+            xmin = 22.098
+            xmax = 26.89
+            text = ""
+        intervals [31]
+            xmin = 26.89
+            xmax = 27.04
+            text = "ka-"
+        intervals [32]
+            xmin = 27.04
+            xmax = 27.19
+            text = "itcha"
+        intervals [33]
+            xmin = 27.19
+            xmax = 27.49
+            text = "dlozo"
+        intervals [34]
+            xmin = 27.49
+            xmax = 28.265
+            text = ""
+        intervals [35]
+            xmin = 28.265
+            xmax = 29.195
+            text = "hishina"
+        intervals [36]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [37]
+            xmin = 29.27
+            xmax = 29.46
+            text = "hama"
+        intervals [38]
+            xmin = 29.46
+            xmax = 29.555
+            text = "kwa"
+        intervals [39]
+            xmin = 29.555
+            xmax = 29.65
+            text = "-eso"
+        intervals [40]
+            xmin = 29.65
+            xmax = 29.84
+            text = "gumia"
+        intervals [41]
+            xmin = 29.84
+            xmax = 31.02
+            text = ""
+        intervals [42]
+            xmin = 31.02
+            xmax = 31.589
+            text = "so"
+        intervals [43]
+            xmin = 31.589
+            xmax = 31.873
+            text = "hiqqe"
+        intervals [44]
+            xmin = 31.873
+            xmax = 32.158
+            text = "-ma"
+        intervals [45]
+            xmin = 32.158
+            xmax = 32.727
+            text = "dloa"
+        intervals [46]
+            xmin = 32.727
+            xmax = 33.296
+            text = "hama"
+        intervals [47]
+            xmin = 33.296
+            xmax = 33.866
+            text = "unu"
+        intervals [48]
+            xmin = 33.866
+            xmax = 34.0
+            text = ""
+        intervals [49]
+            xmin = 34.0
+            xmax = 34.803
+            text = "bami"
+        intervals [50]
+            xmin = 34.803
+            xmax = 35.205
+            text = "ehe"
+        intervals [51]
+            xmin = 35.205
+            xmax = 35.607
+            text = "-ya"
+        intervals [52]
+            xmin = 35.607
+            xmax = 36.009
+            text = "uru"
+        intervals [53]
+            xmin = 36.009
+            xmax = 36.411
+            text = "-bite"
+        intervals [54]
+            xmin = 36.411
+            xmax = 36.49
+            text = ""
+        intervals [55]
+            xmin = 36.49
+            xmax = 36.74
+            text = "zzutchi"
+        intervals [56]
+            xmin = 36.74
+            xmax = 36.991
+            text = "-bii"
+        intervals [57]
+            xmin = 36.991
+            xmax = 37.242
+            text = "-sa"
+        intervals [58]
+            xmin = 37.242
+            xmax = 37.618
+            text = "sanza"
+        intervals [59]
+            xmin = 37.618
+            xmax = 37.994
+            text = "-ko"
+        intervals [60]
+            xmin = 37.994
+            xmax = 38.37
+            text = "ka-"
+        intervals [61]
+            xmin = 38.37
+            xmax = 38.746
+            text = "itcha"
+        intervals [62]
+            xmin = 38.746
+            xmax = 39.498
+            text = "phoyâ"
+        intervals [63]
+            xmin = 39.498
+            xmax = 40.25
+            text = "paana"
+        intervals [64]
+            xmin = 40.25
+            xmax = 41.002
+            text = "nena"
+        intervals [65]
+            xmin = 41.002
+            xmax = 41.378
+            text = "uru"
+        intervals [66]
+            xmin = 41.378
+            xmax = 41.804
+            text = ""
+        intervals [67]
+            xmin = 41.804
+            xmax = 42.192
+            text = "kwa"
+        intervals [68]
+            xmin = 42.192
+            xmax = 42.581
+            text = "-ami"
+        intervals [69]
+            xmin = 42.581
+            xmax = 42.97
+            text = "phoyâ"
+        intervals [70]
+            xmin = 42.97
+            xmax = 43.359
+            text = "-ehe"
+        intervals [71]
+            xmin = 43.359
+            xmax = 43.48
+            text = ""
+        intervals [72]
+            xmin = 43.48
+            xmax = 44.198
+            text = "paana"
+        intervals [73]
+            xmin = 44.198
+            xmax = 44.916
+            text = "bami"
+        intervals [74]
+            xmin = 44.916
+            xmax = 45.634
+            text = "unu"
+        intervals [75]
+            xmin = 45.634
+            xmax = 45.993
+            text = "ka-"
+        intervals [76]
+            xmin = 45.993
+            xmax = 46.352
+            text = "-amo"
+        intervals [77]
+            xmin = 46.352
+            xmax = 46.711
+            text = "thaa"
+        intervals [78]
+            xmin = 46.711
+            xmax = 47.07
+            text = "-na"
+        intervals [79]
+            xmin = 47.07
+            xmax = 47.788
+            text = "dloa"
+        intervals [80]
+            xmin = 47.788
+            xmax = 48.507
+            text = "mtana"
+        intervals [81]
+            xmin = 48.507
+            xmax = 48.65
+            text = ""
+        intervals [82]
+            xmin = 48.65
+            xmax = 49.387
+            text = "beena"
+        intervals [83]
+            xmin = 49.387
+            xmax = 49.755
+            text = "ka-"
+        intervals [84]
+            xmin = 49.755
+            xmax = 50.124
+            text = "itcha"
+        intervals [85]
+            xmin = 50.124
+            xmax = 50.37
+            text = "zzutchi"
+        intervals [86]
+            xmin = 50.37
+            xmax = 50.616
+            text = "-bii"
+        intervals [87]
+            xmin = 50.616
+            xmax = 50.862
+            text = "-sa"
+        intervals [88]
+            xmin = 50.862
+            xmax = 51.23
+            text = "sanza"
+        intervals [89]
+            xmin = 51.23
+            xmax = 51.599
+            text = "-ko"
+        intervals [90]
+            xmin = 51.599
+            xmax = 51.967
+            text = "tha"
+        intervals [91]
+            xmin = 51.967
+            xmax = 52.336
+            text = "-ya"
+        intervals [92]
+            xmin = 52.336
+            xmax = 52.705
+            text = "phoyâ"
+        intervals [93]
+            xmin = 52.705
+            xmax = 53.074
+            text = "-tcha"
+        intervals [94]
+            xmin = 53.074
+            xmax = 53.38
+            text = ""
+        intervals [95]
+            xmin = 53.38
+            xmax = 54.071
+            text = "atonena"
+        intervals [96]
+            xmin = 54.071
+            xmax = 54.417
+            text = "isho"
+        intervals [97]
+            xmin = 54.417
+            xmax = 54.763
+            text = "-ko"
+        intervals [98]
+            xmin = 54.763
+            xmax = 55.108
+            text = "ka-"
+        intervals [99]
+            xmin = 55.108
+            xmax = 55.454
+            text = "ota"
+        intervals [100]
+            xmin = 55.454
+            xmax = 56.146
+            text = "bexxê"
+        intervals [101]
+            xmin = 56.146
+            xmax = 56.837
+            text = "nena"
+        intervals [102]
+            xmin = 56.837
+            xmax = 57.529
+            text = "petenê"
+        intervals [103]
+            xmin = 57.529
+            xmax = 57.58
+            text = ""
+        intervals [104]
+            xmin = 57.58
+            xmax = 58.5
+            text = "beena"
+        intervals [105]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [106]
+            xmin = 58.59
+            xmax = 59.212
+            text = "bami"
+        intervals [107]
+            xmin = 59.212
+            xmax = 59.835
+            text = "unu"
+        intervals [108]
+            xmin = 59.835
+            xmax = 60.146
+            text = "ka-"
+        intervals [109]
+            xmin = 60.146
+            xmax = 60.457
+            text = "-amo"
+        intervals [110]
+            xmin = 60.457
+            xmax = 60.768
+            text = "zzua"
+        intervals [111]
+            xmin = 60.768
+            xmax = 61.08
+            text = "-na"
+        intervals [112]
+            xmin = 61.08
+            xmax = 61.703
+            text = "dloa"
+        intervals [113]
+            xmin = 61.703
+            xmax = 61.74
+            text = ""
+        intervals [114]
+            xmin = 61.74
+            xmax = 62.457
+            text = "hishina"
+        intervals [115]
+            xmin = 62.457
+            xmax = 62.696
+            text = "zzutchi"
+        intervals [116]
+            xmin = 62.696
+            xmax = 62.935
+            text = "-bii"
+        intervals [117]
+            xmin = 62.935
+            xmax = 63.174
+            text = "-sa"
+        intervals [118]
+            xmin = 63.174
+            xmax = 63.532
+            text = "sanza"
+        intervals [119]
+            xmin = 63.532
+            xmax = 63.891
+            text = "-ko"
+        intervals [120]
+            xmin = 63.891
+            xmax = 64.249
+            text = "ka-"
+        intervals [121]
+            xmin = 64.249
+            xmax = 64.608
+            text = "itcha"
+        intervals [122]
+            xmin = 64.608
+            xmax = 65.325
+            text = "tethao"
+        intervals [123]
+            xmin = 65.325
+            xmax = 65.39
+            text = ""
+        intervals [124]
+            xmin = 65.39
+            xmax = 65.953
+            text = "isho"
+        intervals [125]
+            xmin = 65.953
+            xmax = 66.516
+            text = "-ko"
+        intervals [126]
+            xmin = 66.516
+            xmax = 66.891
+            text = "uru"
+        intervals [127]
+            xmin = 66.891
+            xmax = 67.267
+            text = "-bite"
+        intervals [128]
+            xmin = 67.267
+            xmax = 67.643
+            text = "-akwa"
+        intervals [129]
+            xmin = 67.643
+            xmax = 68.769
+            text = "paana"
+        intervals [130]
+            xmin = 68.769
+            xmax = 69.144
+            text = "xhaa"
+        intervals [131]
+            xmin = 69.144
+            xmax = 69.52
+            text = "-na"
+        intervals [132]
+            xmin = 69.52
+            xmax = 69.896
+            text = "-yeta"
+        intervals [133]
+            xmin = 69.896
+            xmax = 72.378
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "A_morph-gls-en"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 134
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 13.714
+            text = "COND.AUX"
+        intervals [3]
+            xmin = 13.714
+            xmax = 13.778
+            text = "3.M.PL.SBJ.POST"
+        intervals [4]
+            xmin = 13.778
+            xmax = 13.821
+            text = "wind"
+        intervals [5]
+            xmin = 13.821
+            xmax = 13.864
+            text = "M.PL"
+        intervals [6]
+            xmin = 13.864
+            xmax = 13.907
+            text = "3.F.SG.POSS"
+        intervals [7]
+            xmin = 13.907
+            xmax = 13.971
+            text = "north"
+        intervals [8]
+            xmin = 13.971
+            xmax = 14.036
+            text = "F.SG"
+        intervals [9]
+            xmin = 14.036
+            xmax = 14.165
+            text = "CONJ"
+        intervals [10]
+            xmin = 14.165
+            xmax = 14.229
+            text = "sun"
+        intervals [11]
+            xmin = 14.229
+            xmax = 14.294
+            text = "F.SG"
+        intervals [12]
+            xmin = 14.294
+            xmax = 18.42
+            text = ""
+        intervals [13]
+            xmin = 18.42
+            xmax = 18.57
+            text = "who"
+        intervals [14]
+            xmin = 18.57
+            xmax = 18.72
+            text = "Cop"
+        intervals [15]
+            xmin = 18.72
+            xmax = 18.87
+            text = "strength"
+        intervals [16]
+            xmin = 18.87
+            xmax = 19.02
+            text = "F.Pl.Assoc"
+        intervals [17]
+            xmin = 19.02
+            xmax = 19.32
+            text = "a.lot"
+        intervals [18]
+            xmin = 19.32
+            xmax = 21.48
+            text = ""
+        intervals [19]
+            xmin = 21.48
+            xmax = 21.518
+            text = "NMLZ"
+        intervals [20]
+            xmin = 21.518
+            xmax = 21.557
+            text = "walk"
+        intervals [21]
+            xmin = 21.557
+            xmax = 21.634
+            text = "PROX.DEM.SG"
+        intervals [22]
+            xmin = 21.634
+            xmax = 21.672
+            text = "COND.AUX"
+        intervals [23]
+            xmin = 21.672
+            xmax = 21.711
+            text = "3.SG.M.SBJ.POST"
+        intervals [24]
+            xmin = 21.711
+            xmax = 21.789
+            text = "cover"
+        intervals [25]
+            xmin = 21.789
+            xmax = 21.866
+            text = "cloth"
+        intervals [26]
+            xmin = 21.866
+            xmax = 21.943
+            text = "heavy"
+        intervals [27]
+            xmin = 21.943
+            xmax = 21.981
+            text = "SEQ"
+        intervals [28]
+            xmin = 21.981
+            xmax = 22.02
+            text = "3.SG.M.SBJ.POST"
+        intervals [29]
+            xmin = 22.02
+            xmax = 22.098
+            text = "come.out"
+        intervals [30]
+            xmin = 22.098
+            xmax = 26.89
+            text = ""
+        intervals [31]
+            xmin = 26.89
+            xmax = 27.04
+            text = "SEQ"
+        intervals [32]
+            xmin = 27.04
+            xmax = 27.19
+            text = "3.F.Pl.SUBJ.POST"
+        intervals [33]
+            xmin = 27.19
+            xmax = 27.49
+            text = "say"
+        intervals [34]
+            xmin = 27.49
+            xmax = 28.265
+            text = ""
+        intervals [35]
+            xmin = 28.265
+            xmax = 29.195
+            text = "thus"
+        intervals [36]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [37]
+            xmin = 29.27
+            xmax = 29.46
+            text = "PROX.DEM.SG"
+        intervals [38]
+            xmin = 29.46
+            xmax = 29.555
+            text = "COND.AUX"
+        intervals [39]
+            xmin = 29.555
+            xmax = 29.65
+            text = "3.M.Sg.SUBJ.POST"
+        intervals [40]
+            xmin = 29.65
+            xmax = 29.84
+            text = "go.ahead"
+        intervals [41]
+            xmin = 29.84
+            xmax = 31.02
+            text = ""
+        intervals [42]
+            xmin = 31.02
+            xmax = 31.589
+            text = "oneself"
+        intervals [43]
+            xmin = 31.589
+            xmax = 31.873
+            text = "leave"
+        intervals [44]
+            xmin = 31.873
+            xmax = 32.158
+            text = "APPL"
+        intervals [45]
+            xmin = 32.158
+            xmax = 32.727
+            text = "cloth"
+        intervals [46]
+            xmin = 32.727
+            xmax = 33.296
+            text = "PROX.DEM.SG"
+        intervals [47]
+            xmin = 33.296
+            xmax = 33.866
+            text = "person"
+        intervals [48]
+            xmin = 33.866
+            xmax = 34.0
+            text = ""
+        intervals [49]
+            xmin = 34.0
+            xmax = 34.803
+            text = "DIST.DEM.SG.M"
+        intervals [50]
+            xmin = 34.803
+            xmax = 35.205
+            text = "say"
+        intervals [51]
+            xmin = 35.205
+            xmax = 35.607
+            text = "PASS"
+        intervals [52]
+            xmin = 35.607
+            xmax = 36.009
+            text = "strength"
+        intervals [53]
+            xmin = 36.009
+            xmax = 36.411
+            text = "F.Pl.Assoc"
+        intervals [54]
+            xmin = 36.411
+            xmax = 36.49
+            text = ""
+        intervals [55]
+            xmin = 36.49
+            xmax = 36.74
+            text = "wind"
+        intervals [56]
+            xmin = 36.74
+            xmax = 36.991
+            text = "M.PL"
+        intervals [57]
+            xmin = 36.991
+            xmax = 37.242
+            text = "3.F.SG.POSS"
+        intervals [58]
+            xmin = 37.242
+            xmax = 37.618
+            text = "north"
+        intervals [59]
+            xmin = 37.618
+            xmax = 37.994
+            text = "F.SG"
+        intervals [60]
+            xmin = 37.994
+            xmax = 38.37
+            text = "SEQ"
+        intervals [61]
+            xmin = 38.37
+            xmax = 38.746
+            text = "3.F.Pl.SUBJ.POST"
+        intervals [62]
+            xmin = 38.746
+            xmax = 39.498
+            text = "wind"
+        intervals [63]
+            xmin = 39.498
+            xmax = 40.25
+            text = "a.lot"
+        intervals [64]
+            xmin = 40.25
+            xmax = 41.002
+            text = "with.it"
+        intervals [65]
+            xmin = 41.002
+            xmax = 41.378
+            text = "strength"
+        intervals [66]
+            xmin = 41.378
+            xmax = 41.755
+            text = "M.PL"
+        intervals [67]
+            xmin = 41.755
+            xmax = 41.804
+            text = ""
+        intervals [68]
+            xmin = 41.804
+            xmax = 42.192
+            text = "COND.AUX"
+        intervals [69]
+            xmin = 42.192
+            xmax = 42.581
+            text = "3.M.PL.SBJ.POST"
+        intervals [70]
+            xmin = 42.581
+            xmax = 42.97
+            text = "wind"
+        intervals [71]
+            xmin = 42.97
+            xmax = 43.359
+            text = "COP"
+        intervals [72]
+            xmin = 43.359
+            xmax = 43.48
+            text = ""
+        intervals [73]
+            xmin = 43.48
+            xmax = 44.198
+            text = "a.lot"
+        intervals [74]
+            xmin = 44.198
+            xmax = 44.916
+            text = "DIST.DEM.SG.M"
+        intervals [75]
+            xmin = 44.916
+            xmax = 45.634
+            text = "person"
+        intervals [76]
+            xmin = 45.634
+            xmax = 45.993
+            text = "SEQ"
+        intervals [77]
+            xmin = 45.993
+            xmax = 46.352
+            text = "3.SG.M.SBJ.POST"
+        intervals [78]
+            xmin = 46.352
+            xmax = 46.711
+            text = "close"
+        intervals [79]
+            xmin = 46.711
+            xmax = 47.07
+            text = "3.M.SG.OBJ"
+        intervals [80]
+            xmin = 47.07
+            xmax = 47.788
+            text = "cloth"
+        intervals [81]
+            xmin = 47.788
+            xmax = 48.507
+            text = "good"
+        intervals [82]
+            xmin = 48.507
+            xmax = 48.65
+            text = ""
+        intervals [83]
+            xmin = 48.65
+            xmax = 49.387
+            text = "then"
+        intervals [84]
+            xmin = 49.387
+            xmax = 49.755
+            text = "SEQ"
+        intervals [85]
+            xmin = 49.755
+            xmax = 50.124
+            text = "3.F.Pl.SUBJ.POST"
+        intervals [86]
+            xmin = 50.124
+            xmax = 50.37
+            text = "wind"
+        intervals [87]
+            xmin = 50.37
+            xmax = 50.616
+            text = "M.PL"
+        intervals [88]
+            xmin = 50.616
+            xmax = 50.862
+            text = "3.F.SG.POSS"
+        intervals [89]
+            xmin = 50.862
+            xmax = 51.23
+            text = "north"
+        intervals [90]
+            xmin = 51.23
+            xmax = 51.599
+            text = "F.SG"
+        intervals [91]
+            xmin = 51.599
+            xmax = 51.967
+            text = "leave"
+        intervals [92]
+            xmin = 51.967
+            xmax = 52.336
+            text = "PASS"
+        intervals [93]
+            xmin = 52.336
+            xmax = 52.705
+            text = "wind"
+        intervals [94]
+            xmin = 52.705
+            xmax = 53.074
+            text = "3.PL.F.POSS"
+        intervals [95]
+            xmin = 53.074
+            xmax = 53.38
+            text = ""
+        intervals [96]
+            xmin = 53.38
+            xmax = 54.071
+            text = "then"
+        intervals [97]
+            xmin = 54.071
+            xmax = 54.417
+            text = "sun"
+        intervals [98]
+            xmin = 54.417
+            xmax = 54.763
+            text = "F.SG"
+        intervals [99]
+            xmin = 54.763
+            xmax = 55.108
+            text = "SEQ"
+        intervals [100]
+            xmin = 55.108
+            xmax = 55.454
+            text = "3.SG.F.SBJ.POST"
+        intervals [101]
+            xmin = 55.454
+            xmax = 56.146
+            text = "shine"
+        intervals [102]
+            xmin = 56.146
+            xmax = 56.837
+            text = "with.it"
+        intervals [103]
+            xmin = 56.837
+            xmax = 57.529
+            text = "hot"
+        intervals [104]
+            xmin = 57.529
+            xmax = 57.58
+            text = ""
+        intervals [105]
+            xmin = 57.58
+            xmax = 58.5
+            text = "then"
+        intervals [106]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [107]
+            xmin = 58.59
+            xmax = 59.212
+            text = "DIST.DEM.SG.M"
+        intervals [108]
+            xmin = 59.212
+            xmax = 59.835
+            text = "person"
+        intervals [109]
+            xmin = 59.835
+            xmax = 60.146
+            text = "SEQ"
+        intervals [110]
+            xmin = 60.146
+            xmax = 60.457
+            text = "3.SG.M.SBJ.POST"
+        intervals [111]
+            xmin = 60.457
+            xmax = 60.768
+            text = "remove"
+        intervals [112]
+            xmin = 60.768
+            xmax = 61.08
+            text = "3.M.SG.OBJ"
+        intervals [113]
+            xmin = 61.08
+            xmax = 61.703
+            text = "cloth"
+        intervals [114]
+            xmin = 61.703
+            xmax = 61.74
+            text = ""
+        intervals [115]
+            xmin = 61.74
+            xmax = 62.457
+            text = "thus"
+        intervals [116]
+            xmin = 62.457
+            xmax = 62.696
+            text = "wind"
+        intervals [117]
+            xmin = 62.696
+            xmax = 62.935
+            text = "M.PL"
+        intervals [118]
+            xmin = 62.935
+            xmax = 63.174
+            text = "3.F.SG.POSS"
+        intervals [119]
+            xmin = 63.174
+            xmax = 63.532
+            text = "north"
+        intervals [120]
+            xmin = 63.532
+            xmax = 63.891
+            text = "F.SG"
+        intervals [121]
+            xmin = 63.891
+            xmax = 64.249
+            text = "SEQ"
+        intervals [122]
+            xmin = 64.249
+            xmax = 64.608
+            text = "3.F.Pl.SUBJ.POST"
+        intervals [123]
+            xmin = 64.608
+            xmax = 65.325
+            text = "know"
+        intervals [124]
+            xmin = 65.325
+            xmax = 65.39
+            text = ""
+        intervals [125]
+            xmin = 65.39
+            xmax = 65.953
+            text = "sun"
+        intervals [126]
+            xmin = 65.953
+            xmax = 66.516
+            text = "F.SG"
+        intervals [127]
+            xmin = 66.516
+            xmax = 66.891
+            text = "strength"
+        intervals [128]
+            xmin = 66.891
+            xmax = 67.267
+            text = "F.Pl.Assoc"
+        intervals [129]
+            xmin = 67.267
+            xmax = 67.643
+            text = "3.SG.F.SBJ.POST"
+        intervals [130]
+            xmin = 67.643
+            xmax = 68.769
+            text = "a.lot"
+        intervals [131]
+            xmin = 68.769
+            xmax = 69.144
+            text = "middle"
+        intervals [132]
+            xmin = 69.144
+            xmax = 69.52
+            text = "3.M.SG.OBJ"
+        intervals [133]
+            xmin = 69.52
+            xmax = 69.896
+            text = "3.PL.F.POSS"
+        intervals [134]
+            xmin = 69.896
+            xmax = 72.378
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "A_morph-hn-hts"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 24
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.864
+            text = ""
+        intervals [2]
+            xmin = 13.864
+            xmax = 13.907
+            text = "1"
+        intervals [3]
+            xmin = 13.907
+            xmax = 21.557
+            text = ""
+        intervals [4]
+            xmin = 21.557
+            xmax = 21.634
+            text = "2"
+        intervals [5]
+            xmin = 21.634
+            xmax = 29.27
+            text = ""
+        intervals [6]
+            xmin = 29.27
+            xmax = 29.46
+            text = "2"
+        intervals [7]
+            xmin = 29.46
+            xmax = 32.727
+            text = ""
+        intervals [8]
+            xmin = 32.727
+            xmax = 33.296
+            text = "2"
+        intervals [9]
+            xmin = 33.296
+            xmax = 36.991
+            text = ""
+        intervals [10]
+            xmin = 36.991
+            xmax = 37.242
+            text = "1"
+        intervals [11]
+            xmin = 37.242
+            xmax = 46.352
+            text = ""
+        intervals [12]
+            xmin = 46.352
+            xmax = 46.711
+            text = "1"
+        intervals [13]
+            xmin = 46.711
+            xmax = 47.07
+            text = "1"
+        intervals [14]
+            xmin = 47.07
+            xmax = 50.616
+            text = ""
+        intervals [15]
+            xmin = 50.616
+            xmax = 50.862
+            text = "1"
+        intervals [16]
+            xmin = 50.862
+            xmax = 52.705
+            text = ""
+        intervals [17]
+            xmin = 52.705
+            xmax = 53.074
+            text = "1"
+        intervals [18]
+            xmin = 53.074
+            xmax = 60.768
+            text = ""
+        intervals [19]
+            xmin = 60.768
+            xmax = 61.08
+            text = "1"
+        intervals [20]
+            xmin = 61.08
+            xmax = 62.935
+            text = ""
+        intervals [21]
+            xmin = 62.935
+            xmax = 63.174
+            text = "1"
+        intervals [22]
+            xmin = 63.174
+            xmax = 69.144
+            text = ""
+        intervals [23]
+            xmin = 69.144
+            xmax = 69.52
+            text = "1"
+        intervals [24]
+            xmin = 69.52
+            xmax = 72.378
+            text = ""
+    item[4]:
+        class = "IntervalTier"
+        name = "A_morph-msa-en"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 134
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 13.714
+            text = "<Not Sure>"
+        intervals [3]
+            xmin = 13.714
+            xmax = 13.778
+            text = "Attaches to any category"
+        intervals [4]
+            xmin = 13.778
+            xmax = 13.821
+            text = "n"
+        intervals [5]
+            xmin = 13.821
+            xmax = 13.864
+            text = "Noun"
+        intervals [6]
+            xmin = 13.864
+            xmax = 13.907
+            text = "Attaches to any category"
+        intervals [7]
+            xmin = 13.907
+            xmax = 13.971
+            text = "n"
+        intervals [8]
+            xmin = 13.971
+            xmax = 14.036
+            text = "Noun"
+        intervals [9]
+            xmin = 14.036
+            xmax = 14.165
+            text = "<Not Sure>"
+        intervals [10]
+            xmin = 14.165
+            xmax = 14.229
+            text = "n"
+        intervals [11]
+            xmin = 14.229
+            xmax = 14.294
+            text = "Noun"
+        intervals [12]
+            xmin = 14.294
+            xmax = 18.42
+            text = ""
+        intervals [13]
+            xmin = 18.42
+            xmax = 18.57
+            text = "<Not Sure>"
+        intervals [14]
+            xmin = 18.57
+            xmax = 18.72
+            text = "Attaches to any category"
+        intervals [15]
+            xmin = 18.72
+            xmax = 18.87
+            text = "n"
+        intervals [16]
+            xmin = 18.87
+            xmax = 19.02
+            text = "Attaches to any category"
+        intervals [17]
+            xmin = 19.02
+            xmax = 19.32
+            text = "<Not Sure>"
+        intervals [18]
+            xmin = 19.32
+            xmax = 21.48
+            text = ""
+        intervals [19]
+            xmin = 21.48
+            xmax = 21.518
+            text = "Attaches to any category"
+        intervals [20]
+            xmin = 21.518
+            xmax = 21.557
+            text = "v"
+        intervals [21]
+            xmin = 21.557
+            xmax = 21.634
+            text = "<Not Sure>"
+        intervals [22]
+            xmin = 21.634
+            xmax = 21.672
+            text = "<Not Sure>"
+        intervals [23]
+            xmin = 21.672
+            xmax = 21.711
+            text = "Attaches to any category"
+        intervals [24]
+            xmin = 21.711
+            xmax = 21.789
+            text = "v"
+        intervals [25]
+            xmin = 21.789
+            xmax = 21.866
+            text = "n"
+        intervals [26]
+            xmin = 21.866
+            xmax = 21.943
+            text = "<Not Sure>"
+        intervals [27]
+            xmin = 21.943
+            xmax = 21.981
+            text = "Attaches to any category"
+        intervals [28]
+            xmin = 21.981
+            xmax = 22.02
+            text = "Attaches to any category"
+        intervals [29]
+            xmin = 22.02
+            xmax = 22.098
+            text = "v"
+        intervals [30]
+            xmin = 22.098
+            xmax = 26.89
+            text = ""
+        intervals [31]
+            xmin = 26.89
+            xmax = 27.04
+            text = "Attaches to any category"
+        intervals [32]
+            xmin = 27.04
+            xmax = 27.19
+            text = "<Not Sure>"
+        intervals [33]
+            xmin = 27.19
+            xmax = 27.49
+            text = "v"
+        intervals [34]
+            xmin = 27.49
+            xmax = 28.265
+            text = ""
+        intervals [35]
+            xmin = 28.265
+            xmax = 29.195
+            text = "<Not Sure>"
+        intervals [36]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [37]
+            xmin = 29.27
+            xmax = 29.46
+            text = "<Not Sure>"
+        intervals [38]
+            xmin = 29.46
+            xmax = 29.555
+            text = "<Not Sure>"
+        intervals [39]
+            xmin = 29.555
+            xmax = 29.65
+            text = "Attaches to any category"
+        intervals [40]
+            xmin = 29.65
+            xmax = 29.84
+            text = "<Not Sure>"
+        intervals [41]
+            xmin = 29.84
+            xmax = 31.02
+            text = ""
+        intervals [42]
+            xmin = 31.02
+            xmax = 31.589
+            text = "<Not Sure>"
+        intervals [43]
+            xmin = 31.589
+            xmax = 31.873
+            text = "v"
+        intervals [44]
+            xmin = 31.873
+            xmax = 32.158
+            text = "Attaches to any category"
+        intervals [45]
+            xmin = 32.158
+            xmax = 32.727
+            text = "n"
+        intervals [46]
+            xmin = 32.727
+            xmax = 33.296
+            text = "<Not Sure>"
+        intervals [47]
+            xmin = 33.296
+            xmax = 33.866
+            text = "n"
+        intervals [48]
+            xmin = 33.866
+            xmax = 34.0
+            text = ""
+        intervals [49]
+            xmin = 34.0
+            xmax = 34.803
+            text = "<Not Sure>"
+        intervals [50]
+            xmin = 34.803
+            xmax = 35.205
+            text = "v"
+        intervals [51]
+            xmin = 35.205
+            xmax = 35.607
+            text = "Verb"
+        intervals [52]
+            xmin = 35.607
+            xmax = 36.009
+            text = "n"
+        intervals [53]
+            xmin = 36.009
+            xmax = 36.411
+            text = "Attaches to any category"
+        intervals [54]
+            xmin = 36.411
+            xmax = 36.49
+            text = ""
+        intervals [55]
+            xmin = 36.49
+            xmax = 36.74
+            text = "n"
+        intervals [56]
+            xmin = 36.74
+            xmax = 36.991
+            text = "Noun"
+        intervals [57]
+            xmin = 36.991
+            xmax = 37.242
+            text = "Attaches to any category"
+        intervals [58]
+            xmin = 37.242
+            xmax = 37.618
+            text = "n"
+        intervals [59]
+            xmin = 37.618
+            xmax = 37.994
+            text = "Noun"
+        intervals [60]
+            xmin = 37.994
+            xmax = 38.37
+            text = "Attaches to any category"
+        intervals [61]
+            xmin = 38.37
+            xmax = 38.746
+            text = "<Not Sure>"
+        intervals [62]
+            xmin = 38.746
+            xmax = 39.498
+            text = "n"
+        intervals [63]
+            xmin = 39.498
+            xmax = 40.25
+            text = "<Not Sure>"
+        intervals [64]
+            xmin = 40.25
+            xmax = 41.002
+            text = "<Not Sure>"
+        intervals [65]
+            xmin = 41.002
+            xmax = 41.378
+            text = "n"
+        intervals [66]
+            xmin = 41.378
+            xmax = 41.755
+            text = "Noun"
+        intervals [67]
+            xmin = 41.755
+            xmax = 41.804
+            text = ""
+        intervals [68]
+            xmin = 41.804
+            xmax = 42.192
+            text = "<Not Sure>"
+        intervals [69]
+            xmin = 42.192
+            xmax = 42.581
+            text = "Attaches to any category"
+        intervals [70]
+            xmin = 42.581
+            xmax = 42.97
+            text = "n"
+        intervals [71]
+            xmin = 42.97
+            xmax = 43.359
+            text = "Attaches to any category"
+        intervals [72]
+            xmin = 43.359
+            xmax = 43.48
+            text = ""
+        intervals [73]
+            xmin = 43.48
+            xmax = 44.198
+            text = "<Not Sure>"
+        intervals [74]
+            xmin = 44.198
+            xmax = 44.916
+            text = "<Not Sure>"
+        intervals [75]
+            xmin = 44.916
+            xmax = 45.634
+            text = "n"
+        intervals [76]
+            xmin = 45.634
+            xmax = 45.993
+            text = "Attaches to any category"
+        intervals [77]
+            xmin = 45.993
+            xmax = 46.352
+            text = "Attaches to any category"
+        intervals [78]
+            xmin = 46.352
+            xmax = 46.711
+            text = "v"
+        intervals [79]
+            xmin = 46.711
+            xmax = 47.07
+            text = "Attaches to any category"
+        intervals [80]
+            xmin = 47.07
+            xmax = 47.788
+            text = "n"
+        intervals [81]
+            xmin = 47.788
+            xmax = 48.507
+            text = "adv"
+        intervals [82]
+            xmin = 48.507
+            xmax = 48.65
+            text = ""
+        intervals [83]
+            xmin = 48.65
+            xmax = 49.387
+            text = "<Not Sure>"
+        intervals [84]
+            xmin = 49.387
+            xmax = 49.755
+            text = "Attaches to any category"
+        intervals [85]
+            xmin = 49.755
+            xmax = 50.124
+            text = "<Not Sure>"
+        intervals [86]
+            xmin = 50.124
+            xmax = 50.37
+            text = "n"
+        intervals [87]
+            xmin = 50.37
+            xmax = 50.616
+            text = "Noun"
+        intervals [88]
+            xmin = 50.616
+            xmax = 50.862
+            text = "Attaches to any category"
+        intervals [89]
+            xmin = 50.862
+            xmax = 51.23
+            text = "n"
+        intervals [90]
+            xmin = 51.23
+            xmax = 51.599
+            text = "Noun"
+        intervals [91]
+            xmin = 51.599
+            xmax = 51.967
+            text = "v"
+        intervals [92]
+            xmin = 51.967
+            xmax = 52.336
+            text = "Verb"
+        intervals [93]
+            xmin = 52.336
+            xmax = 52.705
+            text = "n"
+        intervals [94]
+            xmin = 52.705
+            xmax = 53.074
+            text = "Attaches to any category"
+        intervals [95]
+            xmin = 53.074
+            xmax = 53.38
+            text = ""
+        intervals [96]
+            xmin = 53.38
+            xmax = 54.071
+            text = "<Not Sure>"
+        intervals [97]
+            xmin = 54.071
+            xmax = 54.417
+            text = "n"
+        intervals [98]
+            xmin = 54.417
+            xmax = 54.763
+            text = "Noun"
+        intervals [99]
+            xmin = 54.763
+            xmax = 55.108
+            text = "Attaches to any category"
+        intervals [100]
+            xmin = 55.108
+            xmax = 55.454
+            text = "<Not Sure>"
+        intervals [101]
+            xmin = 55.454
+            xmax = 56.146
+            text = "v"
+        intervals [102]
+            xmin = 56.146
+            xmax = 56.837
+            text = "<Not Sure>"
+        intervals [103]
+            xmin = 56.837
+            xmax = 57.529
+            text = "<Not Sure>"
+        intervals [104]
+            xmin = 57.529
+            xmax = 57.58
+            text = ""
+        intervals [105]
+            xmin = 57.58
+            xmax = 58.5
+            text = "<Not Sure>"
+        intervals [106]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [107]
+            xmin = 58.59
+            xmax = 59.212
+            text = "<Not Sure>"
+        intervals [108]
+            xmin = 59.212
+            xmax = 59.835
+            text = "n"
+        intervals [109]
+            xmin = 59.835
+            xmax = 60.146
+            text = "Attaches to any category"
+        intervals [110]
+            xmin = 60.146
+            xmax = 60.457
+            text = "Attaches to any category"
+        intervals [111]
+            xmin = 60.457
+            xmax = 60.768
+            text = "v"
+        intervals [112]
+            xmin = 60.768
+            xmax = 61.08
+            text = "Attaches to any category"
+        intervals [113]
+            xmin = 61.08
+            xmax = 61.703
+            text = "n"
+        intervals [114]
+            xmin = 61.703
+            xmax = 61.74
+            text = ""
+        intervals [115]
+            xmin = 61.74
+            xmax = 62.457
+            text = "<Not Sure>"
+        intervals [116]
+            xmin = 62.457
+            xmax = 62.696
+            text = "n"
+        intervals [117]
+            xmin = 62.696
+            xmax = 62.935
+            text = "Noun"
+        intervals [118]
+            xmin = 62.935
+            xmax = 63.174
+            text = "Attaches to any category"
+        intervals [119]
+            xmin = 63.174
+            xmax = 63.532
+            text = "n"
+        intervals [120]
+            xmin = 63.532
+            xmax = 63.891
+            text = "Noun"
+        intervals [121]
+            xmin = 63.891
+            xmax = 64.249
+            text = "Attaches to any category"
+        intervals [122]
+            xmin = 64.249
+            xmax = 64.608
+            text = "<Not Sure>"
+        intervals [123]
+            xmin = 64.608
+            xmax = 65.325
+            text = "v"
+        intervals [124]
+            xmin = 65.325
+            xmax = 65.39
+            text = ""
+        intervals [125]
+            xmin = 65.39
+            xmax = 65.953
+            text = "n"
+        intervals [126]
+            xmin = 65.953
+            xmax = 66.516
+            text = "Noun"
+        intervals [127]
+            xmin = 66.516
+            xmax = 66.891
+            text = "n"
+        intervals [128]
+            xmin = 66.891
+            xmax = 67.267
+            text = "Attaches to any category"
+        intervals [129]
+            xmin = 67.267
+            xmax = 67.643
+            text = "Attaches to any category"
+        intervals [130]
+            xmin = 67.643
+            xmax = 68.769
+            text = "<Not Sure>"
+        intervals [131]
+            xmin = 68.769
+            xmax = 69.144
+            text = "<Not Sure>"
+        intervals [132]
+            xmin = 69.144
+            xmax = 69.52
+            text = "Attaches to any category"
+        intervals [133]
+            xmin = 69.52
+            xmax = 69.896
+            text = "Attaches to any category"
+        intervals [134]
+            xmin = 69.896
+            xmax = 72.378
+            text = ""
+    item[5]:
+        class = "IntervalTier"
+        name = "A_morph-txt-hts"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 134
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 13.714
+            text = "kw"
+        intervals [3]
+            xmin = 13.714
+            xmax = 13.778
+            text = "-ami"
+        intervals [4]
+            xmin = 13.778
+            xmax = 13.821
+            text = "zzutchi"
+        intervals [5]
+            xmin = 13.821
+            xmax = 13.864
+            text = "-bi"
+        intervals [6]
+            xmin = 13.864
+            xmax = 13.907
+            text = "-sa"
+        intervals [7]
+            xmin = 13.907
+            xmax = 13.971
+            text = "sanza"
+        intervals [8]
+            xmin = 13.971
+            xmax = 14.036
+            text = "-ko"
+        intervals [9]
+            xmin = 14.036
+            xmax = 14.165
+            text = "a"
+        intervals [10]
+            xmin = 14.165
+            xmax = 14.229
+            text = "isho"
+        intervals [11]
+            xmin = 14.229
+            xmax = 14.294
+            text = "-ko"
+        intervals [12]
+            xmin = 14.294
+            xmax = 18.42
+            text = ""
+        intervals [13]
+            xmin = 18.42
+            xmax = 18.57
+            text = "akwaza"
+        intervals [14]
+            xmin = 18.57
+            xmax = 18.72
+            text = "-ha"
+        intervals [15]
+            xmin = 18.72
+            xmax = 18.87
+            text = "uru"
+        intervals [16]
+            xmin = 18.87
+            xmax = 19.02
+            text = "-bite"
+        intervals [17]
+            xmin = 19.02
+            xmax = 19.32
+            text = "paana"
+        intervals [18]
+            xmin = 19.32
+            xmax = 21.48
+            text = ""
+        intervals [19]
+            xmin = 21.48
+            xmax = 21.518
+            text = "i-"
+        intervals [20]
+            xmin = 21.518
+            xmax = 21.557
+            text = "itlhikwa"
+        intervals [21]
+            xmin = 21.557
+            xmax = 21.634
+            text = "hama"
+        intervals [22]
+            xmin = 21.634
+            xmax = 21.672
+            text = "kw"
+        intervals [23]
+            xmin = 21.672
+            xmax = 21.711
+            text = "-amo"
+        intervals [24]
+            xmin = 21.711
+            xmax = 21.789
+            text = "sluba"
+        intervals [25]
+            xmin = 21.789
+            xmax = 21.866
+            text = "dloa"
+        intervals [26]
+            xmin = 21.866
+            xmax = 21.943
+            text = "ncaphane"
+        intervals [27]
+            xmin = 21.943
+            xmax = 21.981
+            text = "ka-"
+        intervals [28]
+            xmin = 21.981
+            xmax = 22.02
+            text = "-amo"
+        intervals [29]
+            xmin = 22.02
+            xmax = 22.098
+            text = "quyu"
+        intervals [30]
+            xmin = 22.098
+            xmax = 26.89
+            text = ""
+        intervals [31]
+            xmin = 26.89
+            xmax = 27.04
+            text = "ka-"
+        intervals [32]
+            xmin = 27.04
+            xmax = 27.19
+            text = "itcha"
+        intervals [33]
+            xmin = 27.19
+            xmax = 27.49
+            text = "dlozo"
+        intervals [34]
+            xmin = 27.49
+            xmax = 28.265
+            text = ""
+        intervals [35]
+            xmin = 28.265
+            xmax = 29.195
+            text = "hishina"
+        intervals [36]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [37]
+            xmin = 29.27
+            xmax = 29.46
+            text = "hama"
+        intervals [38]
+            xmin = 29.46
+            xmax = 29.555
+            text = "kwa"
+        intervals [39]
+            xmin = 29.555
+            xmax = 29.65
+            text = "-eso"
+        intervals [40]
+            xmin = 29.65
+            xmax = 29.84
+            text = "gumia"
+        intervals [41]
+            xmin = 29.84
+            xmax = 31.02
+            text = ""
+        intervals [42]
+            xmin = 31.02
+            xmax = 31.589
+            text = "so"
+        intervals [43]
+            xmin = 31.589
+            xmax = 31.873
+            text = "hiqqe"
+        intervals [44]
+            xmin = 31.873
+            xmax = 32.158
+            text = "-ma"
+        intervals [45]
+            xmin = 32.158
+            xmax = 32.727
+            text = "dloa"
+        intervals [46]
+            xmin = 32.727
+            xmax = 33.296
+            text = "hama"
+        intervals [47]
+            xmin = 33.296
+            xmax = 33.866
+            text = "unu"
+        intervals [48]
+            xmin = 33.866
+            xmax = 34.0
+            text = ""
+        intervals [49]
+            xmin = 34.0
+            xmax = 34.803
+            text = "bami"
+        intervals [50]
+            xmin = 34.803
+            xmax = 35.205
+            text = "ehe"
+        intervals [51]
+            xmin = 35.205
+            xmax = 35.607
+            text = "-ya"
+        intervals [52]
+            xmin = 35.607
+            xmax = 36.009
+            text = "uru"
+        intervals [53]
+            xmin = 36.009
+            xmax = 36.411
+            text = "-bite"
+        intervals [54]
+            xmin = 36.411
+            xmax = 36.49
+            text = ""
+        intervals [55]
+            xmin = 36.49
+            xmax = 36.74
+            text = "zzutchi"
+        intervals [56]
+            xmin = 36.74
+            xmax = 36.991
+            text = "-bi"
+        intervals [57]
+            xmin = 36.991
+            xmax = 37.242
+            text = "-sa"
+        intervals [58]
+            xmin = 37.242
+            xmax = 37.618
+            text = "sanza"
+        intervals [59]
+            xmin = 37.618
+            xmax = 37.994
+            text = "-ko"
+        intervals [60]
+            xmin = 37.994
+            xmax = 38.37
+            text = "ka-"
+        intervals [61]
+            xmin = 38.37
+            xmax = 38.746
+            text = "itcha"
+        intervals [62]
+            xmin = 38.746
+            xmax = 39.498
+            text = "phoya"
+        intervals [63]
+            xmin = 39.498
+            xmax = 40.25
+            text = "paana"
+        intervals [64]
+            xmin = 40.25
+            xmax = 41.002
+            text = "nena"
+        intervals [65]
+            xmin = 41.002
+            xmax = 41.378
+            text = "uru"
+        intervals [66]
+            xmin = 41.378
+            xmax = 41.755
+            text = "bee"
+        intervals [67]
+            xmin = 41.755
+            xmax = 41.804
+            text = ""
+        intervals [68]
+            xmin = 41.804
+            xmax = 42.192
+            text = "kw"
+        intervals [69]
+            xmin = 42.192
+            xmax = 42.581
+            text = "-ami"
+        intervals [70]
+            xmin = 42.581
+            xmax = 42.97
+            text = "phoya"
+        intervals [71]
+            xmin = 42.97
+            xmax = 43.359
+            text = "-ehe"
+        intervals [72]
+            xmin = 43.359
+            xmax = 43.48
+            text = ""
+        intervals [73]
+            xmin = 43.48
+            xmax = 44.198
+            text = "paana"
+        intervals [74]
+            xmin = 44.198
+            xmax = 44.916
+            text = "bami"
+        intervals [75]
+            xmin = 44.916
+            xmax = 45.634
+            text = "unu"
+        intervals [76]
+            xmin = 45.634
+            xmax = 45.993
+            text = "ka-"
+        intervals [77]
+            xmin = 45.993
+            xmax = 46.352
+            text = "-amo"
+        intervals [78]
+            xmin = 46.352
+            xmax = 46.711
+            text = "thaa"
+        intervals [79]
+            xmin = 46.711
+            xmax = 47.07
+            text = "-na"
+        intervals [80]
+            xmin = 47.07
+            xmax = 47.788
+            text = "dloa"
+        intervals [81]
+            xmin = 47.788
+            xmax = 48.507
+            text = "mtana"
+        intervals [82]
+            xmin = 48.507
+            xmax = 48.65
+            text = ""
+        intervals [83]
+            xmin = 48.65
+            xmax = 49.387
+            text = "beena"
+        intervals [84]
+            xmin = 49.387
+            xmax = 49.755
+            text = "ka-"
+        intervals [85]
+            xmin = 49.755
+            xmax = 50.124
+            text = "itcha"
+        intervals [86]
+            xmin = 50.124
+            xmax = 50.37
+            text = "zzutchi"
+        intervals [87]
+            xmin = 50.37
+            xmax = 50.616
+            text = "-bi"
+        intervals [88]
+            xmin = 50.616
+            xmax = 50.862
+            text = "-sa"
+        intervals [89]
+            xmin = 50.862
+            xmax = 51.23
+            text = "sanza"
+        intervals [90]
+            xmin = 51.23
+            xmax = 51.599
+            text = "-ko"
+        intervals [91]
+            xmin = 51.599
+            xmax = 51.967
+            text = "tha"
+        intervals [92]
+            xmin = 51.967
+            xmax = 52.336
+            text = "-ya"
+        intervals [93]
+            xmin = 52.336
+            xmax = 52.705
+            text = "phoya"
+        intervals [94]
+            xmin = 52.705
+            xmax = 53.074
+            text = "-tcha"
+        intervals [95]
+            xmin = 53.074
+            xmax = 53.38
+            text = ""
+        intervals [96]
+            xmin = 53.38
+            xmax = 54.071
+            text = "atonena"
+        intervals [97]
+            xmin = 54.071
+            xmax = 54.417
+            text = "isho"
+        intervals [98]
+            xmin = 54.417
+            xmax = 54.763
+            text = "-ko"
+        intervals [99]
+            xmin = 54.763
+            xmax = 55.108
+            text = "ka-"
+        intervals [100]
+            xmin = 55.108
+            xmax = 55.454
+            text = "ota"
+        intervals [101]
+            xmin = 55.454
+            xmax = 56.146
+            text = "bexxe"
+        intervals [102]
+            xmin = 56.146
+            xmax = 56.837
+            text = "nena"
+        intervals [103]
+            xmin = 56.837
+            xmax = 57.529
+            text = "petenê"
+        intervals [104]
+            xmin = 57.529
+            xmax = 57.58
+            text = ""
+        intervals [105]
+            xmin = 57.58
+            xmax = 58.5
+            text = "beena"
+        intervals [106]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [107]
+            xmin = 58.59
+            xmax = 59.212
+            text = "bami"
+        intervals [108]
+            xmin = 59.212
+            xmax = 59.835
+            text = "unu"
+        intervals [109]
+            xmin = 59.835
+            xmax = 60.146
+            text = "ka-"
+        intervals [110]
+            xmin = 60.146
+            xmax = 60.457
+            text = "-amo"
+        intervals [111]
+            xmin = 60.457
+            xmax = 60.768
+            text = "zzua"
+        intervals [112]
+            xmin = 60.768
+            xmax = 61.08
+            text = "-na"
+        intervals [113]
+            xmin = 61.08
+            xmax = 61.703
+            text = "dloa"
+        intervals [114]
+            xmin = 61.703
+            xmax = 61.74
+            text = ""
+        intervals [115]
+            xmin = 61.74
+            xmax = 62.457
+            text = "hishina"
+        intervals [116]
+            xmin = 62.457
+            xmax = 62.696
+            text = "zzutchi"
+        intervals [117]
+            xmin = 62.696
+            xmax = 62.935
+            text = "-bi"
+        intervals [118]
+            xmin = 62.935
+            xmax = 63.174
+            text = "-sa"
+        intervals [119]
+            xmin = 63.174
+            xmax = 63.532
+            text = "sanza"
+        intervals [120]
+            xmin = 63.532
+            xmax = 63.891
+            text = "-ko"
+        intervals [121]
+            xmin = 63.891
+            xmax = 64.249
+            text = "ka-"
+        intervals [122]
+            xmin = 64.249
+            xmax = 64.608
+            text = "itcha"
+        intervals [123]
+            xmin = 64.608
+            xmax = 65.325
+            text = "tethao"
+        intervals [124]
+            xmin = 65.325
+            xmax = 65.39
+            text = ""
+        intervals [125]
+            xmin = 65.39
+            xmax = 65.953
+            text = "isho"
+        intervals [126]
+            xmin = 65.953
+            xmax = 66.516
+            text = "-ko"
+        intervals [127]
+            xmin = 66.516
+            xmax = 66.891
+            text = "uru"
+        intervals [128]
+            xmin = 66.891
+            xmax = 67.267
+            text = "-bitie"
+        intervals [129]
+            xmin = 67.267
+            xmax = 67.643
+            text = "-akwa"
+        intervals [130]
+            xmin = 67.643
+            xmax = 68.769
+            text = "paana"
+        intervals [131]
+            xmin = 68.769
+            xmax = 69.144
+            text = "xhaa"
+        intervals [132]
+            xmin = 69.144
+            xmax = 69.52
+            text = "-na"
+        intervals [133]
+            xmin = 69.52
+            xmax = 69.896
+            text = "-yeta"
+        intervals [134]
+            xmin = 69.896
+            xmax = 72.378
+            text = ""
+    item[6]:
+        class = "IntervalTier"
+        name = "A_morph-type"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 133
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 13.714
+            text = "stem"
+        intervals [3]
+            xmin = 13.714
+            xmax = 13.778
+            text = "suffix"
+        intervals [4]
+            xmin = 13.778
+            xmax = 13.821
+            text = "root"
+        intervals [5]
+            xmin = 13.821
+            xmax = 13.864
+            text = "suffix"
+        intervals [6]
+            xmin = 13.864
+            xmax = 13.907
+            text = "suffix"
+        intervals [7]
+            xmin = 13.907
+            xmax = 13.971
+            text = "root"
+        intervals [8]
+            xmin = 13.971
+            xmax = 14.036
+            text = "suffix"
+        intervals [9]
+            xmin = 14.036
+            xmax = 14.165
+            text = "root"
+        intervals [10]
+            xmin = 14.165
+            xmax = 14.229
+            text = "root"
+        intervals [11]
+            xmin = 14.229
+            xmax = 14.294
+            text = "suffix"
+        intervals [12]
+            xmin = 14.294
+            xmax = 18.42
+            text = ""
+        intervals [13]
+            xmin = 18.42
+            xmax = 18.57
+            text = "stem"
+        intervals [14]
+            xmin = 18.57
+            xmax = 18.72
+            text = "suffix"
+        intervals [15]
+            xmin = 18.72
+            xmax = 18.87
+            text = "stem"
+        intervals [16]
+            xmin = 18.87
+            xmax = 19.02
+            text = "suffix"
+        intervals [17]
+            xmin = 19.02
+            xmax = 19.32
+            text = "stem"
+        intervals [18]
+            xmin = 19.32
+            xmax = 21.48
+            text = ""
+        intervals [19]
+            xmin = 21.48
+            xmax = 21.518
+            text = "prefix"
+        intervals [20]
+            xmin = 21.518
+            xmax = 21.557
+            text = "root"
+        intervals [21]
+            xmin = 21.557
+            xmax = 21.634
+            text = "stem"
+        intervals [22]
+            xmin = 21.634
+            xmax = 21.672
+            text = "stem"
+        intervals [23]
+            xmin = 21.672
+            xmax = 21.711
+            text = "suffix"
+        intervals [24]
+            xmin = 21.711
+            xmax = 21.789
+            text = "root"
+        intervals [25]
+            xmin = 21.789
+            xmax = 21.866
+            text = "root"
+        intervals [26]
+            xmin = 21.866
+            xmax = 21.943
+            text = "stem"
+        intervals [27]
+            xmin = 21.943
+            xmax = 21.981
+            text = "prefix"
+        intervals [28]
+            xmin = 21.981
+            xmax = 22.02
+            text = "suffix"
+        intervals [29]
+            xmin = 22.02
+            xmax = 22.098
+            text = "root"
+        intervals [30]
+            xmin = 22.098
+            xmax = 26.89
+            text = ""
+        intervals [31]
+            xmin = 26.89
+            xmax = 27.04
+            text = "prefix"
+        intervals [32]
+            xmin = 27.04
+            xmax = 27.19
+            text = "stem"
+        intervals [33]
+            xmin = 27.19
+            xmax = 27.49
+            text = "root"
+        intervals [34]
+            xmin = 27.49
+            xmax = 28.265
+            text = ""
+        intervals [35]
+            xmin = 28.265
+            xmax = 29.195
+            text = "stem"
+        intervals [36]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [37]
+            xmin = 29.27
+            xmax = 29.46
+            text = "stem"
+        intervals [38]
+            xmin = 29.46
+            xmax = 29.555
+            text = "stem"
+        intervals [39]
+            xmin = 29.555
+            xmax = 29.65
+            text = "suffix"
+        intervals [40]
+            xmin = 29.65
+            xmax = 29.84
+            text = "stem"
+        intervals [41]
+            xmin = 29.84
+            xmax = 31.02
+            text = ""
+        intervals [42]
+            xmin = 31.02
+            xmax = 31.589
+            text = "stem"
+        intervals [43]
+            xmin = 31.589
+            xmax = 31.873
+            text = "root"
+        intervals [44]
+            xmin = 31.873
+            xmax = 32.158
+            text = "suffix"
+        intervals [45]
+            xmin = 32.158
+            xmax = 32.727
+            text = "root"
+        intervals [46]
+            xmin = 32.727
+            xmax = 33.296
+            text = "stem"
+        intervals [47]
+            xmin = 33.296
+            xmax = 33.866
+            text = "root"
+        intervals [48]
+            xmin = 33.866
+            xmax = 34.0
+            text = ""
+        intervals [49]
+            xmin = 34.0
+            xmax = 34.803
+            text = "stem"
+        intervals [50]
+            xmin = 34.803
+            xmax = 35.205
+            text = "stem"
+        intervals [51]
+            xmin = 35.205
+            xmax = 35.607
+            text = "suffix"
+        intervals [52]
+            xmin = 35.607
+            xmax = 36.009
+            text = "stem"
+        intervals [53]
+            xmin = 36.009
+            xmax = 36.411
+            text = "suffix"
+        intervals [54]
+            xmin = 36.411
+            xmax = 36.49
+            text = ""
+        intervals [55]
+            xmin = 36.49
+            xmax = 36.74
+            text = "root"
+        intervals [56]
+            xmin = 36.74
+            xmax = 36.991
+            text = "suffix"
+        intervals [57]
+            xmin = 36.991
+            xmax = 37.242
+            text = "suffix"
+        intervals [58]
+            xmin = 37.242
+            xmax = 37.618
+            text = "root"
+        intervals [59]
+            xmin = 37.618
+            xmax = 37.994
+            text = "suffix"
+        intervals [60]
+            xmin = 37.994
+            xmax = 38.37
+            text = "prefix"
+        intervals [61]
+            xmin = 38.37
+            xmax = 38.746
+            text = "stem"
+        intervals [62]
+            xmin = 38.746
+            xmax = 39.498
+            text = "root"
+        intervals [63]
+            xmin = 39.498
+            xmax = 40.25
+            text = "stem"
+        intervals [64]
+            xmin = 40.25
+            xmax = 41.002
+            text = "stem"
+        intervals [65]
+            xmin = 41.002
+            xmax = 41.378
+            text = "stem"
+        intervals [66]
+            xmin = 41.378
+            xmax = 41.804
+            text = ""
+        intervals [67]
+            xmin = 41.804
+            xmax = 42.192
+            text = "stem"
+        intervals [68]
+            xmin = 42.192
+            xmax = 42.581
+            text = "suffix"
+        intervals [69]
+            xmin = 42.581
+            xmax = 42.97
+            text = "root"
+        intervals [70]
+            xmin = 42.97
+            xmax = 43.359
+            text = "suffix"
+        intervals [71]
+            xmin = 43.359
+            xmax = 43.48
+            text = ""
+        intervals [72]
+            xmin = 43.48
+            xmax = 44.198
+            text = "stem"
+        intervals [73]
+            xmin = 44.198
+            xmax = 44.916
+            text = "stem"
+        intervals [74]
+            xmin = 44.916
+            xmax = 45.634
+            text = "root"
+        intervals [75]
+            xmin = 45.634
+            xmax = 45.993
+            text = "prefix"
+        intervals [76]
+            xmin = 45.993
+            xmax = 46.352
+            text = "suffix"
+        intervals [77]
+            xmin = 46.352
+            xmax = 46.711
+            text = "root"
+        intervals [78]
+            xmin = 46.711
+            xmax = 47.07
+            text = "suffix"
+        intervals [79]
+            xmin = 47.07
+            xmax = 47.788
+            text = "root"
+        intervals [80]
+            xmin = 47.788
+            xmax = 48.507
+            text = "stem"
+        intervals [81]
+            xmin = 48.507
+            xmax = 48.65
+            text = ""
+        intervals [82]
+            xmin = 48.65
+            xmax = 49.387
+            text = "stem"
+        intervals [83]
+            xmin = 49.387
+            xmax = 49.755
+            text = "prefix"
+        intervals [84]
+            xmin = 49.755
+            xmax = 50.124
+            text = "stem"
+        intervals [85]
+            xmin = 50.124
+            xmax = 50.37
+            text = "root"
+        intervals [86]
+            xmin = 50.37
+            xmax = 50.616
+            text = "suffix"
+        intervals [87]
+            xmin = 50.616
+            xmax = 50.862
+            text = "suffix"
+        intervals [88]
+            xmin = 50.862
+            xmax = 51.23
+            text = "root"
+        intervals [89]
+            xmin = 51.23
+            xmax = 51.599
+            text = "suffix"
+        intervals [90]
+            xmin = 51.599
+            xmax = 51.967
+            text = "stem"
+        intervals [91]
+            xmin = 51.967
+            xmax = 52.336
+            text = "suffix"
+        intervals [92]
+            xmin = 52.336
+            xmax = 52.705
+            text = "root"
+        intervals [93]
+            xmin = 52.705
+            xmax = 53.074
+            text = "suffix"
+        intervals [94]
+            xmin = 53.074
+            xmax = 53.38
+            text = ""
+        intervals [95]
+            xmin = 53.38
+            xmax = 54.071
+            text = "stem"
+        intervals [96]
+            xmin = 54.071
+            xmax = 54.417
+            text = "root"
+        intervals [97]
+            xmin = 54.417
+            xmax = 54.763
+            text = "suffix"
+        intervals [98]
+            xmin = 54.763
+            xmax = 55.108
+            text = "prefix"
+        intervals [99]
+            xmin = 55.108
+            xmax = 55.454
+            text = "stem"
+        intervals [100]
+            xmin = 55.454
+            xmax = 56.146
+            text = "root"
+        intervals [101]
+            xmin = 56.146
+            xmax = 56.837
+            text = "stem"
+        intervals [102]
+            xmin = 56.837
+            xmax = 57.529
+            text = "stem"
+        intervals [103]
+            xmin = 57.529
+            xmax = 57.58
+            text = ""
+        intervals [104]
+            xmin = 57.58
+            xmax = 58.5
+            text = "stem"
+        intervals [105]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [106]
+            xmin = 58.59
+            xmax = 59.212
+            text = "stem"
+        intervals [107]
+            xmin = 59.212
+            xmax = 59.835
+            text = "root"
+        intervals [108]
+            xmin = 59.835
+            xmax = 60.146
+            text = "prefix"
+        intervals [109]
+            xmin = 60.146
+            xmax = 60.457
+            text = "suffix"
+        intervals [110]
+            xmin = 60.457
+            xmax = 60.768
+            text = "root"
+        intervals [111]
+            xmin = 60.768
+            xmax = 61.08
+            text = "suffix"
+        intervals [112]
+            xmin = 61.08
+            xmax = 61.703
+            text = "root"
+        intervals [113]
+            xmin = 61.703
+            xmax = 61.74
+            text = ""
+        intervals [114]
+            xmin = 61.74
+            xmax = 62.457
+            text = "stem"
+        intervals [115]
+            xmin = 62.457
+            xmax = 62.696
+            text = "root"
+        intervals [116]
+            xmin = 62.696
+            xmax = 62.935
+            text = "suffix"
+        intervals [117]
+            xmin = 62.935
+            xmax = 63.174
+            text = "suffix"
+        intervals [118]
+            xmin = 63.174
+            xmax = 63.532
+            text = "root"
+        intervals [119]
+            xmin = 63.532
+            xmax = 63.891
+            text = "suffix"
+        intervals [120]
+            xmin = 63.891
+            xmax = 64.249
+            text = "prefix"
+        intervals [121]
+            xmin = 64.249
+            xmax = 64.608
+            text = "stem"
+        intervals [122]
+            xmin = 64.608
+            xmax = 65.325
+            text = "root"
+        intervals [123]
+            xmin = 65.325
+            xmax = 65.39
+            text = ""
+        intervals [124]
+            xmin = 65.39
+            xmax = 65.953
+            text = "root"
+        intervals [125]
+            xmin = 65.953
+            xmax = 66.516
+            text = "suffix"
+        intervals [126]
+            xmin = 66.516
+            xmax = 66.891
+            text = "stem"
+        intervals [127]
+            xmin = 66.891
+            xmax = 67.267
+            text = "suffix"
+        intervals [128]
+            xmin = 67.267
+            xmax = 67.643
+            text = "suffix"
+        intervals [129]
+            xmin = 67.643
+            xmax = 68.769
+            text = "stem"
+        intervals [130]
+            xmin = 68.769
+            xmax = 69.144
+            text = "stem"
+        intervals [131]
+            xmin = 69.144
+            xmax = 69.52
+            text = "suffix"
+        intervals [132]
+            xmin = 69.52
+            xmax = 69.896
+            text = "suffix"
+        intervals [133]
+            xmin = 69.896
+            xmax = 72.378
+            text = ""
+    item[7]:
+        class = "IntervalTier"
+        name = "A_morph-variantTypes-en"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 11
+        intervals [1]
+            xmin = 0.0
+            xmax = 38.746
+            text = ""
+        intervals [2]
+            xmin = 38.746
+            xmax = 39.498
+            text = "+unspec. var. of"
+        intervals [3]
+            xmin = 39.498
+            xmax = 42.581
+            text = ""
+        intervals [4]
+            xmin = 42.581
+            xmax = 42.97
+            text = "+unspec. var. of"
+        intervals [5]
+            xmin = 42.97
+            xmax = 52.336
+            text = ""
+        intervals [6]
+            xmin = 52.336
+            xmax = 52.705
+            text = "+unspec. var. of"
+        intervals [7]
+            xmin = 52.705
+            xmax = 55.454
+            text = ""
+        intervals [8]
+            xmin = 55.454
+            xmax = 56.146
+            text = "+unspec. var. of"
+        intervals [9]
+            xmin = 56.146
+            xmax = 66.891
+            text = ""
+        intervals [10]
+            xmin = 66.891
+            xmax = 67.267
+            text = "+unspec. var. of"
+        intervals [11]
+            xmin = 67.267
+            xmax = 72.378
+            text = ""
+    item[8]:
+        class = "IntervalTier"
+        name = "A_phrase-gls-en"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 35
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 14.423
+            text = "when the north wind and the sun were disputing"
+        intervals [3]
+            xmin = 14.423
+            xmax = 18.42
+            text = ""
+        intervals [4]
+            xmin = 18.42
+            xmax = 19.32
+            text = "who has a lot of strength"
+        intervals [5]
+            xmin = 19.32
+            xmax = 21.48
+            text = ""
+        intervals [6]
+            xmin = 21.48
+            xmax = 22.098
+            text = "a traveller covered in a heavy shawl (skin) then appeared"
+        intervals [7]
+            xmin = 22.098
+            xmax = 26.89
+            text = ""
+        intervals [8]
+            xmin = 26.89
+            xmax = 27.49
+            text = "they said"
+        intervals [9]
+            xmin = 27.49
+            xmax = 28.265
+            text = ""
+        intervals [10]
+            xmin = 28.265
+            xmax = 29.195
+            text = "thus"
+        intervals [11]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [12]
+            xmin = 29.27
+            xmax = 29.84
+            text = "the one who goes ahead"
+        intervals [13]
+            xmin = 29.84
+            xmax = 31.02
+            text = ""
+        intervals [14]
+            xmin = 31.02
+            xmax = 33.866
+            text = "and removes the shawl"
+        intervals [15]
+            xmin = 33.866
+            xmax = 34.0
+            text = ""
+        intervals [16]
+            xmin = 34.0
+            xmax = 36.411
+            text = "of that person will be said to have strength"
+        intervals [17]
+            xmin = 36.411
+            xmax = 36.49
+            text = ""
+        intervals [18]
+            xmin = 36.49
+            xmax = 41.755
+            text = "the north wind then gave a lot of strong wind"
+        intervals [19]
+            xmin = 41.755
+            xmax = 41.804
+            text = ""
+        intervals [20]
+            xmin = 41.804
+            xmax = 43.359
+            text = "but when he blew"
+        intervals [21]
+            xmin = 43.359
+            xmax = 43.48
+            text = ""
+        intervals [22]
+            xmin = 43.48
+            xmax = 48.507
+            text = "a lot that person closed the shawl tightly"
+        intervals [23]
+            xmin = 48.507
+            xmax = 48.65
+            text = ""
+        intervals [24]
+            xmin = 48.65
+            xmax = 53.074
+            text = "then the north wind stopped blowing wind"
+        intervals [25]
+            xmin = 53.074
+            xmax = 53.38
+            text = ""
+        intervals [26]
+            xmin = 53.38
+            xmax = 57.529
+            text = "then the sun shone with heat"
+        intervals [27]
+            xmin = 57.529
+            xmax = 57.58
+            text = ""
+        intervals [28]
+            xmin = 57.58
+            xmax = 58.5
+            text = "then"
+        intervals [29]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [30]
+            xmin = 58.59
+            xmax = 61.703
+            text = "the person removed the shawl"
+        intervals [31]
+            xmin = 61.703
+            xmax = 61.74
+            text = ""
+        intervals [32]
+            xmin = 61.74
+            xmax = 65.325
+            text = "and so the north wind then knew"
+        intervals [33]
+            xmin = 65.325
+            xmax = 65.39
+            text = ""
+        intervals [34]
+            xmin = 65.39
+            xmax = 69.896
+            text = "the sun had the most strength among them"
+        intervals [35]
+            xmin = 69.896
+            xmax = 72.378
+            text = ""
+    item[9]:
+        class = "IntervalTier"
+        name = "A_phrase-segnum-en"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 35
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 14.423
+            text = "1"
+        intervals [3]
+            xmin = 14.423
+            xmax = 18.42
+            text = ""
+        intervals [4]
+            xmin = 18.42
+            xmax = 19.32
+            text = "2"
+        intervals [5]
+            xmin = 19.32
+            xmax = 21.48
+            text = ""
+        intervals [6]
+            xmin = 21.48
+            xmax = 22.098
+            text = "3"
+        intervals [7]
+            xmin = 22.098
+            xmax = 26.89
+            text = ""
+        intervals [8]
+            xmin = 26.89
+            xmax = 27.49
+            text = "4"
+        intervals [9]
+            xmin = 27.49
+            xmax = 28.265
+            text = ""
+        intervals [10]
+            xmin = 28.265
+            xmax = 29.195
+            text = "5"
+        intervals [11]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [12]
+            xmin = 29.27
+            xmax = 29.84
+            text = "6"
+        intervals [13]
+            xmin = 29.84
+            xmax = 31.02
+            text = ""
+        intervals [14]
+            xmin = 31.02
+            xmax = 33.866
+            text = "7"
+        intervals [15]
+            xmin = 33.866
+            xmax = 34.0
+            text = ""
+        intervals [16]
+            xmin = 34.0
+            xmax = 36.411
+            text = "8"
+        intervals [17]
+            xmin = 36.411
+            xmax = 36.49
+            text = ""
+        intervals [18]
+            xmin = 36.49
+            xmax = 41.755
+            text = "9"
+        intervals [19]
+            xmin = 41.755
+            xmax = 41.804
+            text = ""
+        intervals [20]
+            xmin = 41.804
+            xmax = 43.359
+            text = "10"
+        intervals [21]
+            xmin = 43.359
+            xmax = 43.48
+            text = ""
+        intervals [22]
+            xmin = 43.48
+            xmax = 48.507
+            text = "11"
+        intervals [23]
+            xmin = 48.507
+            xmax = 48.65
+            text = ""
+        intervals [24]
+            xmin = 48.65
+            xmax = 53.074
+            text = "12"
+        intervals [25]
+            xmin = 53.074
+            xmax = 53.38
+            text = ""
+        intervals [26]
+            xmin = 53.38
+            xmax = 57.529
+            text = "13"
+        intervals [27]
+            xmin = 57.529
+            xmax = 57.58
+            text = ""
+        intervals [28]
+            xmin = 57.58
+            xmax = 58.5
+            text = "14"
+        intervals [29]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [30]
+            xmin = 58.59
+            xmax = 61.703
+            text = "15"
+        intervals [31]
+            xmin = 61.703
+            xmax = 61.74
+            text = ""
+        intervals [32]
+            xmin = 61.74
+            xmax = 65.325
+            text = "16"
+        intervals [33]
+            xmin = 65.325
+            xmax = 65.39
+            text = ""
+        intervals [34]
+            xmin = 65.39
+            xmax = 69.896
+            text = "17"
+        intervals [35]
+            xmin = 69.896
+            xmax = 72.378
+            text = ""
+    item[10]:
+        class = "IntervalTier"
+        name = "A_word-gls-en"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 87
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 13.778
+            text = "COND.AUX"
+        intervals [3]
+            xmin = 13.778
+            xmax = 13.907
+            text = "wind"
+        intervals [4]
+            xmin = 13.907
+            xmax = 14.036
+            text = "north"
+        intervals [5]
+            xmin = 14.036
+            xmax = 14.165
+            text = "CONJ"
+        intervals [6]
+            xmin = 14.165
+            xmax = 18.42
+            text = ""
+        intervals [7]
+            xmin = 18.42
+            xmax = 18.72
+            text = "who"
+        intervals [8]
+            xmin = 18.72
+            xmax = 19.02
+            text = "strength"
+        intervals [9]
+            xmin = 19.02
+            xmax = 19.32
+            text = "a.lot"
+        intervals [10]
+            xmin = 19.32
+            xmax = 21.557
+            text = ""
+        intervals [11]
+            xmin = 21.557
+            xmax = 21.634
+            text = "PROX.DEM.SG"
+        intervals [12]
+            xmin = 21.634
+            xmax = 21.711
+            text = "COND.AUX"
+        intervals [13]
+            xmin = 21.711
+            xmax = 21.789
+            text = ""
+        intervals [14]
+            xmin = 21.789
+            xmax = 21.866
+            text = ""
+        intervals [15]
+            xmin = 21.866
+            xmax = 21.943
+            text = "heavy"
+        intervals [16]
+            xmin = 21.943
+            xmax = 22.02
+            text = ""
+        intervals [17]
+            xmin = 22.02
+            xmax = 22.098
+            text = ""
+        intervals [18]
+            xmin = 22.098
+            xmax = 26.89
+            text = ""
+        intervals [19]
+            xmin = 26.89
+            xmax = 27.19
+            text = "3.F.Pl.SUBJ.POST"
+        intervals [20]
+            xmin = 27.19
+            xmax = 27.49
+            text = ""
+        intervals [21]
+            xmin = 27.49
+            xmax = 28.265
+            text = ""
+        intervals [22]
+            xmin = 28.265
+            xmax = 29.195
+            text = "thus"
+        intervals [23]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [24]
+            xmin = 29.27
+            xmax = 29.46
+            text = "PROX.DEM.SG"
+        intervals [25]
+            xmin = 29.46
+            xmax = 29.65
+            text = "COND.AUX"
+        intervals [26]
+            xmin = 29.65
+            xmax = 29.84
+            text = "go.ahead"
+        intervals [27]
+            xmin = 29.84
+            xmax = 31.02
+            text = ""
+        intervals [28]
+            xmin = 31.02
+            xmax = 31.589
+            text = "oneself"
+        intervals [29]
+            xmin = 31.589
+            xmax = 32.158
+            text = "leave"
+        intervals [30]
+            xmin = 32.158
+            xmax = 32.727
+            text = "skin"
+        intervals [31]
+            xmin = 32.727
+            xmax = 33.296
+            text = "PROX.DEM.SG"
+        intervals [32]
+            xmin = 33.296
+            xmax = 33.866
+            text = "person"
+        intervals [33]
+            xmin = 33.866
+            xmax = 34.0
+            text = ""
+        intervals [34]
+            xmin = 34.0
+            xmax = 34.803
+            text = "DIST.DEM.SG.M"
+        intervals [35]
+            xmin = 34.803
+            xmax = 35.607
+            text = "say"
+        intervals [36]
+            xmin = 35.607
+            xmax = 36.411
+            text = "strength"
+        intervals [37]
+            xmin = 36.411
+            xmax = 36.49
+            text = ""
+        intervals [38]
+            xmin = 36.49
+            xmax = 37.242
+            text = "wind"
+        intervals [39]
+            xmin = 37.242
+            xmax = 37.994
+            text = "north"
+        intervals [40]
+            xmin = 37.994
+            xmax = 38.746
+            text = "3.F.Pl.SUBJ.POST"
+        intervals [41]
+            xmin = 38.746
+            xmax = 39.498
+            text = "wind"
+        intervals [42]
+            xmin = 39.498
+            xmax = 40.25
+            text = "a.lot"
+        intervals [43]
+            xmin = 40.25
+            xmax = 41.002
+            text = "with.it"
+        intervals [44]
+            xmin = 41.002
+            xmax = 41.755
+            text = "strength"
+        intervals [45]
+            xmin = 41.755
+            xmax = 41.804
+            text = ""
+        intervals [46]
+            xmin = 41.804
+            xmax = 42.581
+            text = "COND.AUX"
+        intervals [47]
+            xmin = 42.581
+            xmax = 43.359
+            text = "wind"
+        intervals [48]
+            xmin = 43.359
+            xmax = 43.48
+            text = ""
+        intervals [49]
+            xmin = 43.48
+            xmax = 44.198
+            text = "a.lot"
+        intervals [50]
+            xmin = 44.198
+            xmax = 44.916
+            text = "DIST.DEM.SG.M"
+        intervals [51]
+            xmin = 44.916
+            xmax = 45.634
+            text = "person"
+        intervals [52]
+            xmin = 45.634
+            xmax = 46.352
+            text = ""
+        intervals [53]
+            xmin = 46.352
+            xmax = 47.07
+            text = "close"
+        intervals [54]
+            xmin = 47.07
+            xmax = 47.788
+            text = "skin"
+        intervals [55]
+            xmin = 47.788
+            xmax = 48.507
+            text = "good"
+        intervals [56]
+            xmin = 48.507
+            xmax = 48.65
+            text = ""
+        intervals [57]
+            xmin = 48.65
+            xmax = 49.387
+            text = "then"
+        intervals [58]
+            xmin = 49.387
+            xmax = 50.124
+            text = "3.F.Pl.SUBJ.POST"
+        intervals [59]
+            xmin = 50.124
+            xmax = 50.862
+            text = "wind"
+        intervals [60]
+            xmin = 50.862
+            xmax = 51.599
+            text = "north"
+        intervals [61]
+            xmin = 51.599
+            xmax = 52.336
+            text = "leave"
+        intervals [62]
+            xmin = 52.336
+            xmax = 53.074
+            text = "wind"
+        intervals [63]
+            xmin = 53.074
+            xmax = 53.38
+            text = ""
+        intervals [64]
+            xmin = 53.38
+            xmax = 54.071
+            text = "then"
+        intervals [65]
+            xmin = 54.071
+            xmax = 54.763
+            text = ""
+        intervals [66]
+            xmin = 54.763
+            xmax = 55.454
+            text = "3.SG.F.SBJ.POST"
+        intervals [67]
+            xmin = 55.454
+            xmax = 56.146
+            text = "shine"
+        intervals [68]
+            xmin = 56.146
+            xmax = 56.837
+            text = "with.it"
+        intervals [69]
+            xmin = 56.837
+            xmax = 57.529
+            text = "hot"
+        intervals [70]
+            xmin = 57.529
+            xmax = 57.58
+            text = ""
+        intervals [71]
+            xmin = 57.58
+            xmax = 58.5
+            text = "then"
+        intervals [72]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [73]
+            xmin = 58.59
+            xmax = 59.212
+            text = "DIST.DEM.SG.M"
+        intervals [74]
+            xmin = 59.212
+            xmax = 59.835
+            text = "person"
+        intervals [75]
+            xmin = 59.835
+            xmax = 61.08
+            text = ""
+        intervals [76]
+            xmin = 61.08
+            xmax = 61.703
+            text = "skin"
+        intervals [77]
+            xmin = 61.703
+            xmax = 61.74
+            text = ""
+        intervals [78]
+            xmin = 61.74
+            xmax = 62.457
+            text = "thus"
+        intervals [79]
+            xmin = 62.457
+            xmax = 63.174
+            text = "wind"
+        intervals [80]
+            xmin = 63.174
+            xmax = 63.891
+            text = "north"
+        intervals [81]
+            xmin = 63.891
+            xmax = 64.608
+            text = "3.F.Pl.SUBJ.POST"
+        intervals [82]
+            xmin = 64.608
+            xmax = 65.325
+            text = ""
+        intervals [83]
+            xmin = 65.325
+            xmax = 66.516
+            text = ""
+        intervals [84]
+            xmin = 66.516
+            xmax = 67.643
+            text = "strength"
+        intervals [85]
+            xmin = 67.643
+            xmax = 68.769
+            text = "a.lot"
+        intervals [86]
+            xmin = 68.769
+            xmax = 69.896
+            text = "middle"
+        intervals [87]
+            xmin = 69.896
+            xmax = 72.378
+            text = ""
+    item[11]:
+        class = "IntervalTier"
+        name = "A_word-pos-en"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 58
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.778
+            text = ""
+        intervals [2]
+            xmin = 13.778
+            xmax = 13.907
+            text = "v"
+        intervals [3]
+            xmin = 13.907
+            xmax = 14.036
+            text = "n"
+        intervals [4]
+            xmin = 14.036
+            xmax = 18.72
+            text = ""
+        intervals [5]
+            xmin = 18.72
+            xmax = 19.02
+            text = "n"
+        intervals [6]
+            xmin = 19.02
+            xmax = 21.557
+            text = ""
+        intervals [7]
+            xmin = 21.557
+            xmax = 21.634
+            text = "v"
+        intervals [8]
+            xmin = 21.634
+            xmax = 21.711
+            text = ""
+        intervals [9]
+            xmin = 21.711
+            xmax = 21.789
+            text = "v"
+        intervals [10]
+            xmin = 21.789
+            xmax = 21.866
+            text = "n"
+        intervals [11]
+            xmin = 21.866
+            xmax = 22.02
+            text = ""
+        intervals [12]
+            xmin = 22.02
+            xmax = 22.098
+            text = "v"
+        intervals [13]
+            xmin = 22.098
+            xmax = 27.19
+            text = ""
+        intervals [14]
+            xmin = 27.19
+            xmax = 27.49
+            text = "v"
+        intervals [15]
+            xmin = 27.49
+            xmax = 29.27
+            text = ""
+        intervals [16]
+            xmin = 29.27
+            xmax = 29.46
+            text = "v"
+        intervals [17]
+            xmin = 29.46
+            xmax = 31.589
+            text = ""
+        intervals [18]
+            xmin = 31.589
+            xmax = 32.158
+            text = "v"
+        intervals [19]
+            xmin = 32.158
+            xmax = 32.727
+            text = "n"
+        intervals [20]
+            xmin = 32.727
+            xmax = 33.296
+            text = "v"
+        intervals [21]
+            xmin = 33.296
+            xmax = 33.866
+            text = "n"
+        intervals [22]
+            xmin = 33.866
+            xmax = 34.803
+            text = ""
+        intervals [23]
+            xmin = 34.803
+            xmax = 35.607
+            text = "v"
+        intervals [24]
+            xmin = 35.607
+            xmax = 36.411
+            text = "n"
+        intervals [25]
+            xmin = 36.411
+            xmax = 36.49
+            text = ""
+        intervals [26]
+            xmin = 36.49
+            xmax = 37.242
+            text = "v"
+        intervals [27]
+            xmin = 37.242
+            xmax = 37.994
+            text = "n"
+        intervals [28]
+            xmin = 37.994
+            xmax = 38.746
+            text = ""
+        intervals [29]
+            xmin = 38.746
+            xmax = 39.498
+            text = "n"
+        intervals [30]
+            xmin = 39.498
+            xmax = 41.002
+            text = ""
+        intervals [31]
+            xmin = 41.002
+            xmax = 41.755
+            text = "n"
+        intervals [32]
+            xmin = 41.755
+            xmax = 42.581
+            text = ""
+        intervals [33]
+            xmin = 42.581
+            xmax = 43.359
+            text = "n"
+        intervals [34]
+            xmin = 43.359
+            xmax = 44.916
+            text = ""
+        intervals [35]
+            xmin = 44.916
+            xmax = 45.634
+            text = "n"
+        intervals [36]
+            xmin = 45.634
+            xmax = 46.352
+            text = ""
+        intervals [37]
+            xmin = 46.352
+            xmax = 47.07
+            text = "v"
+        intervals [38]
+            xmin = 47.07
+            xmax = 47.788
+            text = "n"
+        intervals [39]
+            xmin = 47.788
+            xmax = 48.507
+            text = "adv"
+        intervals [40]
+            xmin = 48.507
+            xmax = 50.124
+            text = ""
+        intervals [41]
+            xmin = 50.124
+            xmax = 50.862
+            text = "v"
+        intervals [42]
+            xmin = 50.862
+            xmax = 51.599
+            text = "n"
+        intervals [43]
+            xmin = 51.599
+            xmax = 52.336
+            text = "v"
+        intervals [44]
+            xmin = 52.336
+            xmax = 53.074
+            text = "n"
+        intervals [45]
+            xmin = 53.074
+            xmax = 55.454
+            text = ""
+        intervals [46]
+            xmin = 55.454
+            xmax = 56.146
+            text = "v"
+        intervals [47]
+            xmin = 56.146
+            xmax = 59.212
+            text = ""
+        intervals [48]
+            xmin = 59.212
+            xmax = 59.835
+            text = "n"
+        intervals [49]
+            xmin = 59.835
+            xmax = 61.08
+            text = ""
+        intervals [50]
+            xmin = 61.08
+            xmax = 61.703
+            text = "n"
+        intervals [51]
+            xmin = 61.703
+            xmax = 62.457
+            text = ""
+        intervals [52]
+            xmin = 62.457
+            xmax = 63.174
+            text = "v"
+        intervals [53]
+            xmin = 63.174
+            xmax = 63.891
+            text = "n"
+        intervals [54]
+            xmin = 63.891
+            xmax = 64.608
+            text = ""
+        intervals [55]
+            xmin = 64.608
+            xmax = 65.325
+            text = "v"
+        intervals [56]
+            xmin = 65.325
+            xmax = 66.516
+            text = ""
+        intervals [57]
+            xmin = 66.516
+            xmax = 67.643
+            text = "n"
+        intervals [58]
+            xmin = 67.643
+            xmax = 72.378
+            text = ""
+    item[12]:
+        class = "IntervalTier"
+        name = "A_word-txt-hts"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 92
+        intervals [1]
+            xmin = 0.0
+            xmax = 13.65
+            text = ""
+        intervals [2]
+            xmin = 13.65
+            xmax = 13.778
+            text = "kwami"
+        intervals [3]
+            xmin = 13.778
+            xmax = 13.907
+            text = "zzutchibisa"
+        intervals [4]
+            xmin = 13.907
+            xmax = 14.036
+            text = "sanzako"
+        intervals [5]
+            xmin = 14.036
+            xmax = 14.165
+            text = "a"
+        intervals [6]
+            xmin = 14.165
+            xmax = 14.294
+            text = "ishoko"
+        intervals [7]
+            xmin = 14.294
+            xmax = 14.423
+            text = "guguruwakee"
+        intervals [8]
+            xmin = 14.423
+            xmax = 18.42
+            text = ""
+        intervals [9]
+            xmin = 18.42
+            xmax = 18.72
+            text = "akwazaha"
+        intervals [10]
+            xmin = 18.72
+            xmax = 19.02
+            text = "urubite"
+        intervals [11]
+            xmin = 19.02
+            xmax = 19.32
+            text = "paana"
+        intervals [12]
+            xmin = 19.32
+            xmax = 21.48
+            text = ""
+        intervals [13]
+            xmin = 21.48
+            xmax = 21.557
+            text = "iitlhikwa"
+        intervals [14]
+            xmin = 21.557
+            xmax = 21.634
+            text = "hama"
+        intervals [15]
+            xmin = 21.634
+            xmax = 21.711
+            text = "kwamo"
+        intervals [16]
+            xmin = 21.711
+            xmax = 21.789
+            text = "sluba"
+        intervals [17]
+            xmin = 21.789
+            xmax = 21.866
+            text = "dloa"
+        intervals [18]
+            xmin = 21.866
+            xmax = 21.943
+            text = "ncaphane"
+        intervals [19]
+            xmin = 21.943
+            xmax = 22.02
+            text = "kamo"
+        intervals [20]
+            xmin = 22.02
+            xmax = 22.098
+            text = "quyu"
+        intervals [21]
+            xmin = 22.098
+            xmax = 26.89
+            text = ""
+        intervals [22]
+            xmin = 26.89
+            xmax = 27.19
+            text = "kitcha"
+        intervals [23]
+            xmin = 27.19
+            xmax = 27.49
+            text = "dlozo"
+        intervals [24]
+            xmin = 27.49
+            xmax = 28.265
+            text = ""
+        intervals [25]
+            xmin = 28.265
+            xmax = 29.195
+            text = "hishina"
+        intervals [26]
+            xmin = 29.195
+            xmax = 29.27
+            text = ""
+        intervals [27]
+            xmin = 29.27
+            xmax = 29.46
+            text = "hama"
+        intervals [28]
+            xmin = 29.46
+            xmax = 29.65
+            text = "kweso"
+        intervals [29]
+            xmin = 29.65
+            xmax = 29.84
+            text = "gumia"
+        intervals [30]
+            xmin = 29.84
+            xmax = 31.02
+            text = ""
+        intervals [31]
+            xmin = 31.02
+            xmax = 31.589
+            text = "so"
+        intervals [32]
+            xmin = 31.589
+            xmax = 32.158
+            text = "hiqqema"
+        intervals [33]
+            xmin = 32.158
+            xmax = 32.727
+            text = "dloa"
+        intervals [34]
+            xmin = 32.727
+            xmax = 33.296
+            text = "hama"
+        intervals [35]
+            xmin = 33.296
+            xmax = 33.866
+            text = "unu"
+        intervals [36]
+            xmin = 33.866
+            xmax = 34.0
+            text = ""
+        intervals [37]
+            xmin = 34.0
+            xmax = 34.803
+            text = "bami"
+        intervals [38]
+            xmin = 34.803
+            xmax = 35.607
+            text = "eheya"
+        intervals [39]
+            xmin = 35.607
+            xmax = 36.411
+            text = "urubite"
+        intervals [40]
+            xmin = 36.411
+            xmax = 36.49
+            text = ""
+        intervals [41]
+            xmin = 36.49
+            xmax = 37.242
+            text = "zzutchibisa"
+        intervals [42]
+            xmin = 37.242
+            xmax = 37.994
+            text = "sanzako"
+        intervals [43]
+            xmin = 37.994
+            xmax = 38.746
+            text = "kitcha"
+        intervals [44]
+            xmin = 38.746
+            xmax = 39.498
+            text = "phoya"
+        intervals [45]
+            xmin = 39.498
+            xmax = 40.25
+            text = "paana"
+        intervals [46]
+            xmin = 40.25
+            xmax = 41.002
+            text = "nena"
+        intervals [47]
+            xmin = 41.002
+            xmax = 41.755
+            text = "urubee"
+        intervals [48]
+            xmin = 41.755
+            xmax = 41.804
+            text = ""
+        intervals [49]
+            xmin = 41.804
+            xmax = 42.581
+            text = "kwami"
+        intervals [50]
+            xmin = 42.581
+            xmax = 43.359
+            text = "phoyeehe"
+        intervals [51]
+            xmin = 43.359
+            xmax = 43.48
+            text = ""
+        intervals [52]
+            xmin = 43.48
+            xmax = 44.198
+            text = "paana"
+        intervals [53]
+            xmin = 44.198
+            xmax = 44.916
+            text = "bami"
+        intervals [54]
+            xmin = 44.916
+            xmax = 45.634
+            text = "unu"
+        intervals [55]
+            xmin = 45.634
+            xmax = 46.352
+            text = "kamo"
+        intervals [56]
+            xmin = 46.352
+            xmax = 47.07
+            text = "thaana"
+        intervals [57]
+            xmin = 47.07
+            xmax = 47.788
+            text = "dloa"
+        intervals [58]
+            xmin = 47.788
+            xmax = 48.507
+            text = "mtana"
+        intervals [59]
+            xmin = 48.507
+            xmax = 48.65
+            text = ""
+        intervals [60]
+            xmin = 48.65
+            xmax = 49.387
+            text = "beena"
+        intervals [61]
+            xmin = 49.387
+            xmax = 50.124
+            text = "kitcha"
+        intervals [62]
+            xmin = 50.124
+            xmax = 50.862
+            text = "zzutchibisa"
+        intervals [63]
+            xmin = 50.862
+            xmax = 51.599
+            text = "sanzako"
+        intervals [64]
+            xmin = 51.599
+            xmax = 52.336
+            text = "thaya"
+        intervals [65]
+            xmin = 52.336
+            xmax = 53.074
+            text = "phoyatcha"
+        intervals [66]
+            xmin = 53.074
+            xmax = 53.38
+            text = ""
+        intervals [67]
+            xmin = 53.38
+            xmax = 54.071
+            text = "atonena"
+        intervals [68]
+            xmin = 54.071
+            xmax = 54.763
+            text = "ishoko"
+        intervals [69]
+            xmin = 54.763
+            xmax = 55.454
+            text = "kota"
+        intervals [70]
+            xmin = 55.454
+            xmax = 56.146
+            text = "bexxe"
+        intervals [71]
+            xmin = 56.146
+            xmax = 56.837
+            text = "nena"
+        intervals [72]
+            xmin = 56.837
+            xmax = 57.529
+            text = "petenê"
+        intervals [73]
+            xmin = 57.529
+            xmax = 57.58
+            text = ""
+        intervals [74]
+            xmin = 57.58
+            xmax = 58.5
+            text = "beena"
+        intervals [75]
+            xmin = 58.5
+            xmax = 58.59
+            text = ""
+        intervals [76]
+            xmin = 58.59
+            xmax = 59.212
+            text = "bami"
+        intervals [77]
+            xmin = 59.212
+            xmax = 59.835
+            text = "unu"
+        intervals [78]
+            xmin = 59.835
+            xmax = 60.457
+            text = "kamo"
+        intervals [79]
+            xmin = 60.457
+            xmax = 61.08
+            text = "zzuana"
+        intervals [80]
+            xmin = 61.08
+            xmax = 61.703
+            text = "dloa"
+        intervals [81]
+            xmin = 61.703
+            xmax = 61.74
+            text = ""
+        intervals [82]
+            xmin = 61.74
+            xmax = 62.457
+            text = "hishina"
+        intervals [83]
+            xmin = 62.457
+            xmax = 63.174
+            text = "zzutchibisa"
+        intervals [84]
+            xmin = 63.174
+            xmax = 63.891
+            text = "sanzako"
+        intervals [85]
+            xmin = 63.891
+            xmax = 64.608
+            text = "kitcha"
+        intervals [86]
+            xmin = 64.608
+            xmax = 65.325
+            text = "tethao"
+        intervals [87]
+            xmin = 65.325
+            xmax = 65.39
+            text = ""
+        intervals [88]
+            xmin = 65.39
+            xmax = 66.516
+            text = "ishoko"
+        intervals [89]
+            xmin = 66.516
+            xmax = 67.643
+            text = "urubitieakwa"
+        intervals [90]
+            xmin = 67.643
+            xmax = 68.769
+            text = "paana"
+        intervals [91]
+            xmin = 68.769
+            xmax = 69.896
+            text = "xhaanayeta"
+        intervals [92]
+            xmin = 69.896
+            xmax = 72.378
+            text = ""
+    item[13]:
+        class = "IntervalTier"
+        name = "interlinear-text-comment-en"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 2
+        intervals [1]
+            xmin = 0.0
+            xmax = 66.582
+            text = "North Wind and the Sun story"
+        intervals [2]
+            xmin = 66.582
+            xmax = 72.378
+            text = ""
+    item[14]:
+        class = "IntervalTier"
+        name = "interlinear-text-title-en"
+        xmin = 0.0
+        xmax = 72.378
+        intervals: size = 2
+        intervals [1]
+            xmin = 0.0
+            xmax = 66.582
+            text = "20200306"
+        intervals [2]
+            xmin = 66.582
+            xmax = 72.378
+            text = ""

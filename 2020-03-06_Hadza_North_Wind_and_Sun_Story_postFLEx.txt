@@ -1,0 +1,148 @@
+Begin Time - hh:mm:ss.ms	End Time - hh:mm:ss.ms	A_morph-cf-hts	A_morph-gls-en	A_morph-hn-hts	A_morph-msa-en	A_morph-txt-hts	A_morph-type	A_morph-variantTypes-en	A_phrase-gls-en	A_phrase-segnum-en	A_word-gls-en	A_word-pos-en	A_word-txt-hts	interlinear-text-comment-en	interlinear-text-title-en	
+00:00:13.650	00:00:13.778								when the north wind and the sun were disputing	1	COND.AUX		kwami	North Wind and the Sun story	20200306
+00:00:13.650	00:00:13.714	kwa	COND.AUX		<Not Sure>	kw	stem		when the north wind and the sun were disputing	1	COND.AUX		kwami	North Wind and the Sun story	20200306
+00:00:13.714	00:00:13.778	-ami	3.M.PL.SBJ.POST		Attaches to any category	-ami	suffix		when the north wind and the sun were disputing	1	COND.AUX		kwami	North Wind and the Sun story	20200306
+00:00:13.778	00:00:13.907								when the north wind and the sun were disputing	1	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:13.778	00:00:13.821	zzutchi	wind		n	zzutchi	root		when the north wind and the sun were disputing	1	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:13.821	00:00:13.864	-bii	M.PL		Noun	-bi	suffix		when the north wind and the sun were disputing	1	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:13.864	00:00:13.907	-sa	3.F.SG.POSS	1	Attaches to any category	-sa	suffix		when the north wind and the sun were disputing	1	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:13.907	00:00:14.036								when the north wind and the sun were disputing	1	north	n	sanzako	North Wind and the Sun story	20200306
+00:00:13.907	00:00:13.971	sanza	north		n	sanza	root		when the north wind and the sun were disputing	1	north	n	sanzako	North Wind and the Sun story	20200306
+00:00:13.971	00:00:14.036	-ko	F.SG		Noun	-ko	suffix		when the north wind and the sun were disputing	1	north	n	sanzako	North Wind and the Sun story	20200306
+00:00:14.036	00:00:14.165	a	CONJ		<Not Sure>	a	root		when the north wind and the sun were disputing	1	CONJ		a	North Wind and the Sun story	20200306
+00:00:14.165	00:00:14.229	isho	sun		n	isho	root		when the north wind and the sun were disputing	1			ishoko	North Wind and the Sun story	20200306
+00:00:14.229	00:00:14.294	-ko	F.SG		Noun	-ko	suffix		when the north wind and the sun were disputing	1			ishoko	North Wind and the Sun story	20200306
+00:00:14.294	00:00:14.423								when the north wind and the sun were disputing	1			guguruwakee	North Wind and the Sun story	20200306
+00:00:18.420	00:00:18.720								who has a lot of strength	2	who		akwazaha	North Wind and the Sun story	20200306
+00:00:18.420	00:00:18.570	akwaza	who		<Not Sure>	akwaza	stem		who has a lot of strength	2	who		akwazaha	North Wind and the Sun story	20200306
+00:00:18.570	00:00:18.720	-ha	Cop		Attaches to any category	-ha	suffix		who has a lot of strength	2	who		akwazaha	North Wind and the Sun story	20200306
+00:00:18.720	00:00:19.020								who has a lot of strength	2	strength	n	urubite	North Wind and the Sun story	20200306
+00:00:18.720	00:00:18.870	uru	strength		n	uru	stem		who has a lot of strength	2	strength	n	urubite	North Wind and the Sun story	20200306
+00:00:18.870	00:00:19.020	-bite	F.Pl.Assoc		Attaches to any category	-bite	suffix		who has a lot of strength	2	strength	n	urubite	North Wind and the Sun story	20200306
+00:00:19.020	00:00:19.320	paana	a.lot		<Not Sure>	paana	stem		who has a lot of strength	2	a.lot		paana	North Wind and the Sun story	20200306
+00:00:21.480	00:00:21.518	i-	NMLZ		Attaches to any category	i-	prefix		a traveller covered in a heavy shawl (skin) then appeared	3			iitlhikwa	North Wind and the Sun story	20200306
+00:00:21.518	00:00:21.557	itlhikwa	walk		v	itlhikwa	root		a traveller covered in a heavy shawl (skin) then appeared	3			iitlhikwa	North Wind and the Sun story	20200306
+00:00:21.557	00:00:21.634	hama	PROX.DEM.SG	2	<Not Sure>	hama	stem		a traveller covered in a heavy shawl (skin) then appeared	3	PROX.DEM.SG	v	hama	North Wind and the Sun story	20200306
+00:00:21.634	00:00:21.711								a traveller covered in a heavy shawl (skin) then appeared	3	COND.AUX		kwamo	North Wind and the Sun story	20200306
+00:00:21.634	00:00:21.672	kwa	COND.AUX		<Not Sure>	kw	stem		a traveller covered in a heavy shawl (skin) then appeared	3	COND.AUX		kwamo	North Wind and the Sun story	20200306
+00:00:21.672	00:00:21.711	-amo	3.SG.M.SBJ.POST		Attaches to any category	-amo	suffix		a traveller covered in a heavy shawl (skin) then appeared	3	COND.AUX		kwamo	North Wind and the Sun story	20200306
+00:00:21.711	00:00:21.789	sluba	cover		v	sluba	root		a traveller covered in a heavy shawl (skin) then appeared	3		v	sluba	North Wind and the Sun story	20200306
+00:00:21.789	00:00:21.866	dloa	cloth		n	dloa	root		a traveller covered in a heavy shawl (skin) then appeared	3		n	dloa	North Wind and the Sun story	20200306
+00:00:21.866	00:00:21.943	ncaphane	heavy		<Not Sure>	ncaphane	stem		a traveller covered in a heavy shawl (skin) then appeared	3	heavy		ncaphane	North Wind and the Sun story	20200306
+00:00:21.943	00:00:21.981	ka-	SEQ		Attaches to any category	ka-	prefix		a traveller covered in a heavy shawl (skin) then appeared	3			kamo	North Wind and the Sun story	20200306
+00:00:21.981	00:00:22.020	-amo	3.SG.M.SBJ.POST		Attaches to any category	-amo	suffix		a traveller covered in a heavy shawl (skin) then appeared	3			kamo	North Wind and the Sun story	20200306
+00:00:22.020	00:00:22.098	quyu	come.out		v	quyu	root		a traveller covered in a heavy shawl (skin) then appeared	3		v	quyu	North Wind and the Sun story	20200306
+00:00:26.890	00:00:27.190								they said	4	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:00:26.890	00:00:27.040	ka-	SEQ		Attaches to any category	ka-	prefix		they said	4	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:00:27.040	00:00:27.190	itcha	3.F.Pl.SUBJ.POST		<Not Sure>	itcha	stem		they said	4	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:00:27.190	00:00:27.490	dlozo	say		v	dlozo	root		they said	4		v	dlozo	North Wind and the Sun story	20200306
+00:00:28.265	00:00:29.195	hishina	thus		<Not Sure>	hishina	stem		thus	5	thus		hishina	North Wind and the Sun story	20200306
+00:00:29.270	00:00:29.460	hama	PROX.DEM.SG	2	<Not Sure>	hama	stem		the one who goes ahead	6	PROX.DEM.SG	v	hama	North Wind and the Sun story	20200306
+00:00:29.460	00:00:29.650								the one who goes ahead	6	COND.AUX		kweso	North Wind and the Sun story	20200306
+00:00:29.460	00:00:29.555	kwa	COND.AUX		<Not Sure>	kwa	stem		the one who goes ahead	6	COND.AUX		kweso	North Wind and the Sun story	20200306
+00:00:29.555	00:00:29.650	-eso	3.M.Sg.SUBJ.POST		Attaches to any category	-eso	suffix		the one who goes ahead	6	COND.AUX		kweso	North Wind and the Sun story	20200306
+00:00:29.650	00:00:29.840	gumia	go.ahead		<Not Sure>	gumia	stem		the one who goes ahead	6	go.ahead		gumia	North Wind and the Sun story	20200306
+00:00:31.020	00:00:31.589	so	oneself		<Not Sure>	so	stem		and removes the shawl	7	oneself		so	North Wind and the Sun story	20200306
+00:00:31.589	00:00:32.158								and removes the shawl	7	leave	v	hiqqema	North Wind and the Sun story	20200306
+00:00:31.589	00:00:31.873	hiqqe	leave		v	hiqqe	root		and removes the shawl	7	leave	v	hiqqema	North Wind and the Sun story	20200306
+00:00:31.873	00:00:32.158	-ma	APPL		Attaches to any category	-ma	suffix		and removes the shawl	7	leave	v	hiqqema	North Wind and the Sun story	20200306
+00:00:32.158	00:00:32.727	dloa	cloth		n	dloa	root		and removes the shawl	7	skin	n	dloa	North Wind and the Sun story	20200306
+00:00:32.727	00:00:33.296	hama	PROX.DEM.SG	2	<Not Sure>	hama	stem		and removes the shawl	7	PROX.DEM.SG	v	hama	North Wind and the Sun story	20200306
+00:00:33.296	00:00:33.866	unu	person		n	unu	root		and removes the shawl	7	person	n	unu	North Wind and the Sun story	20200306
+00:00:34.000	00:00:34.803	bami	DIST.DEM.SG.M		<Not Sure>	bami	stem		of that person will be said to have strength	8	DIST.DEM.SG.M		bami	North Wind and the Sun story	20200306
+00:00:34.803	00:00:35.607								of that person will be said to have strength	8	say	v	eheya	North Wind and the Sun story	20200306
+00:00:34.803	00:00:35.205	ehe	say		v	ehe	stem		of that person will be said to have strength	8	say	v	eheya	North Wind and the Sun story	20200306
+00:00:35.205	00:00:35.607	-ya	PASS		Verb	-ya	suffix		of that person will be said to have strength	8	say	v	eheya	North Wind and the Sun story	20200306
+00:00:35.607	00:00:36.411								of that person will be said to have strength	8	strength	n	urubite	North Wind and the Sun story	20200306
+00:00:35.607	00:00:36.009	uru	strength		n	uru	stem		of that person will be said to have strength	8	strength	n	urubite	North Wind and the Sun story	20200306
+00:00:36.009	00:00:36.411	-bite	F.Pl.Assoc		Attaches to any category	-bite	suffix		of that person will be said to have strength	8	strength	n	urubite	North Wind and the Sun story	20200306
+00:00:36.490	00:00:37.242								the north wind then gave a lot of strong wind	9	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:36.490	00:00:36.740	zzutchi	wind		n	zzutchi	root		the north wind then gave a lot of strong wind	9	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:36.740	00:00:36.991	-bii	M.PL		Noun	-bi	suffix		the north wind then gave a lot of strong wind	9	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:36.991	00:00:37.242	-sa	3.F.SG.POSS	1	Attaches to any category	-sa	suffix		the north wind then gave a lot of strong wind	9	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:37.242	00:00:37.994								the north wind then gave a lot of strong wind	9	north	n	sanzako	North Wind and the Sun story	20200306
+00:00:37.242	00:00:37.618	sanza	north		n	sanza	root		the north wind then gave a lot of strong wind	9	north	n	sanzako	North Wind and the Sun story	20200306
+00:00:37.618	00:00:37.994	-ko	F.SG		Noun	-ko	suffix		the north wind then gave a lot of strong wind	9	north	n	sanzako	North Wind and the Sun story	20200306
+00:00:37.994	00:00:38.746								the north wind then gave a lot of strong wind	9	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:00:37.994	00:00:38.370	ka-	SEQ		Attaches to any category	ka-	prefix		the north wind then gave a lot of strong wind	9	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:00:38.370	00:00:38.746	itcha	3.F.Pl.SUBJ.POST		<Not Sure>	itcha	stem		the north wind then gave a lot of strong wind	9	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:00:38.746	00:00:39.498	phoyâ	wind		n	phoya	root	+unspec. var. of	the north wind then gave a lot of strong wind	9	wind	n	phoya	North Wind and the Sun story	20200306
+00:00:39.498	00:00:40.250	paana	a.lot		<Not Sure>	paana	stem		the north wind then gave a lot of strong wind	9	a.lot		paana	North Wind and the Sun story	20200306
+00:00:40.250	00:00:41.002	nena	with.it		<Not Sure>	nena	stem		the north wind then gave a lot of strong wind	9	with.it		nena	North Wind and the Sun story	20200306
+00:00:41.002	00:00:41.755								the north wind then gave a lot of strong wind	9	strength	n	urubee	North Wind and the Sun story	20200306
+00:00:41.002	00:00:41.378	uru	strength		n	uru	stem		the north wind then gave a lot of strong wind	9	strength	n	urubee	North Wind and the Sun story	20200306
+00:00:41.378	00:00:41.755		M.PL		Noun	bee			the north wind then gave a lot of strong wind	9	strength	n	urubee	North Wind and the Sun story	20200306
+00:00:41.804	00:00:42.581								but when he blew	10	COND.AUX		kwami	North Wind and the Sun story	20200306
+00:00:41.804	00:00:42.192	kwa	COND.AUX		<Not Sure>	kw	stem		but when he blew	10	COND.AUX		kwami	North Wind and the Sun story	20200306
+00:00:42.192	00:00:42.581	-ami	3.M.PL.SBJ.POST		Attaches to any category	-ami	suffix		but when he blew	10	COND.AUX		kwami	North Wind and the Sun story	20200306
+00:00:42.581	00:00:43.359								but when he blew	10	wind	n	phoyeehe	North Wind and the Sun story	20200306
+00:00:42.581	00:00:42.970	phoyâ	wind		n	phoya	root	+unspec. var. of	but when he blew	10	wind	n	phoyeehe	North Wind and the Sun story	20200306
+00:00:42.970	00:00:43.359	-ehe	COP		Attaches to any category	-ehe	suffix		but when he blew	10	wind	n	phoyeehe	North Wind and the Sun story	20200306
+00:00:43.480	00:00:44.198	paana	a.lot		<Not Sure>	paana	stem		a lot that person closed the shawl tightly	11	a.lot		paana	North Wind and the Sun story	20200306
+00:00:44.198	00:00:44.916	bami	DIST.DEM.SG.M		<Not Sure>	bami	stem		a lot that person closed the shawl tightly	11	DIST.DEM.SG.M		bami	North Wind and the Sun story	20200306
+00:00:44.916	00:00:45.634	unu	person		n	unu	root		a lot that person closed the shawl tightly	11	person	n	unu	North Wind and the Sun story	20200306
+00:00:45.634	00:00:45.993	ka-	SEQ		Attaches to any category	ka-	prefix		a lot that person closed the shawl tightly	11			kamo	North Wind and the Sun story	20200306
+00:00:45.993	00:00:46.352	-amo	3.SG.M.SBJ.POST		Attaches to any category	-amo	suffix		a lot that person closed the shawl tightly	11			kamo	North Wind and the Sun story	20200306
+00:00:46.352	00:00:47.070								a lot that person closed the shawl tightly	11	close	v	thaana	North Wind and the Sun story	20200306
+00:00:46.352	00:00:46.711	thaa	close	1	v	thaa	root		a lot that person closed the shawl tightly	11	close	v	thaana	North Wind and the Sun story	20200306
+00:00:46.711	00:00:47.070	-na	3.M.SG.OBJ	1	Attaches to any category	-na	suffix		a lot that person closed the shawl tightly	11	close	v	thaana	North Wind and the Sun story	20200306
+00:00:47.070	00:00:47.788	dloa	cloth		n	dloa	root		a lot that person closed the shawl tightly	11	skin	n	dloa	North Wind and the Sun story	20200306
+00:00:47.788	00:00:48.507	mtana	good		adv	mtana	stem		a lot that person closed the shawl tightly	11	good	adv	mtana	North Wind and the Sun story	20200306
+00:00:48.650	00:00:49.387	beena	then		<Not Sure>	beena	stem		then the north wind stopped blowing wind	12	then		beena	North Wind and the Sun story	20200306
+00:00:49.387	00:00:50.124								then the north wind stopped blowing wind	12	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:00:49.387	00:00:49.755	ka-	SEQ		Attaches to any category	ka-	prefix		then the north wind stopped blowing wind	12	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:00:49.755	00:00:50.124	itcha	3.F.Pl.SUBJ.POST		<Not Sure>	itcha	stem		then the north wind stopped blowing wind	12	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:00:50.124	00:00:50.862								then the north wind stopped blowing wind	12	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:50.124	00:00:50.370	zzutchi	wind		n	zzutchi	root		then the north wind stopped blowing wind	12	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:50.370	00:00:50.616	-bii	M.PL		Noun	-bi	suffix		then the north wind stopped blowing wind	12	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:50.616	00:00:50.862	-sa	3.F.SG.POSS	1	Attaches to any category	-sa	suffix		then the north wind stopped blowing wind	12	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:00:50.862	00:00:51.599								then the north wind stopped blowing wind	12	north	n	sanzako	North Wind and the Sun story	20200306
+00:00:50.862	00:00:51.230	sanza	north		n	sanza	root		then the north wind stopped blowing wind	12	north	n	sanzako	North Wind and the Sun story	20200306
+00:00:51.230	00:00:51.599	-ko	F.SG		Noun	-ko	suffix		then the north wind stopped blowing wind	12	north	n	sanzako	North Wind and the Sun story	20200306
+00:00:51.599	00:00:52.336								then the north wind stopped blowing wind	12	leave	v	thaya	North Wind and the Sun story	20200306
+00:00:51.599	00:00:51.967	tha	leave		v	tha	stem		then the north wind stopped blowing wind	12	leave	v	thaya	North Wind and the Sun story	20200306
+00:00:51.967	00:00:52.336	-ya	PASS		Verb	-ya	suffix		then the north wind stopped blowing wind	12	leave	v	thaya	North Wind and the Sun story	20200306
+00:00:52.336	00:00:53.074								then the north wind stopped blowing wind	12	wind	n	phoyatcha	North Wind and the Sun story	20200306
+00:00:52.336	00:00:52.705	phoyâ	wind		n	phoya	root	+unspec. var. of	then the north wind stopped blowing wind	12	wind	n	phoyatcha	North Wind and the Sun story	20200306
+00:00:52.705	00:00:53.074	-tcha	3.PL.F.POSS	1	Attaches to any category	-tcha	suffix		then the north wind stopped blowing wind	12	wind	n	phoyatcha	North Wind and the Sun story	20200306
+00:00:53.380	00:00:54.071	atonena	then		<Not Sure>	atonena	stem		then the sun shone with heat	13	then		atonena	North Wind and the Sun story	20200306
+00:00:54.071	00:00:54.417	isho	sun		n	isho	root		then the sun shone with heat	13			ishoko	North Wind and the Sun story	20200306
+00:00:54.417	00:00:54.763	-ko	F.SG		Noun	-ko	suffix		then the sun shone with heat	13			ishoko	North Wind and the Sun story	20200306
+00:00:54.763	00:00:55.454								then the sun shone with heat	13	3.SG.F.SBJ.POST		kota	North Wind and the Sun story	20200306
+00:00:54.763	00:00:55.108	ka-	SEQ		Attaches to any category	ka-	prefix		then the sun shone with heat	13	3.SG.F.SBJ.POST		kota	North Wind and the Sun story	20200306
+00:00:55.108	00:00:55.454	ota	3.SG.F.SBJ.POST		<Not Sure>	ota	stem		then the sun shone with heat	13	3.SG.F.SBJ.POST		kota	North Wind and the Sun story	20200306
+00:00:55.454	00:00:56.146	bexxê	shine		v	bexxe	root	+unspec. var. of	then the sun shone with heat	13	shine	v	bexxe	North Wind and the Sun story	20200306
+00:00:56.146	00:00:56.837	nena	with.it		<Not Sure>	nena	stem		then the sun shone with heat	13	with.it		nena	North Wind and the Sun story	20200306
+00:00:56.837	00:00:57.529	petenê	hot		<Not Sure>	petenê	stem		then the sun shone with heat	13	hot		petenê	North Wind and the Sun story	20200306
+00:00:57.580	00:00:58.500	beena	then		<Not Sure>	beena	stem		then	14	then		beena	North Wind and the Sun story	20200306
+00:00:58.590	00:00:59.212	bami	DIST.DEM.SG.M		<Not Sure>	bami	stem		the person removed the shawl	15	DIST.DEM.SG.M		bami	North Wind and the Sun story	20200306
+00:00:59.212	00:00:59.835	unu	person		n	unu	root		the person removed the shawl	15	person	n	unu	North Wind and the Sun story	20200306
+00:00:59.835	00:01:00.146	ka-	SEQ		Attaches to any category	ka-	prefix		the person removed the shawl	15			kamo	North Wind and the Sun story	20200306
+00:01:00.146	00:01:00.457	-amo	3.SG.M.SBJ.POST		Attaches to any category	-amo	suffix		the person removed the shawl	15			kamo	North Wind and the Sun story	20200306
+00:01:00.457	00:01:00.768	zzua	remove		v	zzua	root		the person removed the shawl	15			zzuana	North Wind and the Sun story	20200306
+00:01:00.768	00:01:01.080	-na	3.M.SG.OBJ	1	Attaches to any category	-na	suffix		the person removed the shawl	15			zzuana	North Wind and the Sun story	20200306
+00:01:01.080	00:01:01.703	dloa	cloth		n	dloa	root		the person removed the shawl	15	skin	n	dloa	North Wind and the Sun story	20200306
+00:01:01.740	00:01:02.457	hishina	thus		<Not Sure>	hishina	stem		and so the north wind then knew	16	thus		hishina	North Wind and the Sun story	20200306
+00:01:02.457	00:01:03.174								and so the north wind then knew	16	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:01:02.457	00:01:02.696	zzutchi	wind		n	zzutchi	root		and so the north wind then knew	16	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:01:02.696	00:01:02.935	-bii	M.PL		Noun	-bi	suffix		and so the north wind then knew	16	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:01:02.935	00:01:03.174	-sa	3.F.SG.POSS	1	Attaches to any category	-sa	suffix		and so the north wind then knew	16	wind	v	zzutchibisa	North Wind and the Sun story	20200306
+00:01:03.174	00:01:03.891								and so the north wind then knew	16	north	n	sanzako	North Wind and the Sun story	20200306
+00:01:03.174	00:01:03.532	sanza	north		n	sanza	root		and so the north wind then knew	16	north	n	sanzako	North Wind and the Sun story	20200306
+00:01:03.532	00:01:03.891	-ko	F.SG		Noun	-ko	suffix		and so the north wind then knew	16	north	n	sanzako	North Wind and the Sun story	20200306
+00:01:03.891	00:01:04.608								and so the north wind then knew	16	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:01:03.891	00:01:04.249	ka-	SEQ		Attaches to any category	ka-	prefix		and so the north wind then knew	16	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:01:04.249	00:01:04.608	itcha	3.F.Pl.SUBJ.POST		<Not Sure>	itcha	stem		and so the north wind then knew	16	3.F.Pl.SUBJ.POST		kitcha	North Wind and the Sun story	20200306
+00:01:04.608	00:01:05.325	tethao	know		v	tethao	root		and so the north wind then knew	16		v	tethao	North Wind and the Sun story	20200306
+00:01:05.390	00:01:05.953	isho	sun		n	isho	root		the sun had the most strength among them	17			ishoko		
+00:01:05.953	00:01:06.516	-ko	F.SG		Noun	-ko	suffix		the sun had the most strength among them	17			ishoko		
+00:01:06.516	00:01:07.643								the sun had the most strength among them	17	strength	n	urubitieakwa		
+00:01:06.516	00:01:06.891	uru	strength		n	uru	stem		the sun had the most strength among them	17	strength	n	urubitieakwa		
+00:01:06.891	00:01:07.267	-bite	F.Pl.Assoc		Attaches to any category	-bitie	suffix	+unspec. var. of	the sun had the most strength among them	17	strength	n	urubitieakwa		
+00:01:07.267	00:01:07.643	-akwa	3.SG.F.SBJ.POST		Attaches to any category	-akwa	suffix		the sun had the most strength among them	17	strength	n	urubitieakwa		
+00:01:07.643	00:01:08.769	paana	a.lot		<Not Sure>	paana	stem		the sun had the most strength among them	17	a.lot		paana		
+00:01:08.769	00:01:09.896								the sun had the most strength among them	17	middle		xhaanayeta		
+00:01:08.769	00:01:09.144	xhaa	middle		<Not Sure>	xhaa	stem		the sun had the most strength among them	17	middle		xhaanayeta		
+00:01:09.144	00:01:09.520	-na	3.M.SG.OBJ	1	Attaches to any category	-na	suffix		the sun had the most strength among them	17	middle		xhaanayeta		
+00:01:09.520	00:01:09.896	-yeta	3.PL.F.POSS		Attaches to any category	-yeta	suffix		the sun had the most strength among them	17	middle		xhaanayeta		
+00:00:00.000	00:01:06.582													North Wind and the Sun story	20200306

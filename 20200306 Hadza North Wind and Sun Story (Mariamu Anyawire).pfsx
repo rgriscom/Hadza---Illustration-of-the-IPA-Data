@@ -31,10 +31,13 @@
         <Int>6</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>30980</Long>
+        <Long>70160</Long>
+    </pref>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>187.1345</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
-        <Int>2</Int>
+        <Int>1</Int>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="Translation">
@@ -101,7 +104,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">1920,0</Object>
+        <Object class="java.awt.Point">1818,27</Object>
+    </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>187.1345</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <prefList key="TranscriptionTable.ColumnTypes">
@@ -111,14 +117,17 @@
         <String>Transcription</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>29270</Long>
+        <Long>65390</Long>
+    </pref>
+    <pref key="TM.SignalViewer.ZoomLevel">
+        <Float>5.0</Float>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///Users/andrew_covid-19/Desktop/Hadza IPA/20200306 Hadza North Wind and Sun Story (Mariamu Anyawire).wav</String>
+            <String>///home/richard/Dropbox/GitHub Repos/MEDIA/Hadza - Illustration of the IPA/North Wind and the Sun Story/20200306 Hadza North Wind and Sun Story (Mariamu Anyawire).wav</String>
         </pref>
     </prefGroup>
     <pref key="MediaControlRate">
@@ -133,10 +142,10 @@
         </prefList>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>15440</Long>
+        <Long>63526</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>29294</Long>
+        <Long>65390</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="REF-ID">
@@ -153,7 +162,7 @@
         <String>REF-ID</String>
     </pref>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>1</Int>
+        <Int>70</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>
