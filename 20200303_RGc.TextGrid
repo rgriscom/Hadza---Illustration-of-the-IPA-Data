@@ -278,78 +278,78 @@ item []:
             text = "20200303_RGc__mono__33"
         intervals [67]:
             xmin = 462.56736404242184
-            xmax = 480.4150833503043
+            xmax = 468.94720474552537
             text = ""
         intervals [68]:
-            xmin = 480.4150833503043
-            xmax = 484.15498996936503
+            xmin = 468.94720474552537
+            xmax = 474.9970536881236
             text = "20200303_RGc__mono__34"
         intervals [69]:
+            xmin = 474.9970536881236
+            xmax = 480.4150833503043
+            text = ""
+        intervals [70]:
+            xmin = 480.4150833503043
+            xmax = 484.15498996936503
+            text = "20200303_RGc__mono__35"
+        intervals [71]:
             xmin = 484.15498996936503
             xmax = 489.11393563690183
             text = ""
-        intervals [70]:
+        intervals [72]:
             xmin = 489.11393563690183
             xmax = 495.220635123757
-            text = "20200303_RGc__mono__35"
-        intervals [71]:
+            text = "20200303_RGc__mono__36"
+        intervals [73]:
             xmin = 495.220635123757
             xmax = 500.9271791504778
             text = ""
-        intervals [72]:
+        intervals [74]:
             xmin = 500.9271791504778
             xmax = 504.6021689614296
-            text = "20200303_RGc__mono__36"
-        intervals [73]:
+            text = "20200303_RGc__mono__37"
+        intervals [75]:
             xmin = 504.6021689614296
             xmax = 510.54431666570486
             text = ""
-        intervals [74]:
+        intervals [76]:
             xmin = 510.54431666570486
             xmax = 516.5456324867868
-            text = "20200303_RGc__mono__37"
-        intervals [75]:
+            text = "20200303_RGc__mono__38"
+        intervals [77]:
             xmin = 516.5456324867868
             xmax = 525.1571757751365
             text = ""
-        intervals [76]:
+        intervals [78]:
             xmin = 525.1571757751365
             xmax = 529.1612691512481
-            text = "20200303_RGc__mono__38"
-        intervals [77]:
+            text = "20200303_RGc__mono__39"
+        intervals [79]:
             xmin = 529.1612691512481
             xmax = 534.9320824057382
             text = ""
-        intervals [78]:
+        intervals [80]:
             xmin = 534.9320824057382
             xmax = 541.3861689891511
-            text = "20200303_RGc__mono__39"
-        intervals [79]:
+            text = "20200303_RGc__mono__40"
+        intervals [81]:
             xmin = 541.3861689891511
             xmax = 548.0048073551438
             text = ""
-        intervals [80]:
+        intervals [82]:
             xmin = 548.0048073551438
             xmax = 551.1861418183558
-            text = "20200303_RGc__mono__40"
-        intervals [81]:
+            text = "20200303_RGc__mono__41"
+        intervals [83]:
             xmin = 551.1861418183558
             xmax = 556.342097672527
             text = ""
-        intervals [82]:
+        intervals [84]:
             xmin = 556.342097672527
             xmax = 561.9917088744379
-            text = "20200303_RGc__mono__41"
-        intervals [83]:
-            xmin = 561.9917088744379
-            xmax = 570.8754467120182
-            text = ""
-        intervals [84]:
-            xmin = 570.8754467120182
-            xmax = 571.1314467120181
             text = "20200303_RGc__mono__42"
         intervals [85]:
-            xmin = 571.1314467120181
+            xmin = 561.9917088744379
             xmax = 577.7436922513725
             text = ""
         intervals [86]:
@@ -1824,78 +1824,78 @@ item []:
             text = "maji"
         intervals [67]:
             xmin = 462.56736404242184
-            xmax = 480.4150833503043
+            xmax = 468.94720474552537
             text = ""
         intervals [68]:
-            xmin = 480.4150833503043
-            xmax = 484.15498996936503
+            xmin = 468.94720474552537
+            xmax = 474.9970536881236
             text = "niliona maji kule"
         intervals [69]:
+            xmin = 474.9970536881236
+            xmax = 480.4150833503043
+            text = ""
+        intervals [70]:
+            xmin = 480.4150833503043
+            xmax = 484.15498996936503
+            text = "chumvi"
+        intervals [71]:
             xmin = 484.15498996936503
             xmax = 489.11393563690183
             text = ""
-        intervals [70]:
+        intervals [72]:
             xmin = 489.11393563690183
             xmax = 495.220635123757
-            text = "chumvi"
-        intervals [71]:
+            text = "niliona chumvi kule"
+        intervals [73]:
             xmin = 495.220635123757
             xmax = 500.9271791504778
             text = ""
-        intervals [72]:
+        intervals [74]:
             xmin = 500.9271791504778
             xmax = 504.6021689614296
-            text = "niliona chumvi kule"
-        intervals [73]:
+            text = "jiwe"
+        intervals [75]:
             xmin = 504.6021689614296
             xmax = 510.54431666570486
             text = ""
-        intervals [74]:
+        intervals [76]:
             xmin = 510.54431666570486
             xmax = 516.5456324867868
-            text = "jiwe"
-        intervals [75]:
+            text = "niliona jiwe kule"
+        intervals [77]:
             xmin = 516.5456324867868
             xmax = 525.1571757751365
             text = ""
-        intervals [76]:
+        intervals [78]:
             xmin = 525.1571757751365
             xmax = 529.1612691512481
-            text = "niliona jiwe kule"
-        intervals [77]:
+            text = "upepo"
+        intervals [79]:
             xmin = 529.1612691512481
             xmax = 534.9320824057382
             text = ""
-        intervals [78]:
+        intervals [80]:
             xmin = 534.9320824057382
             xmax = 541.3861689891511
-            text = "upepo"
-        intervals [79]:
+            text = "niliona upepo kule"
+        intervals [81]:
             xmin = 541.3861689891511
             xmax = 548.0048073551438
             text = ""
-        intervals [80]:
+        intervals [82]:
             xmin = 548.0048073551438
             xmax = 551.1861418183558
-            text = "niliona upepo kule"
-        intervals [81]:
+            text = "moto"
+        intervals [83]:
             xmin = 551.1861418183558
             xmax = 556.342097672527
             text = ""
-        intervals [82]:
+        intervals [84]:
             xmin = 556.342097672527
             xmax = 561.9917088744379
-            text = "moto"
-        intervals [83]:
-            xmin = 561.9917088744379
-            xmax = 570.8754467120182
-            text = ""
-        intervals [84]:
-            xmin = 570.8754467120182
-            xmax = 571.1314467120181
             text = "niliona moto kule"
         intervals [85]:
-            xmin = 571.1314467120181
+            xmin = 561.9917088744379
             xmax = 577.7436922513725
             text = ""
         intervals [86]:
@@ -2501,7 +2501,7 @@ item []:
         intervals [236]:
             xmin = 1541.5628321838076
             xmax = 1548.5493271951923
-            text = ""
+            text = "nilimwona kike kule"
         intervals [237]:
             xmin = 1548.5493271951923
             xmax = 1556.1267336249032
@@ -3370,78 +3370,78 @@ item []:
             text = "water"
         intervals [67]:
             xmin = 462.56736404242184
-            xmax = 480.4150833503043
+            xmax = 468.94720474552537
             text = ""
         intervals [68]:
-            xmin = 480.4150833503043
-            xmax = 484.15498996936503
+            xmin = 468.94720474552537
+            xmax = 474.9970536881236
             text = "I saw water there"
         intervals [69]:
+            xmin = 474.9970536881236
+            xmax = 480.4150833503043
+            text = ""
+        intervals [70]:
+            xmin = 480.4150833503043
+            xmax = 484.15498996936503
+            text = "salt"
+        intervals [71]:
             xmin = 484.15498996936503
             xmax = 489.11393563690183
             text = ""
-        intervals [70]:
+        intervals [72]:
             xmin = 489.11393563690183
             xmax = 495.220635123757
-            text = "salt"
-        intervals [71]:
+            text = "I saw salt there"
+        intervals [73]:
             xmin = 495.220635123757
             xmax = 500.9271791504778
             text = ""
-        intervals [72]:
+        intervals [74]:
             xmin = 500.9271791504778
             xmax = 504.6021689614296
-            text = "I saw salt there"
-        intervals [73]:
+            text = "stone"
+        intervals [75]:
             xmin = 504.6021689614296
             xmax = 510.54431666570486
             text = ""
-        intervals [74]:
+        intervals [76]:
             xmin = 510.54431666570486
             xmax = 516.5456324867868
-            text = "stone"
-        intervals [75]:
+            text = "I saw a rock there"
+        intervals [77]:
             xmin = 516.5456324867868
             xmax = 525.1571757751365
             text = ""
-        intervals [76]:
+        intervals [78]:
             xmin = 525.1571757751365
             xmax = 529.1612691512481
-            text = "I saw a rock there"
-        intervals [77]:
+            text = "wind"
+        intervals [79]:
             xmin = 529.1612691512481
             xmax = 534.9320824057382
             text = ""
-        intervals [78]:
+        intervals [80]:
             xmin = 534.9320824057382
             xmax = 541.3861689891511
-            text = "wind"
-        intervals [79]:
+            text = "I saw wind there"
+        intervals [81]:
             xmin = 541.3861689891511
             xmax = 548.0048073551438
             text = ""
-        intervals [80]:
+        intervals [82]:
             xmin = 548.0048073551438
             xmax = 551.1861418183558
-            text = "I saw wind there"
-        intervals [81]:
+            text = "fire"
+        intervals [83]:
             xmin = 551.1861418183558
             xmax = 556.342097672527
             text = ""
-        intervals [82]:
+        intervals [84]:
             xmin = 556.342097672527
             xmax = 561.9917088744379
-            text = "fire"
-        intervals [83]:
-            xmin = 561.9917088744379
-            xmax = 570.8754467120182
-            text = ""
-        intervals [84]:
-            xmin = 570.8754467120182
-            xmax = 571.1314467120181
             text = "I saw a fire there"
         intervals [85]:
-            xmin = 571.1314467120181
+            xmin = 561.9917088744379
             xmax = 577.7436922513725
             text = ""
         intervals [86]:
@@ -4916,78 +4916,78 @@ item []:
             text = "atipii"
         intervals [67]:
             xmin = 462.56736404242184
-            xmax = 480.4150833503043
+            xmax = 468.94720474552537
             text = ""
         intervals [68]:
-            xmin = 480.4150833503043
-            xmax = 484.15498996936503
+            xmin = 468.94720474552537
+            xmax = 474.9970536881236
             text = "citchanaa atibii nana"
         intervals [69]:
+            xmin = 474.9970536881236
+            xmax = 480.4150833503043
+            text = ""
+        intervals [70]:
+            xmin = 480.4150833503043
+            xmax = 484.15498996936503
+            text = "monyoda:"
+        intervals [71]:
             xmin = 484.15498996936503
             xmax = 489.11393563690183
             text = ""
-        intervals [70]:
+        intervals [72]:
             xmin = 489.11393563690183
             xmax = 495.220635123757
-            text = "monyoda:"
-        intervals [71]:
+            text = "ciyanaa monyoda nana"
+        intervals [73]:
             xmin = 495.220635123757
             xmax = 500.9271791504778
             text = ""
-        intervals [72]:
+        intervals [74]:
             xmin = 500.9271791504778
             xmax = 504.6021689614296
-            text = "ciyanaa monyoda nana"
-        intervals [73]:
+            text = "haqqa:ko"
+        intervals [75]:
             xmin = 504.6021689614296
             xmax = 510.54431666570486
             text = ""
-        intervals [74]:
+        intervals [76]:
             xmin = 510.54431666570486
             xmax = 516.5456324867868
-            text = "haqqa:ko"
-        intervals [75]:
+            text = "citanaa haqqako nana"
+        intervals [77]:
             xmin = 516.5456324867868
             xmax = 525.1571757751365
             text = ""
-        intervals [76]:
+        intervals [78]:
             xmin = 525.1571757751365
             xmax = 529.1612691512481
-            text = "citanaa haqqako nana"
-        intervals [77]:
+            text = "tsutchipii"
+        intervals [79]:
             xmin = 529.1612691512481
             xmax = 534.9320824057382
             text = ""
-        intervals [78]:
+        intervals [80]:
             xmin = 534.9320824057382
             xmax = 541.3861689891511
-            text = "tsutchipii"
-        intervals [79]:
+            text = "citchanaa tsutchibii nana"
+        intervals [81]:
             xmin = 541.3861689891511
             xmax = 548.0048073551438
             text = ""
-        intervals [80]:
+        intervals [82]:
             xmin = 548.0048073551438
             xmax = 551.1861418183558
-            text = "citchanaa tsutchibii nana"
-        intervals [81]:
+            text = "zzokowa"
+        intervals [83]:
             xmin = 551.1861418183558
             xmax = 556.342097672527
             text = ""
-        intervals [82]:
+        intervals [84]:
             xmin = 556.342097672527
             xmax = 561.9917088744379
-            text = "zzokowa"
-        intervals [83]:
-            xmin = 561.9917088744379
-            xmax = 570.8754467120182
-            text = ""
-        intervals [84]:
-            xmin = 570.8754467120182
-            xmax = 571.1314467120181
             text = "ciyanaa zzoko nana"
         intervals [85]:
-            xmin = 571.1314467120181
+            xmin = 561.9917088744379
             xmax = 577.7436922513725
             text = ""
         intervals [86]:
